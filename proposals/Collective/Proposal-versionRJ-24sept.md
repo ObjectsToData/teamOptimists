@@ -5,7 +5,7 @@ This is what I got from today, focussed on the concrete.
 ## Representation of country's by images in the New York Times
 
 ### Question:
-Does a plot of images about a certain subjects over country's say something interesting?
+Does a geographic plot of images from the New York Times connected to certain subjects say something interesting?
 
 ### Value:
 Very important.
