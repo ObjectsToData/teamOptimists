@@ -8,8 +8,8 @@ Team Optimists
 
 ## Research Question
 
-Are there changes in how the Humanities have been portrayed trough images over time? Can we recognise patterns in there?
-
+Are there changes in how the Humanities have been portrayed trough images over time? -Can we recognise patterns in there?
+-
 ## Value of the data
 
 Our question is based on the dataset and the possibilities it gives us. We hope that the data presents us with patterns that we can exploit for our question. The NYT is very appropriate for this because this because it has digitised everything and goes back over the whole history of photography.

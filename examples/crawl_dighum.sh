@@ -5,7 +5,7 @@ baseurl="http://api.nytimes.com/svc/search/v2/articlesearch.json"
 # which you can get by registering on the NY Times developer 
 # web site: http://developer.nytimes.com/
 key="60b4b3ab2322ca40d4cb413c571d5c98:3:69789701"
-query="Adorno"
+query="jpg"
 page=0
 
 # construct the complete request
