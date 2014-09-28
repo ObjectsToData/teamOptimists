@@ -15,7 +15,7 @@ We hope to find a pattern in the images with the online articles. In order to lo
 ## Method
 
 ### Abstract
-Compare images of first world countries (like USA and The Netherlands etc.) with third world countries by their geolocation tags and look for patterns.
+Correlate images of first world countries (like USA and The Netherlands etc.) with third world countries by their geolocation tags and look for patterns.
 
 ### Concrete
 
@@ -56,3 +56,5 @@ Example of a geolocation keyword:
 Yet the geolocation of the image is not always given, there is some inconsistency in this. However, if we enlarge our scope we should find enough glocations to make a first script. 
 
 We expect that the use of images with the articles online is more minimal than we are used to in paper, and therefore they might be simplified. We are expecting the images to be used as stereotypes rather than types, as this allows the images to display 'the Other' as someone exclusive to the societies norms and values. 
+
+We also established that politics might be interesting to use as subject in order to get some common ground in the images. 
