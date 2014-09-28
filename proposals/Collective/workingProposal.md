@@ -22,7 +22,8 @@ We want to correlate images of first world countries (like USA and The Netherlan
 3. Next we will need to pull the images from the url's in the dataset and store those locally.
 
 **Visualizing:**
-In this step we are considering to break the group in half. That way we could interpret the results in two different visualizations. One group, for instance, could focus on the geolocations, while the other group focuses on another plot, time, color or basic composition for instance. We will undertake te following for creating the geographic plot:
+In this step we are considering to break the group in half. That way we could interpret the results in two different visualizations. One group, for instance, could focus on the geolocations, while the other group focuses on another plot, time, color or basic composition for instance. The second visuealization (not in ordder of importance) zould substantiates the other visualization. Meaning the time-visualization could explain why we have chosen to visualize a certain year in the map-visualization. 
+We will undertake te following for creating the geographic plot:
 
 1. Combine the country's geolocation information with the images local source locations in one csv file.
 2. Transform the geolocation information to valid plotting locations for each image. Interesting step, but also the most mathematical one. It's probably done before many times before though, so we can steal it.
