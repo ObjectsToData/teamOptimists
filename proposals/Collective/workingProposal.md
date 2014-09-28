@@ -36,7 +36,7 @@ We are creating a visualization that, we hope, will give a new insight. The last
 
 From previous explorations on the dataset we found that the use of images in the online articles of the NYT is a bit minimal at times. Mostly the pictures from the Humanities dataset include faces. 
 
-We already explored the set using jq. This yielded us the geolocation tags. They are part of the keywords. They can be accessed using the following command:
+We already explored the set using jq. This yielded us the geolocation tags. They are part of the keywords and can be accessed using the following command:
 
 	jq '.docs[].keywords[]' nytimes_humanities_pretty.json
 
