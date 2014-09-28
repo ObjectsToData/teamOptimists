@@ -3,14 +3,13 @@
 ## Introduction
 
 **Research Question:**
-How does the American newspaper *The New York Times* stereotype third world countries (like Iraq, Somalia and Bhirma etc,) through images in contemporary society in comparison to first world countries?
+How does the American newspaper *The New York Times* represent third world countries (like Iraq, Somalia and Bhirma etc,) through images in contemporary society in comparison to first world countries (like the United States and other Western countries)?
 
 **Product:**
-We hope to find a pattern in the images with the online articles. In order to look for patterns we will visualize the images on a geographical map (interface).
+We hope to find a pattern in the images accompanying the online articles. In order to look for patterns we will visualize the images on a geographical map (interface).
 
 **Theoretical Framework:**
-- Digital Humanities
-- Stuart Hall (Stereotype)
+We would like to use the bigger context of Digital Humanities as a foundation for our research and interpretation of our objects of study(data). We believe that our findings will lean towards subjective representation of the portraid countries. Therefore we could make use of texts from the discipline of Cultural Studies (Stuart Hall, Edward Said, etc.). 
 
 ## Method
 
@@ -23,7 +22,7 @@ We want to correlate images of first world countries (like USA and The Netherlan
 3. Next we will need to pull the images from the url's in the dataset and store those locally.
 
 **Visualizing:**
-In this step we are considering to break the group in half. That way we could interpret the results in two different visualizations. One group, for instance, could focus on the geolocations, while the other group has a focuses on another plot, time, color or basic composition for instance. The following would be true for creating the geographic plot:
+In this step we are considering to break the group in half. That way we could interpret the results in two different visualizations. One group, for instance, could focus on the geolocations, while the other group focuses on another plot, time, color or basic composition for instance. We will undertake te following for creating the geographic plot:
 
 1. Combine the country's geolocation information with the images local source locations in one csv file.
 2. Transform the geolocation information to valid plotting locations for each image. Interesting step, but also the most mathematical one. It's probably done before many times before though, so we can steal it.
