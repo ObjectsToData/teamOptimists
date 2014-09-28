@@ -21,12 +21,12 @@ Correlate images of first world countries (like USA and The Netherlands etc.) wi
 
 **Data Retrieval & Parsing:**
 
-1. Filtering: Defining search query, define list of countries (preferably with geolocation boundaries) and a meaningful theme to narrow it down  and increase the likelihood of meaningful hits. Use these country's as search query + a subject. 
-2. Parsing: as the NYT sets clear limits on data retrieval we already need to parse the data while retrieving it. We will need to write a loop to make sure we stop requesting after the first 100 proper hits. We need to check wether the hit has both an image and a geotag. 
+1. Filtering: define a list of countries (preferably with geolocation boundaries) together with a meaningful theme to narrow it down and increase the likelihood of meaningful hits. These will be used as the search query. 
+2. Parsing: as the NYT sets clear limits on data retrieval we already need to parse the data while retrieving it. It's nececairy to write a loop to make sure we stop requesting after the first 100 proper hits. The hit should include both an image and a geotag. 
 3. Next we will need to pull the images from the url's in the dataset and store those locally.
 
 **Visualizing:**
-In this step we are considering to break the group in half. That way we could interpret the results in two different visualizations. One group, for instance, could focus on the geolocations, while the other group has a focuses on another plot, time for instance.
+In this step we are considering to break the group in half. That way we could interpret the results in two different visualizations. One group, for instance, could focus on the geolocations, while the other group has a focuses on another plot, time, color or basic composition for instance. The following would be true for creating the geographic plot:
 
 1. Combine the country's geolocation information with the images local source locations in one csv file.
 2. Transform the geolocation information to valid plotting locations for each image. Interesting step, but also the most mathematical one. It's probably done before many times before though, so we can steal it.
