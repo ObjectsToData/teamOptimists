@@ -44,6 +44,7 @@ We already explored the set using jq. This yielded us the geolocation tags. They
 	jq '.docs[].keywords[]' nytimes_humanities_pretty.json
 
 Example of a geolocation keyword: 
+	
 	keywords : 
 		[ ...
 		],
