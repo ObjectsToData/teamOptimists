@@ -22,7 +22,7 @@ Correlate images of first world countries (like USA and The Netherlands etc.) wi
 **Data Retrieval & Parsing:**
 
 1. Filtering: define a list of countries (preferably with geolocation boundaries) together with a meaningful theme to narrow it down and increase the likelihood of meaningful hits. These will be used as the search query. 
-2. Parsing: as the NYT sets clear limits on data retrieval we already need to parse the data while retrieving it. It's nececairy to write a loop to make sure we stop requesting after the first 100 proper hits. The hit should include both an image and a geotag. 
+2. Parsing: as the NYT sets clear limits on data retrieval we already need to parse the data while retrieving it. It's necessary to write a loop to make sure we stop requesting after the first 100 proper hits. The hit should include both an image and a geotag. 
 3. Next we will need to pull the images from the url's in the dataset and store those locally.
 
 **Visualizing:**
