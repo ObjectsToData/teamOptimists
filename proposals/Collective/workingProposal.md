@@ -14,10 +14,7 @@ We hope to find a pattern in the images with the online articles. In order to lo
 
 ## Method
 
-### Abstract
-Correlate images of first world countries (like USA and The Netherlands etc.) with third world countries by their geolocation tags and look for patterns.
-
-### Concrete
+Correlate images of first world countries (like USA and The Netherlands etc.) with third world countries by their geolocation tags and look for patterns. This we hope to achieve by the following steps:
 
 **Data Retrieval & Parsing:**
 
