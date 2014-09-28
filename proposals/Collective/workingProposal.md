@@ -13,7 +13,7 @@ We would like to use the bigger context of Digital Humanities as a foundation fo
 
 ## Method
 
-We want to correlate images of first world countries (like USA and The Netherlands etc.) with third world countries by their geolocation tags, visualize them, and look for patterns. For this the following steps will be taken:
+We want to correlate images of first world countries with third world countries by their geolocation tags, time, visualize them, and look for patterns. For this the following steps will be taken:
 
 **Data Retrieval & Parsing:**
 
