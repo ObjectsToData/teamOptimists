@@ -1,7 +1,7 @@
 Reserach Question
 =================
 
-How does the American newspaper *The New York Times* represent third world
+How does the American newspaper *The New York Times* stereotype third world
 countries(like Iraque, Somalia and Bhirma etc,) through images in contemporary
 society in comparison to first world countries?
 
@@ -14,8 +14,6 @@ Correlate different images on geolocations tags with the images of first world
 countries(like USA and The Netherlands etc.) and look for patterns.
 
 \* Subject Politics 650.000 —\> specify Dataset
-
-\* Geolocation -Parsen te inconsequently filed
 
 \* body- by lone - Title -\> Search for Country
 
@@ -31,19 +29,37 @@ Theoretical Framework
 ======================
 
 -   Digital Humanities
-
 -   Stuart Hall (Stereotype)
+
+From previous explorations on the dataset we found that the use of images in the online articles of the NYtimes is a bit minimal at times. Mostly the pictures from the Humanities dataset include faces. 
+
+Also the glocation of the image is not always given, there is some inconsistency in this. However, if we enlarge our scope we should find enough glocations to make a first script. 
+
+We expect that the use of images with the articles online is more minimal than we are used to in paper, and therfore they might be simplified. We are expecting the images to be used as stereotypes rather than types, as this allows the images to display 'the Other' as someone exclusive to the societies norms and values. 
 
 
 
 Research Product
 ================
+We hope to find a pattern in the images with the online articles. 
+In order to look for patterns in the image we will visualize the images on a geographical map (interface).
 
-Data visualisation of image clusters on a geographical map (interface)
 
-
-
-Experimented Scripts
+Method
 ====================
 
-Sunday 28/9/2014
+Finding the categories of the keywords used to describe the image: 
+jq '.docs[].keywords[].name' nytimes_humanities_pretty.json > ../keywordsName.json
+In this step we are also considering to break the group in half. That way we could Interpret the results in two different visualising ways. One group, for instance, could focus on the geographic location, while the other group has a focus on color, time etc
+
+    Keywords example of glocation: 
+      "name": "glocations",
+       "value": "GREAT BRITAIN"
+
+Use parsing to extract all images from the NY Times as awell as the keywords with glocations and the following columns: time and color and compositions. Composition means here: is it a portrait or a landscape photo. 
+
+Split the dataset again: the comparison is between first world countries and third world countries.
+
+Visualize the spread of the images per country for each dataset, and look for patterns in the representation. In this step we are also considering to break the group in half. That way we could Interpret the results in two different visualising ways. One group, for instance, could focus on the geographic location, while the other group has a focus on color, time etc
+
+We will need to do some sample selection of the photos to interpret their composition. Color, time and glocations are done using automated techniques. 
