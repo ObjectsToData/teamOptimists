@@ -1,4 +1,4 @@
-# Working Proposal - Team Optimists
+# Preliminary Research Proposal - Team Optimists
 
 ## Introduction
 
