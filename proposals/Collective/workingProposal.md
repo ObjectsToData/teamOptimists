@@ -2,13 +2,13 @@
 
 ## Research
 
-**Question**
+**Question:**
 How does the American newspaper *The New York Times* stereotype third world countries (like Iraq, Somalia and Bhirma etc,) through images in contemporary society in comparison to first world countries?
 
-**Product**
+**Product:**
 We hope to find a pattern in the images with the online articles. In order to look for patterns in the image we will visualize the images on a geographical map (interface).
 
-**Theoretical Framework**
+**Theoretical Framework:**
 - Digital Humanities
 - Stuart Hall (Stereotype)
 
@@ -21,11 +21,7 @@ Compare images of first world countries (like USA and The Netherlands etc.) with
 
 **Data Retrieval & Parsing:**
 1. Filtering: Defining search query, define list of countries (preferably with geolocation boundaries) and a meaningful theme to narrow it down  and increase the likelihood of meaningful hits. Use these country's as search query + a subject. 
-
 2. Parsing: as the NYT sets clear limits on data retrieval we already need to parse the data while retrieving it. We will need to write a loop to make sure we stop requesting after the first 100 proper hits. We need to check wether the hit has both an image and a geotag. 
-
-The expectation is that it will take about 1000 hits to get 100 images. 10000 is the maximum we can pull, so we'll be able to do about 10 country's/day/account.
-
 3. Next we will need to pull the images from the url's in the dataset and store those locally.
 
 **Visualizing:**
