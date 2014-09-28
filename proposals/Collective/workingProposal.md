@@ -44,8 +44,13 @@ We already explored the set using jq. This yielded us the geolocation tags. They
 	jq '.docs[].keywords[]' nytimes_humanities_pretty.json
 
 Example of a geolocation keyword: 
-	"name": "glocations",
-	"value": "GREAT BRITAIN"
+	keywords : 
+		[ ...
+		],
+		[
+			"name": "glocations",
+			"value": "GREAT BRITAIN"
+		]
 
 Yet the geolocation of the image is not always given, there is some inconsistency in this. However, if we enlarge our scope we should find enough glocations to make a first script. 
 
