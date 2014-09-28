@@ -1,8 +1,8 @@
 # Working Proposal - Team Optimists
 
-## Research
+## Introduction
 
-**Question:**
+**Research Question:**
 How does the American newspaper *The New York Times* stereotype third world countries (like Iraq, Somalia and Bhirma etc,) through images in contemporary society in comparison to first world countries?
 
 **Product:**
@@ -14,7 +14,7 @@ We hope to find a pattern in the images with the online articles. In order to lo
 
 ## Method
 
-Correlate images of first world countries (like USA and The Netherlands etc.) with third world countries by their geolocation tags and look for patterns. This we hope to achieve by the following steps:
+We want to correlate images of first world countries (like USA and The Netherlands etc.) with third world countries by their geolocation tags and look for patterns. For this the following steps will be taken:
 
 **Data Retrieval & Parsing:**
 
