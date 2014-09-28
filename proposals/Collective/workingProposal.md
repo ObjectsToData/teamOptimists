@@ -6,7 +6,7 @@
 How does the American newspaper *The New York Times* stereotype third world countries (like Iraq, Somalia and Bhirma etc,) through images in contemporary society in comparison to first world countries?
 
 **Product:**
-We hope to find a pattern in the images with the online articles. In order to look for patterns in the image we will visualize the images on a geographical map (interface).
+We hope to find a pattern in the images with the online articles. In order to look for patterns we will visualize the images on a geographical map (interface).
 
 **Theoretical Framework:**
 - Digital Humanities
@@ -14,7 +14,7 @@ We hope to find a pattern in the images with the online articles. In order to lo
 
 ## Method
 
-We want to correlate images of first world countries (like USA and The Netherlands etc.) with third world countries by their geolocation tags and look for patterns. For this the following steps will be taken:
+We want to correlate images of first world countries (like USA and The Netherlands etc.) with third world countries by their geolocation tags, visualize them, and look for patterns. For this the following steps will be taken:
 
 **Data Retrieval & Parsing:**
 
