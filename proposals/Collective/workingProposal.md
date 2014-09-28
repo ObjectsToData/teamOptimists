@@ -54,4 +54,4 @@ Yet the geolocation of the image is not always given, there is some inconsistenc
 
 We expect that the use of images with the articles online is more minimal than we are used to in paper, and therefore they might be simplified. We are expecting the images to be used as stereotypes rather than types, as this allows the images to display 'the Other' as someone exclusive to the societies norms and values. 
 
-We also established that politics might be interesting to use as subject in order to get some common ground in the images. 
+We also established that politics might be interesting to use as subject in order to get some common ground in the images. Only the country seemed quite minimal to us.
