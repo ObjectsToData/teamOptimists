@@ -3,7 +3,7 @@
 ## Introduction
 
 **Research Question:**
-How does the American newspaper *The New York Times* represent third world countries (like Iraq, Somalia and Bhirma etc,) through images in contemporary society in comparison to first world countries (like the United States and other Western countries)?
+How does the American newspaper *The New York Times* represent third world countries (like Iraq, Somalia and Birma etc,) through images in contemporary society in comparison to first world countries (like the United States and other Western countries)?
 
 **Product:**
 We hope to find a pattern in the images accompanying the online articles. In order to look for patterns we will visualize the images on a geographical map (interface).
@@ -22,7 +22,7 @@ We want to correlate images of first world countries with third world countries 
 3. Next we will need to pull the images from the url's in the dataset and store those locally.
 
 **Visualizing:**
-In this step we are considering to break the group in half. That way we could interpret the results in two different visualizations. One group, for instance, could focus on the geolocations, while the other group focuses on another plot, time, color or basic composition for instance. The second visuealization (not in ordder of importance) zould substantiates the other visualization. Meaning the time-visualization could explain why we have chosen to visualize a certain year in the map-visualization. 
+In this step we are considering to break the group in half. That way we could interpret the results in two different visualizations. One group, for instance, could focus on the geolocations, while the other group focuses on another plot, time, color or basic composition for instance. The second visualization (not in order of importance) should substantiate the other visualization. Meaning the time-visualization could explain why we have chosen to visualize a certain year in the map-visualization. 
 We will undertake te following for creating the geographic plot:
 
 1. Combine the country's geolocation information with the images local source locations in one csv file.
