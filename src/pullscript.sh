@@ -10,16 +10,18 @@ page=0
 requestUrl="$baseurl?q=$query&api-key=$key&page=$page"
 
 # get first results page and extract total number of results/hits
-hits=`curl $requestUrl | jq '.response.meta.hits'`
+hits=`curl -s $requestUrl | jq '.response.meta.hits'`
 
 # The NY Times API returns 10 results per request
 # The number of hits divided by 10 gives the number
 # of requests we have to make to get all results
+
+imgRequest=100
 page=0
 totalcount=0
 
 # Iteratively download all the requests
-while [ $totalcount -lt 100 ]
+while [ $totalcount -lt $imgRequest ]
 do
 
 	# construct request URL while iterating over paging
@@ -28,10 +30,12 @@ do
 	# get results and extract individual article metadata
 	# from the response JSON
 
-	curl $requestUrl > temp.json
+	curl -s $requestUrl > temp.json
 	jq -c ".response.docs[].multimedia" temp.json > tempMulti.json
 	cat tempMulti.json | grep ".jpg" > tempMultiSeperated.json
 	count=`wc -l tempMultiSeperated.json | awk '{print $1}'`
+
+	jq -c ".response.docs[].multimedia"
 
 	let totalcount=$totalcount+$count
 	let page=$page+1
