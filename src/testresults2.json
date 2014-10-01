@@ -1,0 +1,123 @@
+{
+  "web_url": "http://www.nytimes.com/2014/09/15/arts/television/terror-at-the-mall-on-hbo-documents-an-attack-in-kenya.html",
+  "snippet": "Dan Reed’s documentary “Terror at the Mall” uses footage from security cameras and cellphones, as well as photographs, to document a Shabab attack on civilians in Kenya.",
+  "lead_paragraph": "Dan Reed’s documentary “Terror at the Mall” uses footage from security cameras and cellphones, as well as photographs, to document a Shabab attack on civilians in Kenya.",
+  "abstract": "Dan Reed television documentary Terror at the Mall, scheduled to appear on HBO, documents 2013 siege of Westgate shopping mall in Nairobi, Kenya, by Shabab militants.",
+  "print_page": null,
+  "blog": [],
+  "source": "The New York Times",
+  "multimedia": [
+    {
+      "width": 190,
+      "url": "images/2014/09/15/arts/MALLTERROR/MALLTERROR-thumbWide.jpg",
+      "height": 126,
+      "subtype": "wide",
+      "legacy": {
+        "wide": "images/2014/09/15/arts/MALLTERROR/MALLTERROR-thumbWide.jpg",
+        "wideheight": "126",
+        "widewidth": "190"
+      },
+      "type": "image"
+    },
+    {
+      "width": 600,
+      "url": "images/2014/09/15/arts/MALLTERROR/MALLTERROR-articleLarge.jpg",
+      "height": 337,
+      "subtype": "xlarge",
+      "legacy": {
+        "xlargewidth": "600",
+        "xlarge": "images/2014/09/15/arts/MALLTERROR/MALLTERROR-articleLarge.jpg",
+        "xlargeheight": "337"
+      },
+      "type": "image"
+    },
+    {
+      "width": 75,
+      "url": "images/2014/09/15/arts/MALLTERROR/MALLTERROR-thumbStandard.jpg",
+      "height": 75,
+      "subtype": "thumbnail",
+      "legacy": {
+        "thumbnailheight": "75",
+        "thumbnail": "images/2014/09/15/arts/MALLTERROR/MALLTERROR-thumbStandard.jpg",
+        "thumbnailwidth": "75"
+      },
+      "type": "image"
+    }
+  ],
+  "headline": {
+    "seo": "‘Terror at the Mall’ on HBO Documents an Attack in Kenya",
+    "main": "In This Horror Film, Blood Is All Too Real",
+    "print_headline": "In This Horror Film, Blood Is All Too Real"
+  },
+  "keywords": [
+    {
+      "rank": "1",
+      "is_major": "Y",
+      "name": "subject",
+      "value": "Television"
+    },
+    {
+      "rank": "2",
+      "is_major": "Y",
+      "name": "persons",
+      "value": "Reed, Dan (Director)"
+    },
+    {
+      "rank": "3",
+      "is_major": "Y",
+      "name": "subject",
+      "value": "Nairobi, Kenya, Westgate Mall Shootings (2013)"
+    },
+    {
+      "rank": "4",
+      "is_major": "N",
+      "name": "organizations",
+      "value": "Shabab"
+    },
+    {
+      "rank": "5",
+      "is_major": "N",
+      "name": "glocations",
+      "value": "Kenya"
+    },
+    {
+      "rank": "6",
+      "is_major": "N",
+      "name": "subject",
+      "value": "Terrorism"
+    },
+    {
+      "rank": "7",
+      "is_major": "N",
+      "name": "organizations",
+      "value": "Home Box Office"
+    },
+    {
+      "rank": "8",
+      "is_major": "Y",
+      "name": "creative_works",
+      "value": "Terror at the Mall (TV Program)"
+    }
+  ],
+  "pub_date": "2014-09-15T00:00:00Z",
+  "document_type": "article",
+  "news_desk": "Culture",
+  "section_name": "Arts",
+  "subsection_name": "Television",
+  "byline": {
+    "contributor": "",
+    "person": [
+      {
+        "organization": "",
+        "role": "reported",
+        "firstname": "Nicholas",
+        "rank": 1,
+        "lastname": "KULISH"
+      }
+    ],
+    "original": "By NICHOLAS KULISH"
+  },
+  "type_of_material": "News",
+  "_id": "5416036179881072eb9ef324",
+  "word_count": "813"
+}

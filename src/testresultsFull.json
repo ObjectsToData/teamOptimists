@@ -1,0 +1,659 @@
+{
+  "web_url": "http://www.nytimes.com/2014/09/22/travel/the-legacy-of-a-falling-spider.html",
+  "snippet": "A trip to Africa after ninth grade helped the Frugal Traveler cultivate a skill that would prove professionally useful years later.",
+  "lead_paragraph": "A trip to Africa after ninth grade helped the Frugal Traveler cultivate a skill that would prove professionally useful years later.",
+  "abstract": null,
+  "print_page": "",
+  "blog": [],
+  "source": "",
+  "multimedia": [
+    {
+      "width": 190,
+      "url": "images/2014/09/22/travel/22-frugal-top/22-frugal-top-thumbWide.jpg",
+      "height": 126,
+      "subtype": "wide",
+      "legacy": {
+        "wide": "images/2014/09/22/travel/22-frugal-top/22-frugal-top-thumbWide.jpg",
+        "wideheight": "126",
+        "widewidth": "190"
+      },
+      "type": "image"
+    },
+    {
+      "width": 600,
+      "url": "images/2014/09/22/travel/22-frugal-top/22-frugal-top-articleLarge.jpg",
+      "height": 402,
+      "subtype": "xlarge",
+      "legacy": {
+        "xlargewidth": "600",
+        "xlarge": "images/2014/09/22/travel/22-frugal-top/22-frugal-top-articleLarge.jpg",
+        "xlargeheight": "402"
+      },
+      "type": "image"
+    },
+    {
+      "width": 75,
+      "url": "images/2014/09/22/travel/22-frugal-top/22-frugal-top-thumbStandard.jpg",
+      "height": 75,
+      "subtype": "thumbnail",
+      "legacy": {
+        "thumbnailheight": "75",
+        "thumbnail": "images/2014/09/22/travel/22-frugal-top/22-frugal-top-thumbStandard.jpg",
+        "thumbnailwidth": "75"
+      },
+      "type": "image"
+    }
+  ],
+  "headline": {
+    "main": "The Legacy of a Falling Spider",
+    "content_kicker": "Frugal Traveler",
+    "kicker": "Frugal Traveler"
+  },
+  "keywords": [
+    {
+      "rank": "1",
+      "is_major": "N",
+      "name": "subject",
+      "value": "Travel and Vacations"
+    },
+    {
+      "rank": "2",
+      "is_major": "N",
+      "name": "glocations",
+      "value": "Kenya"
+    },
+    {
+      "rank": "3",
+      "is_major": "N",
+      "name": "subject",
+      "value": "Budget Travel"
+    }
+  ],
+  "pub_date": "2014-09-22T00:00:00Z",
+  "document_type": "article",
+  "news_desk": "Travel",
+  "section_name": "Travel",
+  "subsection_name": null,
+  "byline": {
+    "person": [
+      {
+        "organization": "",
+        "role": "reported",
+        "firstname": "Seth",
+        "rank": 1,
+        "lastname": "KUGEL"
+      }
+    ],
+    "original": "By SETH KUGEL"
+  },
+  "type_of_material": "News",
+  "_id": "542070fb7988104c4a501164",
+  "word_count": "1008"
+}
+{
+  "web_url": "http://www.nytimes.com/2014/09/15/arts/television/terror-at-the-mall-on-hbo-documents-an-attack-in-kenya.html",
+  "snippet": "Dan Reed’s documentary “Terror at the Mall” uses footage from security cameras and cellphones, as well as photographs, to document a Shabab attack on civilians in Kenya.",
+  "lead_paragraph": "Dan Reed’s documentary “Terror at the Mall” uses footage from security cameras and cellphones, as well as photographs, to document a Shabab attack on civilians in Kenya.",
+  "abstract": "Dan Reed television documentary Terror at the Mall, scheduled to appear on HBO, documents 2013 siege of Westgate shopping mall in Nairobi, Kenya, by Shabab militants.",
+  "print_page": null,
+  "blog": [],
+  "source": "The New York Times",
+  "multimedia": [
+    {
+      "width": 190,
+      "url": "images/2014/09/15/arts/MALLTERROR/MALLTERROR-thumbWide.jpg",
+      "height": 126,
+      "subtype": "wide",
+      "legacy": {
+        "wide": "images/2014/09/15/arts/MALLTERROR/MALLTERROR-thumbWide.jpg",
+        "wideheight": "126",
+        "widewidth": "190"
+      },
+      "type": "image"
+    },
+    {
+      "width": 600,
+      "url": "images/2014/09/15/arts/MALLTERROR/MALLTERROR-articleLarge.jpg",
+      "height": 337,
+      "subtype": "xlarge",
+      "legacy": {
+        "xlargewidth": "600",
+        "xlarge": "images/2014/09/15/arts/MALLTERROR/MALLTERROR-articleLarge.jpg",
+        "xlargeheight": "337"
+      },
+      "type": "image"
+    },
+    {
+      "width": 75,
+      "url": "images/2014/09/15/arts/MALLTERROR/MALLTERROR-thumbStandard.jpg",
+      "height": 75,
+      "subtype": "thumbnail",
+      "legacy": {
+        "thumbnailheight": "75",
+        "thumbnail": "images/2014/09/15/arts/MALLTERROR/MALLTERROR-thumbStandard.jpg",
+        "thumbnailwidth": "75"
+      },
+      "type": "image"
+    }
+  ],
+  "headline": {
+    "seo": "‘Terror at the Mall’ on HBO Documents an Attack in Kenya",
+    "main": "In This Horror Film, Blood Is All Too Real",
+    "print_headline": "In This Horror Film, Blood Is All Too Real"
+  },
+  "keywords": [
+    {
+      "rank": "1",
+      "is_major": "Y",
+      "name": "subject",
+      "value": "Television"
+    },
+    {
+      "rank": "2",
+      "is_major": "Y",
+      "name": "persons",
+      "value": "Reed, Dan (Director)"
+    },
+    {
+      "rank": "3",
+      "is_major": "Y",
+      "name": "subject",
+      "value": "Nairobi, Kenya, Westgate Mall Shootings (2013)"
+    },
+    {
+      "rank": "4",
+      "is_major": "N",
+      "name": "organizations",
+      "value": "Shabab"
+    },
+    {
+      "rank": "5",
+      "is_major": "N",
+      "name": "glocations",
+      "value": "Kenya"
+    },
+    {
+      "rank": "6",
+      "is_major": "N",
+      "name": "subject",
+      "value": "Terrorism"
+    },
+    {
+      "rank": "7",
+      "is_major": "N",
+      "name": "organizations",
+      "value": "Home Box Office"
+    },
+    {
+      "rank": "8",
+      "is_major": "Y",
+      "name": "creative_works",
+      "value": "Terror at the Mall (TV Program)"
+    }
+  ],
+  "pub_date": "2014-09-15T00:00:00Z",
+  "document_type": "article",
+  "news_desk": "Culture",
+  "section_name": "Arts",
+  "subsection_name": "Television",
+  "byline": {
+    "contributor": "",
+    "person": [
+      {
+        "organization": "",
+        "role": "reported",
+        "firstname": "Nicholas",
+        "rank": 1,
+        "lastname": "KULISH"
+      }
+    ],
+    "original": "By NICHOLAS KULISH"
+  },
+  "type_of_material": "News",
+  "_id": "5416036179881072eb9ef324",
+  "word_count": "813"
+}
+{
+  "web_url": "http://www.nytimes.com/2014/09/06/world/europe/hague-prosecutors-ask-to-delay-opening-of-kenyan-presidents-trial.html",
+  "snippet": "Prosecutors at the International Criminal Court in The Hague on Friday asked for another delay in starting the trial of President Uhuru Kenyatta of Kenya, saying that they could not proceed because the government had so far refused to hand over most...",
+  "lead_paragraph": "Prosecutors at the International Criminal Court in The Hague on Friday asked for another delay in starting the trial of President Uhuru Kenyatta of Kenya, saying that they could not proceed because the government had so far refused to hand over most of the information they had requested.",
+  "abstract": "International Criminal Court prosecutors in The Hague ask for another delay in starting trial of Kenyan Pres Uhuru Kenyatta, since the Kenyan government has so far refused to hand over most of information they have requested.",
+  "print_page": "5",
+  "blog": [],
+  "source": "The New York Times",
+  "multimedia": [],
+  "headline": {
+    "main": "Hague Prosecutors Ask to Delay Opening of Kenyan President’s Trial",
+    "content_kicker": "World Briefing | Europe",
+    "print_headline": "The Hague: Prosecutors Ask to Delay Opening of Kenyan President’s Trial"
+  },
+  "keywords": [
+    {
+      "rank": "1",
+      "is_major": "Y",
+      "name": "subject",
+      "value": "War Crimes, Genocide and Crimes Against Humanity"
+    },
+    {
+      "rank": "2",
+      "is_major": "Y",
+      "name": "organizations",
+      "value": "International Criminal Court"
+    },
+    {
+      "rank": "3",
+      "is_major": "Y",
+      "name": "persons",
+      "value": "Kenyatta, Uhuru Muigai"
+    },
+    {
+      "rank": "4",
+      "is_major": "Y",
+      "name": "glocations",
+      "value": "Kenya"
+    }
+  ],
+  "pub_date": "2014-09-06T00:00:00Z",
+  "document_type": "article",
+  "news_desk": "Foreign",
+  "section_name": "World",
+  "subsection_name": "Europe",
+  "byline": {
+    "contributor": "",
+    "person": [
+      {
+        "organization": "",
+        "role": "reported",
+        "firstname": "Marlise",
+        "rank": 1,
+        "lastname": "SIMONS"
+      }
+    ],
+    "original": "By MARLISE SIMONS"
+  },
+  "type_of_material": "Brief",
+  "_id": "540a6ef07988101836d96dd5",
+  "word_count": "133"
+}
+{
+  "web_url": "http://intransit.blogs.nytimes.com/2014/08/14/in-kenya-a-safari-program-for-kids/",
+  "snippet": "The WildChild program at &Beyond’s Kichwa Tembo Tented Camp in Kenya has a range of activities for children between the ages of 5 and 12.",
+  "lead_paragraph": null,
+  "abstract": "The WildChild program at &Beyond’s Kichwa Tembo Tented Camp in Kenya has a range of activities for children between the ages of 5 and 12.",
+  "print_page": null,
+  "blog": [],
+  "source": "The New York Times",
+  "multimedia": [
+    {
+      "width": 190,
+      "url": "images/2014/08/14/travel/14kenya/14kenya-thumbWide.jpg",
+      "height": 126,
+      "subtype": "wide",
+      "legacy": {
+        "wide": "images/2014/08/14/travel/14kenya/14kenya-thumbWide.jpg",
+        "wideheight": "126",
+        "widewidth": "190"
+      },
+      "type": "image"
+    },
+    {
+      "width": 600,
+      "url": "images/2014/08/14/travel/14kenya/14kenya-articleLarge.jpg",
+      "height": 400,
+      "subtype": "xlarge",
+      "legacy": {
+        "xlargewidth": "600",
+        "xlarge": "images/2014/08/14/travel/14kenya/14kenya-articleLarge.jpg",
+        "xlargeheight": "400"
+      },
+      "type": "image"
+    },
+    {
+      "width": 75,
+      "url": "images/2014/08/14/travel/14kenya/14kenya-thumbStandard.jpg",
+      "height": 75,
+      "subtype": "thumbnail",
+      "legacy": {
+        "thumbnailheight": "75",
+        "thumbnail": "images/2014/08/14/travel/14kenya/14kenya-thumbStandard.jpg",
+        "thumbnailwidth": "75"
+      },
+      "type": "image"
+    }
+  ],
+  "headline": {
+    "main": "In Kenya, a Safari Program for Kids",
+    "kicker": "In Transit"
+  },
+  "keywords": [
+    {
+      "rank": "1",
+      "name": "glocations",
+      "value": "Kenya"
+    },
+    {
+      "rank": "1",
+      "name": "subject",
+      "value": "Safaris"
+    },
+    {
+      "rank": "2",
+      "name": "subject",
+      "value": "Travel and Vacations"
+    }
+  ],
+  "pub_date": "2014-08-14T15:29:18Z",
+  "document_type": "blogpost",
+  "news_desk": "Travel",
+  "section_name": "Travel",
+  "subsection_name": null,
+  "byline": {
+    "person": [
+      {
+        "organization": "",
+        "role": "reported",
+        "firstname": "Shivani",
+        "rank": 1,
+        "lastname": "VORA"
+      }
+    ],
+    "original": "By SHIVANI VORA"
+  },
+  "type_of_material": "Blog",
+  "_id": "53ed0e4c7988104a4d54542f",
+  "word_count": "277"
+}
+{
+  "web_url": "http://www.nytimes.com/2014/07/25/world/africa/kenya-peace-corps-halts-its-programs.html",
+  "snippet": "The Peace Corps is suspending its programs in Kenya because of security concerns and is pulling more than 50 volunteers out of the country until threats to safety decrease.",
+  "lead_paragraph": "The Peace Corps is suspending its programs in Kenya because of security concerns and is pulling more than 50 volunteers out of the country until threats to safety decrease.",
+  "abstract": "Peace Corps is suspending its programs in Kenya because of security concerns and is pulling more than 50 volunteers out of the country until threats to safety decrease.",
+  "print_page": "10",
+  "blog": [],
+  "source": "The New York Times",
+  "multimedia": [],
+  "headline": {
+    "main": "Kenya: Peace Corps Halts Its Programs",
+    "content_kicker": "World Briefing",
+    "print_headline": "Kenya: Peace Corps Halts Its Programs"
+  },
+  "keywords": [
+    {
+      "rank": "4",
+      "is_major": "N",
+      "name": "subject",
+      "value": "Murders and Attempted Murders"
+    },
+    {
+      "rank": "2",
+      "is_major": "Y",
+      "name": "glocations",
+      "value": "Kenya"
+    },
+    {
+      "rank": "1",
+      "is_major": "Y",
+      "name": "organizations",
+      "value": "Peace Corps"
+    },
+    {
+      "rank": "3",
+      "is_major": "N",
+      "name": "subject",
+      "value": "Volunteers and Community Service"
+    }
+  ],
+  "pub_date": "2014-07-25T00:00:00Z",
+  "document_type": "article",
+  "news_desk": "Foreign",
+  "section_name": "World",
+  "subsection_name": "Africa",
+  "byline": {
+    "contributor": "",
+    "person": [],
+    "original": "By THE ASSOCIATED PRESS",
+    "organization": "THE ASSOCIATED PRESS"
+  },
+  "type_of_material": "Brief",
+  "_id": "53d1cec9798810789fc6bf45",
+  "word_count": "89"
+}
+{
+  "web_url": "http://iht-retrospective.blogs.nytimes.com/2014/09/25/1964-kenya-battling-somali-rebels/",
+  "snippet": "Highlights from the International Herald Tribune archives: Kenya struggles with Somali guerrillas in 1964.",
+  "lead_paragraph": null,
+  "abstract": "Highlights from the International Herald Tribune archives: Kenya struggles with Somali guerrillas in 1964.",
+  "print_page": null,
+  "blog": [],
+  "source": "The New York Times",
+  "multimedia": [],
+  "headline": {
+    "main": "1964: Kenya Battling Somali Rebels",
+    "kicker": "IHT Retrospective"
+  },
+  "keywords": [
+    {
+      "rank": "1",
+      "name": "glocations",
+      "value": "Kenya"
+    },
+    {
+      "rank": "2",
+      "name": "glocations",
+      "value": "Nairobi (Kenya)"
+    },
+    {
+      "rank": "3",
+      "name": "glocations",
+      "value": "Somalia"
+    }
+  ],
+  "pub_date": "2014-09-25T13:14:39Z",
+  "document_type": "blogpost",
+  "news_desk": "Foreign",
+  "section_name": null,
+  "subsection_name": null,
+  "byline": {
+    "person": [
+      {
+        "firstname": "International",
+        "middlename": "Herald",
+        "lastname": "TRIBUNE",
+        "rank": 1,
+        "role": "reported",
+        "organization": ""
+      }
+    ],
+    "original": "By INTERNATIONAL HERALD TRIBUNE"
+  },
+  "type_of_material": "Blog",
+  "_id": "54244f2c79881017ba4e7ff0",
+  "word_count": "103"
+}
+{
+  "web_url": "http://topics.nytimes.com/top/news/international/countriesandterritories/kenya/index.html",
+  "snippet": "News about Kenya, including commentary and archival articles published in The New York Times.",
+  "lead_paragraph": "News about Kenya, including commentary and archival articles published in The New York Times.",
+  "abstract": null,
+  "print_page": null,
+  "blog": [],
+  "source": null,
+  "multimedia": [],
+  "headline": {
+    "main": "Kenya"
+  },
+  "keywords": [],
+  "pub_date": null,
+  "document_type": "topic",
+  "news_desk": null,
+  "section_name": "World",
+  "subsection_name": null,
+  "byline": null,
+  "type_of_material": "timestopic",
+  "_id": "527a882879881054c2091772",
+  "word_count": "14"
+}
+{
+  "web_url": "http://travel.nytimes.com/travel/guides/africa/kenya/overview.html",
+  "snippet": "Articles, photos and video about Kenya from The New York Times, with reader advice on where and when to go.",
+  "lead_paragraph": "Articles, photos and video about Kenya from The New York Times, with reader advice on where and when to go.",
+  "abstract": null,
+  "print_page": null,
+  "blog": [],
+  "source": null,
+  "multimedia": [],
+  "headline": {
+    "main": "Kenya"
+  },
+  "keywords": [],
+  "pub_date": null,
+  "document_type": "topic",
+  "news_desk": null,
+  "section_name": null,
+  "subsection_name": null,
+  "byline": null,
+  "type_of_material": "traveltopic",
+  "_id": "52742c077988100e15cf01be",
+  "word_count": "20"
+}
+{
+  "web_url": "http://www.nytimes.com/2014/07/12/world/africa/kenya-poachers-kill-4-rhinoceroses.html",
+  "snippet": "Two armed gangs killed four rhinoceroses for their horns in rural Kenya this week in possibly the worst rhino poaching incident in the country in more than 25 years.",
+  "lead_paragraph": "Two armed gangs killed four rhinoceroses for their horns in rural Kenya this week in possibly the worst rhino poaching incident in the country in more than 25 years.",
+  "abstract": "Kenya Wildlife Service says two armed gangs killed four rhinoceroses for their horns in rural Kenya, in possibly the worst rhino poaching incident in the country in more than 25 years.",
+  "print_page": "5",
+  "blog": [],
+  "source": "The New York Times",
+  "multimedia": [],
+  "headline": {
+    "main": "Kenya: Poachers Kill 4 Rhinoceroses",
+    "content_kicker": "World Briefing",
+    "print_headline": "Kenya: Poachers Kill 4 Rhinoceroses"
+  },
+  "keywords": [
+    {
+      "rank": "2",
+      "is_major": "Y",
+      "name": "subject",
+      "value": "Rhinoceroses"
+    },
+    {
+      "rank": "1",
+      "is_major": "Y",
+      "name": "subject",
+      "value": "Poaching (Wildlife)"
+    },
+    {
+      "rank": "3",
+      "is_major": "Y",
+      "name": "glocations",
+      "value": "Kenya"
+    }
+  ],
+  "pub_date": "2014-07-12T00:00:00Z",
+  "document_type": "article",
+  "news_desk": "Foreign",
+  "section_name": "World",
+  "subsection_name": "Africa",
+  "byline": {
+    "contributor": "",
+    "person": [],
+    "original": "By REUTERS",
+    "organization": "REUTERS"
+  },
+  "type_of_material": "Brief",
+  "_id": "53c081297988102b15a16169",
+  "word_count": "142"
+}
+{
+  "web_url": "http://www.nytimes.com/2014/07/07/world/africa/deadly-attacks-in-kenya.html",
+  "snippet": "The violence, in which the victims had their hands bound and their throats slit, was the latest of a string of attacks with ethnic undercurrents that comes at a time of rising political tensions.",
+  "lead_paragraph": "The violence, in which the victims had their hands bound and their throats slit, was the latest of a string of attacks with ethnic undercurrents that comes at a time of rising political tensions.",
+  "abstract": "More than 20 people are killed in two attacks on Kenya's coast; residents say many of the victims had their hands bound and their throats slit, latest in a string of gruesome assaults with ethic undercurrents; it is unclear who the killers are, although Shabab militants from Somalia have taken responsibility.",
+  "print_page": "4",
+  "blog": [],
+  "source": "The New York Times",
+  "multimedia": [
+    {
+      "width": 190,
+      "url": "images/2014/07/07/world/KENYA/KENYA-thumbWide.jpg",
+      "height": 126,
+      "subtype": "wide",
+      "legacy": {
+        "wide": "images/2014/07/07/world/KENYA/KENYA-thumbWide.jpg",
+        "wideheight": "126",
+        "widewidth": "190"
+      },
+      "type": "image"
+    },
+    {
+      "width": 600,
+      "url": "images/2014/07/07/world/KENYA/KENYA-articleLarge.jpg",
+      "height": 344,
+      "subtype": "xlarge",
+      "legacy": {
+        "xlargewidth": "600",
+        "xlarge": "images/2014/07/07/world/KENYA/KENYA-articleLarge.jpg",
+        "xlargeheight": "344"
+      },
+      "type": "image"
+    },
+    {
+      "width": 75,
+      "url": "images/2014/07/07/world/KENYA/KENYA-thumbStandard-v2.jpg",
+      "height": 75,
+      "subtype": "thumbnail",
+      "legacy": {
+        "thumbnailheight": "75",
+        "thumbnail": "images/2014/07/07/world/KENYA/KENYA-thumbStandard-v2.jpg",
+        "thumbnailwidth": "75"
+      },
+      "type": "image"
+    }
+  ],
+  "headline": {
+    "main": "Gruesome Attacks in Kenyan Villages Heighten Fears of a Nation on Edge ",
+    "print_headline": "Gruesome Attacks in Kenyan Villages Heighten Fears of a Nation on Edge"
+  },
+  "keywords": [
+    {
+      "rank": "3",
+      "is_major": "Y",
+      "name": "subject",
+      "value": "Murders and Attempted Murders"
+    },
+    {
+      "rank": "1",
+      "is_major": "Y",
+      "name": "glocations",
+      "value": "Kenya"
+    },
+    {
+      "rank": "2",
+      "is_major": "N",
+      "name": "subject",
+      "value": "Terrorism"
+    }
+  ],
+  "pub_date": "2014-07-07T00:00:00Z",
+  "document_type": "article",
+  "news_desk": "Foreign",
+  "section_name": "World",
+  "subsection_name": "Africa",
+  "byline": {
+    "contributor": "",
+    "person": [
+      {
+        "organization": "",
+        "role": "reported",
+        "firstname": "Jeffrey",
+        "rank": 1,
+        "lastname": "GETTLEMAN"
+      }
+    ],
+    "original": "By JEFFREY GETTLEMAN"
+  },
+  "type_of_material": "News",
+  "_id": "53b990a6798810367949d2c0",
+  "word_count": "919"
+}
