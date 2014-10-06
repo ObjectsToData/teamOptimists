@@ -8,6 +8,6 @@ totalCountries=4
 
 for((i=0; i<$totalCountries; i++))
 do
-	sh pullscript.sh ${country[$i]} $imageRequest > tests/${country[$i]}.json
-	# sh jpgpullscript.sh ${country[$i]}
+	sh pullscript.sh ${country[$i]} $imageRequest > countryData/${country[$i]}.json
+	sh jpgpullscript.sh ${country[$i]}
 done
