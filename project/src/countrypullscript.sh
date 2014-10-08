@@ -1,8 +1,8 @@
 imageRequest=$1
 
-country=("Kenya" "Iran" "Russia" "China" "United States" "Netherlands" "Germany" "Japan" "Brasil" "Argentinia" "Israel" "Turkey" "Egypt" "Qatar" "Libanon")
+country=("United+States" "China" "Iran" "Lebanon" "Egypt" "Qatar" "Turkey" "Afghanistan" "Syria" "South+Korea")
 
-totalCountries=4
+totalCountries=10
 
 rm -rf countryData
 rm -rf static01.nyt.com
