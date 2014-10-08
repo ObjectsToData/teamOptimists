@@ -4,7 +4,7 @@ country=("Kenya" "Somalia" "Netherlands" "France")
 
 totalCountries=4
 
-# echo $country$i
+mkdir countryData
 
 for((i=0; i<$totalCountries; i++))
 do
