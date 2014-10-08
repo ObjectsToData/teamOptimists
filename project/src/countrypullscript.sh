@@ -1,8 +1,12 @@
 imageRequest=$1
 
-country=("Kenya" "Somalia" "Netherlands" "France")
+country=("Kenya" "Iran" "Russia" "China" "United States" "Netherlands" "Germany" "Japan" "Brasil" "Argentinia" "Israel" "Turkey" "Egypt" "Qatar" "Libanon")
 
 totalCountries=4
+
+rm -rf countryData
+rm -rf static01.nyt.com
+rm -rf temp
 
 mkdir countryData
 mkdir temp

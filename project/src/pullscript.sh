@@ -26,11 +26,9 @@ do
 	# from the response JSON
 
 	curl -s $requestUrl > temp/temp.json
-	jq -c ".response.docs[].multimedia" temp/temp.json > temp/multi.json
-	cat temp/multi.json | grep ".jpg" > temp/multiSeperated.json
-	count=`wc -l temp/multiSeperated.json | awk '{print $1}'`
+	count=`cat temp/temp.json | jq -c ".response.docs[].multimedia" | grep ".jpg" | wc -l | awk '{print $1}'`
 
-	jq -c ".response.docs[]" temp/temp.json
+	cat temp/temp.json | jq -c ".response.docs[]"
 
 	let totalcount=$totalcount+$count
 	let page=$page+1
