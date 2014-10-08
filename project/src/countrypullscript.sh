@@ -5,6 +5,7 @@ country=("Kenya" "Somalia" "Netherlands" "France")
 totalCountries=4
 
 mkdir countryData
+mkdir temp
 
 for((i=0; i<$totalCountries; i++))
 do
