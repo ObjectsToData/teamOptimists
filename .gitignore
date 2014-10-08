@@ -1,2 +1,5 @@
 *.swp
 .DS_Store
+/src/countryData
+/src/temp
+/src/static01.nyt.com
