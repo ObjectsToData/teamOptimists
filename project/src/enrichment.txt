@@ -84,7 +84,7 @@ for (i=0; i<list.length; i++) {
 
 }
 
-run("Close");
+run("Quit");
 
 // setBatchMode(false);
 
