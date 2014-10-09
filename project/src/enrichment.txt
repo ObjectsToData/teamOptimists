@@ -18,7 +18,7 @@ f = File.open(savedir + "countryProcessedData.txt");
 // option: save measurements.txt inside images folder
 // f = File.open(dir+"measurements.txt");
 
-setBatchMode(true); 
+// setBatchMode(true); 
 
 run("Set Measurements...", "  standard median display redirect=None decimal=2");
 
@@ -83,6 +83,8 @@ for (i=0; i<list.length; i++) {
 
 
 }
+
+run("Close");
 
 // setBatchMode(false);
 
