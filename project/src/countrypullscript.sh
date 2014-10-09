@@ -13,6 +13,10 @@ mkdir temp
 
 for((i=0; i<$totalCountries; i++))
 do
-	sh pullscript.sh ${country[$i]} $imageRequest > countryData/${country[$i]}.json
+	# Enriching the dataset
+	sh pullscript.sh ${country[$i]} $imageRequest > countryData/${country[$i]}.jsonl
+	# pulling images
 	sh jpgpullscript.sh ${country[$i]}
+	# enrichment
+	# java -jar ../programs/imageplot-master/ImageJ/headless.jar - orientalAnalysis.txt
 done
