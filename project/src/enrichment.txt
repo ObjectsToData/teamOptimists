@@ -4,7 +4,7 @@ run("Clear Results");
 
 // dir = getDirectory("Choose images folder to be measured");
 
-dir = "/Users/Robert-Jan/Desktop/teamOptimists/project/src/";
+dir = getDirectory("startup");
 
 countryStr = File.openAsString(dir + "temp/currentCountry.txt");
 country = split(countryStr,"\n");
@@ -74,7 +74,7 @@ for (i=0; i<list.length; i++) {
 	print(f, "\{\"url\": \"" + list[i] + "\", \"brightness\": \"" + brightness_median + "\", \"saturation\": \"" + saturation_median + "\", \"hue\": \"" + hue_median + "\", \"shapes\": \"" + shape_count + "\"}");
 }
 
-run("Quit");
+// run("Quit");
 
 // setBatchMode(false);
 
