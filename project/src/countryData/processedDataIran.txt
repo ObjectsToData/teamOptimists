@@ -1,0 +1,11 @@
+{"url": "static01.nyt.com/images/2014/08/08/world/IRAN/IRAN-articleLarge.jpg", "brightness": "178", "saturation": "83", "hue": "29", "shapes": "Count"}
+{"url": "static01.nyt.com/images/2014/09/27/world/IRAN/IRAN-articleLarge.jpg", "brightness": "20", "saturation": "153", "hue": "30", "shapes": "47"}
+{"url": "static01.nyt.com/images/2014/09/26/world/26nations2/26nations2-articleLarge.jpg", "brightness": "69", "saturation": "54", "hue": "61", "shapes": "43"}
+{"url": "static01.nyt.com/images/2010/09/16/opinion/Cohen_New/Cohen_New-articleLarge.jpg", "brightness": "39", "saturation": "111", "hue": "139", "shapes": "162"}
+{"url": "static01.nyt.com/images/2014/05/22/world/middleeast/IRAN-REFER/IRAN-REFER-articleLarge.jpg", "brightness": "129", "saturation": "117", "hue": "151", "shapes": "9"}
+{"url": "static01.nyt.com/images/2014/09/09/world/09IRAN/09IRAN-articleLarge.jpg", "brightness": "150", "saturation": "56", "hue": "47", "shapes": "24"}
+{"url": "static01.nyt.com/images/2014/09/09/world/09IRAN/09IRAN-articleLarge.jpg", "brightness": "150", "saturation": "56", "hue": "47", "shapes": "19"}
+{"url": "static01.nyt.com/images/2014/09/03/world/IRAN/IRAN-articleLarge.jpg", "brightness": "94", "saturation": "51", "hue": "28", "shapes": "19"}
+{"url": "static01.nyt.com/images/2014/08/31/world/IRAN/IRAN-articleLarge.jpg", "brightness": "179", "saturation": "32", "hue": "125", "shapes": "68"}
+{"url": "static01.nyt.com/images/2014/08/23/arts/behbahani/behbahani-articleLarge.jpg", "brightness": "126", "saturation": "138", "hue": "149", "shapes": "59"}
+{"url": "static01.nyt.com/images/2014/08/28/world/NUCLEAR/NUCLEAR-articleLarge.jpg", "brightness": "219", "saturation": "48", "hue": "146", "shapes": "62"}

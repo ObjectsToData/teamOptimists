@@ -3,22 +3,18 @@
 run("Clear Results");
 
 // dir = getDirectory("Choose images folder to be measured");
-dir = "/Users/Robert-Jan/Desktop/Imagae/";
-list = newArray("DSC00109.jpg","DSC00110.jpg");
 
-// list = getFileList(dir);
-print(list[0]);
-print(list[1]);
+dir = "/Users/Robert-Jan/Desktop/teamOptimists/project/src/";
 
-// savedir = getDirectory("Choose folder to save output file measurements.txt");
-savedir = "/Users/Robert-Jan/Desktop/teamOptimists/project/src/temp/";
-print(savedir);
-f = File.open(savedir + "countryProcessedData.txt");
+countryStr = File.openAsString(dir + "temp/currentCountry.txt");
+country = split(countryStr,"\n");
 
-// option: save measurements.txt inside images folder
-// f = File.open(dir+"measurements.txt");
+liststr = File.openAsString(dir + "countryData/onlyUpdatedLink" + country[0] + ".txt");
+list = split(liststr,"\n");
 
-// setBatchMode(true); 
+f = File.open(dir + "countryData/" + "processedData" + country[0] + ".txt");
+
+setBatchMode(true); 
 
 run("Set Measurements...", "  standard median display redirect=None decimal=2");
 
@@ -75,13 +71,7 @@ for (i=0; i<list.length; i++) {
 
 	
 	// write measurements
-	// print(f, list[i] + "," + brightness_median + "," + saturation_median + "," + hue_median + "," + shape_count + "\n");
-
 	print(f, "\{\"url\": \"" + list[i] + "\", \"brightness\": \"" + brightness_median + "\", \"saturation\": \"" + saturation_median + "\", \"hue\": \"" + hue_median + "\", \"shapes\": \"" + shape_count + "\"}");
-
-	// TSV NOTATIE print(f, list[i] + "\t" + brightness_median + "\t" + saturation_median + "\t" + hue_median + "\t" + shape_count + "\n");
-
-
 }
 
 run("Quit");

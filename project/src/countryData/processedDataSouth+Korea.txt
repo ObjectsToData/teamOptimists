@@ -1,0 +1,13 @@
+{"url": "static01.nyt.com/images/2014/10/03/world/FERRY/FERRY-articleLarge.jpg", "brightness": "61", "saturation": "88", "hue": "22", "shapes": "Count"}
+{"url": "static01.nyt.com/images/2014/10/05/world/asia/05hongkong-img/05hongkong-img-articleLarge.jpg", "brightness": "131", "saturation": "65", "hue": "24", "shapes": "21"}
+{"url": "static01.nyt.com/images/2014/09/12/world/12korea/12korea-articleLarge.jpg", "brightness": "15", "saturation": "85", "hue": "18", "shapes": "48"}
+{"url": "static01.nyt.com/images/2014/08/31/books/review/31CHOI/31CHOI-articleLarge.jpg", "brightness": "131", "saturation": "100", "hue": "26", "shapes": "82"}
+{"url": "static01.nyt.com/images/2014/08/31/world/KOREAPAINTER-2/KOREAPAINTER-2-articleLarge.jpg", "brightness": "103", "saturation": "74", "hue": "166", "shapes": "39"}
+{"url": "static01.nyt.com/images/2014/09/27/automobiles/27WHEELIES-image/27WHEELIES-image-articleLarge.jpg", "brightness": "170", "saturation": "118", "hue": "150", "shapes": "147"}
+{"url": "static01.nyt.com/images/2014/09/12/world/12JAPAN/12JAPAN-articleLarge.jpg", "brightness": "162", "saturation": "51", "hue": "143", "shapes": "27"}
+{"url": "static01.nyt.com/images/2014/08/19/world/KOREA/KOREA-articleLarge.jpg", "brightness": "151", "saturation": "50", "hue": "170", "shapes": "64"}
+{"url": "static01.nyt.com/images/2014/08/18/opinion/18heng/18heng-articleLarge.jpg", "brightness": "151", "saturation": "50", "hue": "170", "shapes": "64"}
+{"url": "static01.nyt.com/images/2014/08/15/sports/PAEK/PAEK-articleLarge.jpg", "brightness": "185", "saturation": "15", "hue": "36", "shapes": "48"}
+{"url": "static01.nyt.com/images/2014/08/17/world/20140817-KOREA-slide-76PE/20140817-KOREA-slide-76PE-articleLarge.jpg", "brightness": "135", "saturation": "23", "hue": "148", "shapes": "374"}
+{"url": "static01.nyt.com/images/2014/09/19/sports/19iht-sraskorea19/19iht-sraskorea19-articleLarge.jpg", "brightness": "125", "saturation": "78", "hue": "42", "shapes": "56"}
+{"url": "static01.nyt.com/images/2014/08/16/world/POPE/POPE-articleLarge.jpg", "brightness": "124", "saturation": "78", "hue": "159", "shapes": "61"}

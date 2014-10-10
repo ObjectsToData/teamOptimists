@@ -1,0 +1,16 @@
+{"url": "static01.nyt.com/images/2014/10/10/world/10chinabank/10chinabank-articleLarge.jpg", "brightness": "114", "saturation": "23", "hue": "151", "shapes": "Count"}
+{"url": "static01.nyt.com/images/2014/10/08/world/asia/IDENTITY-REFER/IDENTITY-REFER-articleLarge.jpg", "brightness": "43", "saturation": "204", "hue": "15", "shapes": "51"}
+{"url": "static01.nyt.com/images/2014/10/05/travel/05QNA1/05QNA1-articleLarge.jpg", "brightness": "82", "saturation": "30", "hue": "30", "shapes": "119"}
+{"url": "static01.nyt.com/images/2014/09/10/world/10sino-letter01/10sino-letter01-articleLarge.jpg", "brightness": "66", "saturation": "73", "hue": "28", "shapes": "24"}
+{"url": "static01.nyt.com/images/2014/10/09/business/WALDORF/WALDORF-articleLarge-v2.jpg", "brightness": "66", "saturation": "73", "hue": "28", "shapes": "24"}
+{"url": "static01.nyt.com/images/2014/09/23/world/23sino-room/23sino-room-articleLarge.jpg", "brightness": "102", "saturation": "31", "hue": "34", "shapes": "19"}
+{"url": "static01.nyt.com/images/2014/09/30/world/asia/30chinamartyr/30chinamartyr-articleLarge.jpg", "brightness": "125", "saturation": "32", "hue": "240", "shapes": "119"}
+{"url": "static01.nyt.com/images/2014/10/04/world/04HONGKONG/04HONGKONG-articleLarge.jpg", "brightness": "145", "saturation": "118", "hue": "159", "shapes": "79"}
+{"url": "static01.nyt.com/images/2014/09/24/world/24xinjiang/24xinjiang-articleLarge-v2.jpg", "brightness": "55", "saturation": "119", "hue": "23", "shapes": "67"}
+{"url": "static01.nyt.com/images/2014/09/24/world/24sino-JINPING/24sino-JINPING-articleLarge.jpg", "brightness": "145", "saturation": "81", "hue": "141", "shapes": "167"}
+{"url": "static01.nyt.com/images/2014/09/23/opinion/nyto-student/nyto-student-articleLarge.jpg", "brightness": "116", "saturation": "71", "hue": "22", "shapes": "121"}
+{"url": "static01.nyt.com/images/2014/10/02/world/MAINLANDERS/MAINLANDERS-articleLarge.jpg", "brightness": "93", "saturation": "119", "hue": "36", "shapes": "146"}
+{"url": "static01.nyt.com/images/2014/10/09/world/09sino-DALAILAMA/09sino-DALAILAMA-articleLarge.jpg", "brightness": "109", "saturation": "239", "hue": "166", "shapes": "40"}
+{"url": "static01.nyt.com/images/2014/09/29/opinion/29millward/29millward-articleLarge.jpg", "brightness": "244", "saturation": "42", "hue": "35", "shapes": "10"}
+{"url": "static01.nyt.com/images/2014/09/25/world/asia/25china-cnd/25china-cnd-articleLarge.jpg", "brightness": "87", "saturation": "113", "hue": "24", "shapes": "86"}
+{"url": "static01.nyt.com/images/2014/09/12/world/12suicide1/12suicide1-articleLarge.jpg", "brightness": "124", "saturation": "13", "hue": "18", "shapes": "174"}

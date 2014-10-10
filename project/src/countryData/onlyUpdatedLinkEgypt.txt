@@ -1,6 +1,6 @@
 static01.nyt.com/images/2014/09/24/multimedia/unga-el-sisi-egypt/unga-el-sisi-egypt-articleLarge.jpg
-static01.nyt.com/images/2014/09/16/world/middleeast/16opensource-egypt/16opensource-egypt-articleLarge.jpg
 static01.nyt.com/images/2013/10/04/opinion/aswany-contributor/aswany-contributor-articleLarge-v3.jpg
+static01.nyt.com/images/2014/09/16/world/middleeast/16opensource-egypt/16opensource-egypt-articleLarge.jpg
 static01.nyt.com/images/2014/08/30/arts/sub-seif-obit/sub-seif-obit-articleLarge-v2.jpg
 static01.nyt.com/images/2013/10/04/opinion/aswany-contributor/aswany-contributor-articleLarge-v3.jpg
 static01.nyt.com/images/2014/08/14/world/14EGYPT/14EGYPT-articleLarge.jpg

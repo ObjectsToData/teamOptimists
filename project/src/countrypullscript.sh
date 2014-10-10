@@ -16,14 +16,17 @@ echo " "
 
 for((i=0; i<$totalCountries; i++))
 do
-	echo "Downloading Metadata: ${country[$i]}"
 	# Enriching the dataset
+	echo "Downloading Metadata: ${country[$i]}"
 	sh pullscript.sh ${country[$i]} $imageRequest > countryData/${country[$i]}.jsonl
-	echo "Downloading Images: ${country[$i]}"
+	
 	# pulling images
+	echo "Downloading Images: ${country[$i]}"
 	sh jpgpullscript.sh ${country[$i]}
+
 	# enrichment
-	# java -jar ../programs/imageplot-master/ImageJ/headless.jar - enrichment.txt
+	echo "Enriching Data: ${country[$i]}"
+	sh enrichment.sh ${country[$i]}
 	echo " "
 done
 
@@ -32,8 +35,12 @@ echo " "
 echo " "
 echo "Starting visualisation!"
 echo "MAKE SURE THE -- teamOptimist-Viz -- REPOSITORY IS IN ON THE SAME LEVEL AS THIS REPOSITORY!!!"
-echo "sleeping for 5 seconds to make sure you read this!"
-echo " "
-echo " "
-sleep 5
+read -p "Are you sure you want to continue? <y/N> " prompt
+if [[ $prompt == "y" || $prompt == "Y" || $prompt == "yes" || $prompt == "Yes" ]]
+then
+	echo "Lets go see it all then!"
+else
+ 	echo "place it there then!"
+fi
+
 sh visualscript.sh

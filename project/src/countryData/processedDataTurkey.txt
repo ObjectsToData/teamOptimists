@@ -1,0 +1,10 @@
+{"url": "static01.nyt.com/images/2014/10/07/us/politics/07firstdraft-Ambassador-John-Bass/07firstdraft-Ambassador-John-Bass-articleLarge.jpg", "brightness": "56", "saturation": "39", "hue": "30", "shapes": "Count"}
+{"url": "static01.nyt.com/images/2014/09/24/multimedia/unga-erdogan-turkey/unga-erdogan-turkey-articleLarge.jpg", "brightness": "43", "saturation": "45", "hue": "67", "shapes": "24"}
+{"url": "static01.nyt.com/images/2014/09/21/world/21turkey1/21turkey1-articleLarge.jpg", "brightness": "154", "saturation": "45", "hue": "134", "shapes": "134"}
+{"url": "static01.nyt.com/images/2014/09/09/world/09TURKEY/09TURKEY-articleLarge.jpg", "brightness": "175", "saturation": "76", "hue": "24", "shapes": "77"}
+{"url": "static01.nyt.com/images/2014/10/03/opinion/03edaydintasbasart/03edaydintasbasart-articleLarge-v2.jpg", "brightness": "39", "saturation": "92", "hue": "42", "shapes": "26"}
+{"url": "static01.nyt.com/images/2013/10/04/opinion/Akyol-contributor/contributors-images-slide-KX18-articleLarge.jpg", "brightness": "233", "saturation": "24", "hue": "158", "shapes": "194"}
+{"url": "static01.nyt.com/images/2014/08/29/world/29-TURKEY/29-TURKEY-articleLarge.jpg", "brightness": "204", "saturation": "19", "hue": "47", "shapes": "8"}
+{"url": "static01.nyt.com/images/2014/08/30/world/30TURKEY/30TURKEY-articleLarge.jpg", "brightness": "87", "saturation": "75", "hue": "155", "shapes": "6"}
+{"url": "static01.nyt.com/images/2014/08/22/world/TURKEY/TURKEY-articleLarge.jpg", "brightness": "171", "saturation": "68", "hue": "156", "shapes": "74"}
+{"url": "static01.nyt.com/images/2014/09/28/world/TURKEY-1/TURKEY-1-articleLarge.jpg", "brightness": "149", "saturation": "108", "hue": "20", "shapes": "9"}

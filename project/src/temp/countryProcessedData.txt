@@ -1,2 +1,0 @@
-{"url": "DSC00109.jpg", "brightness": "165", "saturation": "30", "hue": "134", "shapes": "Count"}
-{"url": "DSC00110.jpg", "brightness": "129", "saturation": "96", "hue": "26", "shapes": "35"}
