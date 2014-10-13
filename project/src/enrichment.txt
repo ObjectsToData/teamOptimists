@@ -74,7 +74,7 @@ for (i=0; i<list.length; i++) {
 	print(f, "\{\"url\": \"" + list[i] + "\", \"brightness\": \"" + brightness_median + "\", \"saturation\": \"" + saturation_median + "\", \"hue\": \"" + hue_median + "\", \"shapes\": \"" + shape_count + "\"}");
 }
 
-// run("Quit");
+run("Quit");
 
 // setBatchMode(false);
 

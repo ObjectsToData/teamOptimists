@@ -8,12 +8,3 @@ cat countryData/linkUpdated$country.jsonl | jq -r '.multimedia[1].url | select(.
 
 # downloading the images
 cat countryData/onlyUpdatedLink$country.txt | wget -i - -x -w 0.2 -q
-
-# create validJSON again
-touch countryData/linkUpdatedValidJSON$country.json
-echo "{\"docs\": [" > countryData/linkUpdatedValidJSON$country.json
-cat countryData/linkUpdated$country.jsonl | sed '$ ! s/$/,/' >> countryData/linkUpdatedValidJSON$country.json
-echo "]}" >> countryData/linkUpdatedValidJSON$country.json
-
-# remove redundant file
-rm countryData/linkUpdated$country.jsonl 

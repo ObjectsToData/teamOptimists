@@ -1,6 +1,8 @@
 imageRequest=$1
 
 country=("United+States" "China" "Iran" "Lebanon" "Egypt" "Qatar" "Turkey" "Afghanistan" "Syria" "South+Korea")
+# country=("Iran" "Lebanon" "Egypt" "Qatar" "Turkey" "Afghanistan" "Syria" "South+Korea")
+
 
 totalCountries=10
 
@@ -11,7 +13,6 @@ rm -rf temp
 mkdir countryData
 mkdir temp
 
-echo " "
 echo " "
 
 for((i=0; i<$totalCountries; i++))
@@ -28,6 +29,14 @@ do
 	echo "Enriching Data: ${country[$i]}"
 	sh enrichment.sh ${country[$i]}
 	echo " "
+
+	#cleanup
+	rm countryData/onlyUpdatedLink${country[$i]}.txt
+	rm countryData/processedData${country[$i]}.txt
+	rm countryData/linkUpdated${country[$i]}.jsonl
+	rm countryData/combinedData${country[$i]}.jsonl
+	rm countryData/combinedJSON${country[$i]}.json
+
 done
 
 # visualisation
