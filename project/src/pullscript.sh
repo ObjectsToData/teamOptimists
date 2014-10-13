@@ -16,6 +16,8 @@ hits=`curl -s $requestUrl | jq '.response.meta.hits'`
 totalcount=0
 page=0
 
+touch countryData/$query.jsonl
+
 # Iteratively download all the requests
 while [ $totalcount -lt $imgRequest ]
 do
@@ -28,11 +30,28 @@ do
 	curl -s $requestUrl > temp/temp.json
 	count=`cat temp/temp.json | jq -c ".response.docs[].multimedia" | grep ".jpg" | wc -l | awk '{print $1}'`
 
-	cat temp/temp.json | jq -c ".response.docs[]"
+	cat temp/temp.json | jq -c ".response.docs[]" >> countryData/$query.jsonl
 
 	let totalcount=$totalcount+$count
 	let page=$page+1
 
+	if [ $page -lt 99 ] 
+	then
+	echo ".\c"
+	else
+	echo "100 page reached"
+	fi
+
 	# wait 0.2 seconds between request to not overload the server
 	sleep 0.2
 done
+
+echo " $page \c"
+
+prevTotal=`awk '{print $1}' temp/pagecount.txt`
+let newTotal=$page+$prevTotal
+echo $newTotal > temp/pagecount.txt
+
+
+
+

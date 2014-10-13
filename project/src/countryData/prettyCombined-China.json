@@ -1049,12 +1049,6 @@
           "is_major": "N",
           "name": "persons",
           "value": "Xi Jinping"
-        },
-        {
-          "rank": "8",
-          "is_major": "N",
-          "name": "persons",
-          "value": "Mao Zedong"
         }
       ],
       "pub_date": "2014-10-13T00:00:00Z",
@@ -2938,6 +2932,3511 @@
         "saturation": "30",
         "hue": "30",
         "shapes": "24"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/30/world/asia/hong-kong-protests-present-a-challenge-to-xi-jinpings-rule.html",
+      "snippet": "The Chinese leader must find a solution that keeps Hong Kong stable without sparking copycat calls for change in mainland China.",
+      "lead_paragraph": "The Chinese leader must find a solution that keeps Hong Kong stable without sparking copycat calls for change in mainland China.",
+      "abstract": "News analysis; Chinese Pres Xi Jinping, facing swelling street demonstrations in Hong Kong pressing for more democracy, must find solution that keeps Hong Kong stable without sparking copycat calls for change in mainland China; severe crackdown on mostly-peaceful protests would almost certainly backfire, especially under glare of international attention.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/30/world/asia/BEIJING/BEIJING-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/30/world/asia/BEIJING/BEIJING-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/30/world/asia/BEIJING/BEIJING-articleLarge.jpg",
+          "height": 392,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/30/world/asia/BEIJING/BEIJING-articleLarge.jpg",
+            "xlargeheight": "392"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/30/world/asia/BEIJING/BEIJING-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/30/world/asia/BEIJING/BEIJING-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "For China, Limited Tools to Quell Unrest in Hong Kong",
+        "kicker": "News Analysis",
+        "print_headline": "Limited Tools in Hong Kong",
+        "content_kicker": "News Analysis"
+      },
+      "keywords": [
+        {
+          "value": "Hong Kong",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Demonstrations, Protests and Riots",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "China",
+          "is_major": "N",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Xi Jinping",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "persons"
+        },
+        {
+          "value": "Occupy Central",
+          "is_major": "N",
+          "rank": "5",
+          "name": "organizations"
+        },
+        {
+          "value": "Communist Party of China",
+          "is_major": "N",
+          "rank": "6",
+          "name": "organizations"
+        }
+      ],
+      "pub_date": "2014-09-30T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "contributor": "Edward Wong reported from Beijing, and Chris Buckley from Hong Kong. Michael Forsythe contributed reporting from New Haven. Mia Li contributed research from Beijing.",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Edward",
+            "lastname": "WONG"
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Chris",
+            "lastname": "BUCKLEY"
+          }
+        ],
+        "original": "By EDWARD WONG and CHRIS BUCKLEY"
+      },
+      "type_of_material": "An Analysis; News Analysis",
+      "_id": "5429b03838f0d83564f67634",
+      "word_count": "1364",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/30/world/asia/BEIJING/BEIJING-articleLarge.jpg",
+        "brightness": "33",
+        "saturation": "200",
+        "hue": "21",
+        "shapes": "222"
+      }
+    },
+    {
+      "web_url": "http://bits.blogs.nytimes.com/2014/09/30/china-approves-the-iphone-6-after-a-stern-look-at-security/",
+      "snippet": "The Chinese government said that after it presented Apple with concerns about the iPhone 6’s security features, the company provided it with “official materials” to address them.",
+      "lead_paragraph": null,
+      "abstract": "The Chinese government said that after it presented Apple with concerns about the iPhone 6’s security features, the company provided it with “official materials” to address them.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/10/01/business/Chinaphone/Chinaphone-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/10/01/business/Chinaphone/Chinaphone-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/10/01/business/Chinaphone/Chinaphone-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/01/business/Chinaphone/Chinaphone-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/10/01/business/Chinaphone/Chinaphone-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/01/business/Chinaphone/Chinaphone-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "The iPhone 6 Coming Soon to China, After Stern Look at Security",
+        "kicker": "Bits",
+        "print_headline": "China Approves iPhone 6 Despite Security Concerns"
+      },
+      "keywords": [
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Apple Inc",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Computer Security",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "iPhone",
+          "name": "subject",
+          "rank": "2"
+        },
+        {
+          "value": "Privacy",
+          "name": "subject",
+          "rank": "3"
+        }
+      ],
+      "pub_date": "2014-09-30T02:56:59Z",
+      "document_type": "blogpost",
+      "news_desk": "Business",
+      "section_name": "Technology",
+      "subsection_name": null,
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Paul",
+            "lastname": "MOZUR"
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Shanshan",
+            "lastname": "WANG"
+          }
+        ],
+        "original": "By PAUL MOZUR and SHANSHAN WANG"
+      },
+      "type_of_material": "Blog",
+      "_id": "542a545438f0d83564f677bc",
+      "word_count": "574",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/01/business/Chinaphone/Chinaphone-articleLarge.jpg",
+        "brightness": "86",
+        "saturation": "73",
+        "hue": "142",
+        "shapes": "108"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/video/world/asia/100000003161321/in-hong-kong-deflated-hopes-for-change-after-protests.html",
+      "snippet": "As the pro-democracy protests in Hong Kong recede, one young woman reflects on the outcome and how it forced her to confront the inequities she sees every day.",
+      "lead_paragraph": "As the pro-democracy protests in Hong Kong recede, one young woman reflects on the outcome and how it forced her to confront the inequities she sees every day.",
+      "abstract": null,
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "width": 190,
+          "url": "images/2014/10/06/multimedia/hkg-protest-dream-end/hkg-protest-dream-end-thumbWide.jpg",
+          "height": 126,
+          "subtype": "wide",
+          "legacy": {
+            "wide": "images/2014/10/06/multimedia/hkg-protest-dream-end/hkg-protest-dream-end-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "width": 600,
+          "url": "static01.nyt.com/images/2014/10/06/multimedia/hkg-protest-dream-end/hkg-protest-dream-end-articleLarge.jpg",
+          "height": 399,
+          "subtype": "xlarge",
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/06/multimedia/hkg-protest-dream-end/hkg-protest-dream-end-articleLarge.jpg",
+            "xlargeheight": "399"
+          },
+          "type": "image"
+        },
+        {
+          "width": 75,
+          "url": "images/2014/10/06/multimedia/hkg-protest-dream-end/hkg-protest-dream-end-thumbStandard.jpg",
+          "height": 75,
+          "subtype": "thumbnail",
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/06/multimedia/hkg-protest-dream-end/hkg-protest-dream-end-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "In Hong Kong, Deflated Hopes for Change"
+      },
+      "keywords": [
+        {
+          "rank": "1",
+          "is_major": "N",
+          "name": "glocations",
+          "value": "Hong Kong"
+        },
+        {
+          "rank": "2",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Demonstrations, Protests and Riots"
+        },
+        {
+          "rank": "3",
+          "is_major": "N",
+          "name": "glocations",
+          "value": "China"
+        },
+        {
+          "rank": "4",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Communist Party of China"
+        },
+        {
+          "rank": "5",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Occupy Central"
+        }
+      ],
+      "pub_date": "2014-10-06T22:31:42Z",
+      "document_type": "multimedia",
+      "news_desk": "World / Asia Pacific",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "firstname": "Jonah",
+            "rank": 1
+          }
+        ],
+        "original": "Jonah M. Kessel"
+      },
+      "type_of_material": "Video",
+      "_id": "543350ad38f0d84dea7b0826",
+      "word_count": "28",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/06/multimedia/hkg-protest-dream-end/hkg-protest-dream-end-articleLarge.jpg",
+        "brightness": "71",
+        "saturation": "127",
+        "hue": "20",
+        "shapes": "139"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/10/11/upshot/stuff-we-liked.html",
+      "snippet": "A roundup of interesting web links from other sites.",
+      "lead_paragraph": "A roundup of interesting web links from other sites.",
+      "abstract": null,
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "width": 190,
+          "url": "images/2014/10/10/upshot/11UP-Elsewhere/11UP-Elsewhere-thumbWide.jpg",
+          "height": 126,
+          "subtype": "wide",
+          "legacy": {
+            "wide": "images/2014/10/10/upshot/11UP-Elsewhere/11UP-Elsewhere-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "width": 600,
+          "url": "static01.nyt.com/images/2014/10/10/upshot/11UP-Elsewhere/11UP-Elsewhere-articleLarge.jpg",
+          "height": 400,
+          "subtype": "xlarge",
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/10/upshot/11UP-Elsewhere/11UP-Elsewhere-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "width": 75,
+          "url": "images/2014/10/10/upshot/11UP-Elsewhere/11UP-Elsewhere-thumbStandard.jpg",
+          "height": 75,
+          "subtype": "thumbnail",
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/10/upshot/11UP-Elsewhere/11UP-Elsewhere-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Stuff We Liked",
+        "content_kicker": "Around the Web",
+        "kicker": "The Upshot"
+      },
+      "keywords": [
+        {
+          "rank": "1",
+          "is_major": "N",
+          "name": "glocations",
+          "value": "China"
+        },
+        {
+          "rank": "2",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Crayola Llc"
+        },
+        {
+          "rank": "3",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Polls and Public Opinion"
+        }
+      ],
+      "pub_date": "2014-10-11T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Upshot",
+      "section_name": "The Upshot",
+      "subsection_name": null,
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "firstname": "Damon",
+            "rank": 1,
+            "lastname": "DARLIN"
+          }
+        ],
+        "original": "Compiled by DAMON DARLIN"
+      },
+      "type_of_material": "News",
+      "_id": "5438321238f0d83c143b8e1f",
+      "word_count": "237",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/10/upshot/11UP-Elsewhere/11UP-Elsewhere-articleLarge.jpg",
+        "brightness": "4",
+        "saturation": "155",
+        "hue": "0",
+        "shapes": "47"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/10/08/sports/basketball/nets-nba-preseason-maccabi-tel-aviv-china.html",
+      "snippet": "The Nets kicked off the preseason with an exhibition victory over Maccabi Tel Aviv at Barclays Center. Next up is a tour of China.",
+      "lead_paragraph": "The Nets kicked off the preseason with an exhibition victory over Maccabi Tel Aviv at Barclays Center. Next up is a tour of China.",
+      "abstract": "Brooklyn Nets beat Maccabi Tel Aviv, 111-94, in preseason exhibition game.",
+      "print_page": "16",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "width": 190,
+          "url": "images/2014/10/08/sports/CITY-NETS/CITY-NETS-thumbWide.jpg",
+          "height": 126,
+          "subtype": "wide",
+          "legacy": {
+            "wide": "images/2014/10/08/sports/CITY-NETS/CITY-NETS-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "width": 600,
+          "url": "static01.nyt.com/images/2014/10/08/sports/CITY-NETS/CITY-NETS-articleLarge.jpg",
+          "height": 912,
+          "subtype": "xlarge",
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/08/sports/CITY-NETS/CITY-NETS-articleLarge.jpg",
+            "xlargeheight": "912"
+          },
+          "type": "image"
+        },
+        {
+          "width": 75,
+          "url": "images/2014/10/08/sports/CITY-NETS/CITY-NETS-thumbStandard.jpg",
+          "height": 75,
+          "subtype": "thumbnail",
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/08/sports/CITY-NETS/CITY-NETS-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Start of Everything Is a Game That Means Nothing",
+        "print_headline": "Start of Everything Is a Game That Means Nothing"
+      },
+      "keywords": [
+        {
+          "rank": "1",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "Basketball"
+        },
+        {
+          "rank": "2",
+          "is_major": "Y",
+          "name": "organizations",
+          "value": "Brooklyn Nets"
+        },
+        {
+          "rank": "3",
+          "is_major": "Y",
+          "name": "organizations",
+          "value": "Maccabi Tel Aviv"
+        },
+        {
+          "rank": "4",
+          "is_major": "N",
+          "name": "persons",
+          "value": "Hollins, Lionel"
+        },
+        {
+          "rank": "5",
+          "is_major": "N",
+          "name": "persons",
+          "value": "King, Billy"
+        },
+        {
+          "rank": "6",
+          "is_major": "N",
+          "name": "glocations",
+          "value": "China"
+        },
+        {
+          "rank": "7",
+          "is_major": "N",
+          "name": "persons",
+          "value": "Garnett, Kevin"
+        }
+      ],
+      "pub_date": "2014-10-08T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Sports",
+      "section_name": "Sports",
+      "subsection_name": "Pro Basketball",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "firstname": "Andrew",
+            "rank": 1,
+            "lastname": "KEH"
+          }
+        ],
+        "original": "By ANDREW KEH"
+      },
+      "type_of_material": "News",
+      "_id": "5434a6a338f0d86add490e3a",
+      "word_count": "699",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/08/sports/CITY-NETS/CITY-NETS-articleLarge.jpg",
+        "brightness": "51",
+        "saturation": "144",
+        "hue": "19",
+        "shapes": "88"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/video/business/100000003139663/behemoth-at-sea.html",
+      "snippet": "In the chess match that has global powers looking for new ways to move goods around the world, the Mary Maersk and nine other sister ships are the biggest pieces.",
+      "lead_paragraph": "In the chess match that has global powers looking for new ways to move goods around the world, the Mary Maersk and nine other sister ships are the biggest pieces.",
+      "abstract": null,
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/25/multimedia/worlds-largest-ship/worlds-largest-ship-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/25/multimedia/worlds-largest-ship/worlds-largest-ship-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/25/multimedia/worlds-largest-ship/worlds-largest-ship-articleLarge.jpg",
+          "height": 399,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/25/multimedia/worlds-largest-ship/worlds-largest-ship-articleLarge.jpg",
+            "xlargeheight": "399"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/25/multimedia/worlds-largest-ship/worlds-largest-ship-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/25/multimedia/worlds-largest-ship/worlds-largest-ship-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Behemoth at Sea"
+      },
+      "keywords": [
+        {
+          "value": "Maersk Line",
+          "is_major": "N",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "Ships and Shipping",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "China",
+          "is_major": "N",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "A P Moller-Maersk",
+          "is_major": "N",
+          "rank": "4",
+          "name": "organizations"
+        },
+        {
+          "value": "Freight (Cargo)",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Ports",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "Factories and Manufacturing",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-10-03T10:17:17Z",
+      "document_type": "multimedia",
+      "news_desk": "Business Day",
+      "section_name": "Business Day",
+      "subsection_name": null,
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Erik",
+            "lastname": "Olsen"
+          }
+        ],
+        "original": "Erik Olsen"
+      },
+      "type_of_material": "Video",
+      "_id": "542eb00438f0d87d7534d214",
+      "word_count": "30",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/25/multimedia/worlds-largest-ship/worlds-largest-ship-articleLarge.jpg",
+        "brightness": "102",
+        "saturation": "131",
+        "hue": "152",
+        "shapes": "117"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/19/sports/at-asian-games-china-is-the-team-to-beat.html",
+      "snippet": "There is little doubt that of the 45 nations competing, China will finish atop the gold medal count, as it has in every edition of the Asian Games since 1982.",
+      "lead_paragraph": "There is little doubt that of the 45 nations competing, China will finish atop the gold medal count, as it has in every edition of the Asian Games since 1982.",
+      "abstract": null,
+      "print_page": "",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/19/sports/19iht-srasathletes-1/19iht-srasathletes-1-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/19/sports/19iht-srasathletes-1/19iht-srasathletes-1-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/19/sports/19iht-srasathletes-1/19iht-srasathletes-1-articleLarge.jpg",
+          "height": 754,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/19/sports/19iht-srasathletes-1/19iht-srasathletes-1-articleLarge.jpg",
+            "xlargeheight": "754"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/19/sports/19iht-srasathletes-1/19iht-srasathletes-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/19/sports/19iht-srasathletes-1/19iht-srasathletes-1-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "At Asian Games, China Is the Team to Beat",
+        "print_headline": "At Asian Games, China Is the Team to Beat"
+      },
+      "keywords": [
+        {
+          "value": "China",
+          "is_major": "N",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Olympic Games",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Olympic Games (2012)",
+          "is_major": "N",
+          "rank": "3",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-19T14:00:00Z",
+      "document_type": "article",
+      "news_desk": "Sports",
+      "section_name": "Sports",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Christopher",
+            "lastname": "CLAREY"
+          }
+        ],
+        "original": "By CHRISTOPHER CLAREY"
+      },
+      "type_of_material": "News",
+      "_id": "541ac7e538f0d80959e6d1fb",
+      "word_count": "1202",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/19/sports/19iht-srasathletes-1/19iht-srasathletes-1-articleLarge.jpg",
+        "brightness": "92",
+        "saturation": "5",
+        "hue": "24",
+        "shapes": "37"
+      }
+    },
+    {
+      "web_url": "http://bits.blogs.nytimes.com/2014/09/26/intel-invests-1-5-billion-to-tap-mobile-phone-chip-market-in-china/",
+      "snippet": "Intel is spending big money to invest in a Chinese maker of systems for mobile phones in hopes of capturing more of the chip market and to leap past competitors like Qualcomm.",
+      "lead_paragraph": null,
+      "abstract": "Intel is spending big money to invest in a Chinese maker of systems for mobile phones in hopes of capturing more of the chip market and to leap past competitors like Qualcomm.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/26/business/26bits-intel/26bits-intel-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/26/business/26bits-intel/26bits-intel-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/26/business/26bits-intel/26bits-intel-articleLarge.jpg",
+          "height": 419,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/26/business/26bits-intel/26bits-intel-articleLarge.jpg",
+            "xlargeheight": "419"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/26/business/26bits-intel/26bits-intel-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/26/business/26bits-intel/26bits-intel-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Intel Invests $1.5 Billion to Tap Mobile Phone Chip Market in China",
+        "kicker": "Bits"
+      },
+      "keywords": [
+        {
+          "value": "Krzanich, Brian M",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Intel Corporation",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Qualcomm Inc",
+          "name": "organizations",
+          "rank": "2"
+        },
+        {
+          "value": "Spreadtrum Communications",
+          "name": "organizations",
+          "rank": "3"
+        },
+        {
+          "value": "Taiwan Semiconductor Manufacturing Company Ltd",
+          "name": "organizations",
+          "rank": "4"
+        },
+        {
+          "value": "Computer Chips",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "Mergers, Acquisitions and Divestitures",
+          "name": "subject",
+          "rank": "2"
+        },
+        {
+          "value": "Smartphones",
+          "name": "subject",
+          "rank": "3"
+        },
+        {
+          "value": "Wireless Communications",
+          "name": "subject",
+          "rank": "4"
+        }
+      ],
+      "pub_date": "2014-09-26T00:05:24Z",
+      "document_type": "blogpost",
+      "news_desk": "Business",
+      "section_name": "Technology",
+      "subsection_name": null,
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Quentin",
+            "lastname": "HARDY"
+          }
+        ],
+        "original": "By QUENTIN HARDY"
+      },
+      "type_of_material": "Blog",
+      "_id": "5424e64338f0d8525e453e6a",
+      "word_count": "527",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/26/business/26bits-intel/26bits-intel-articleLarge.jpg",
+        "brightness": "6",
+        "saturation": "102",
+        "hue": "15",
+        "shapes": "35"
+      }
+    },
+    {
+      "web_url": "http://sinosphere.blogs.nytimes.com/2014/09/05/weighing-in-on-paid-interethnic-marriages-in-xinjiang/",
+      "snippet": "In an effort to defuse ethnic tensions, a county in a Western region of China is trying to encourage marriage between Uighurs and Han by offering cash and other incentives. Two experts put the efforts into context.",
+      "lead_paragraph": null,
+      "abstract": "In an effort to defuse ethnic tensions, a county in a Western region of China is trying to encourage marriage between Uighurs and Han by offering cash and other incentives. Two experts put the efforts into context.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/05/world/05sino-UIGHUR/05sino-UIGHUR-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/05/world/05sino-UIGHUR/05sino-UIGHUR-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/05/world/05sino-UIGHUR/05sino-UIGHUR-articleLarge.jpg",
+          "height": 421,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/05/world/05sino-UIGHUR/05sino-UIGHUR-articleLarge.jpg",
+            "xlargeheight": "421"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/05/world/05sino-UIGHUR/05sino-UIGHUR-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/05/world/05sino-UIGHUR/05sino-UIGHUR-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Weighing In on Paid Interethnic Marriages in Xinjiang ",
+        "kicker": "Sinosphere"
+      },
+      "keywords": [
+        {
+          "value": "Leibold, James",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "Xi Jinping",
+          "name": "persons",
+          "rank": "2"
+        },
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Kashgar (China)",
+          "name": "glocations",
+          "rank": "2"
+        },
+        {
+          "value": "Silk Road (Ancient Trade Route)",
+          "name": "glocations",
+          "rank": "3"
+        },
+        {
+          "value": "Xinjiang (China)",
+          "name": "glocations",
+          "rank": "4"
+        },
+        {
+          "value": "Communist Party of China",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Han Chinese (Ethnic Group)",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "Marriages",
+          "name": "subject",
+          "rank": "2"
+        },
+        {
+          "value": "Muslims and Islam",
+          "name": "subject",
+          "rank": "3"
+        },
+        {
+          "value": "Uighurs (Chinese Ethnic Group)",
+          "name": "subject",
+          "rank": "4"
+        }
+      ],
+      "pub_date": "2014-09-05T02:53:14Z",
+      "document_type": "blogpost",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Edward",
+            "lastname": "WONG"
+          }
+        ],
+        "original": "By EDWARD WONG"
+      },
+      "type_of_material": "Blog",
+      "_id": "54095e3138f0d852c36f6b41",
+      "word_count": "964",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/05/world/05sino-UIGHUR/05sino-UIGHUR-articleLarge.jpg",
+        "brightness": "71",
+        "saturation": "40",
+        "hue": "29",
+        "shapes": "113"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/21/movies/in-china-dreams-of-vying-for-an-oscar.html",
+      "snippet": "A film from mainland China has yet to win an Academy Award, and Chinese officials are eager for the cultural validation that an Oscar brings.",
+      "lead_paragraph": "A film from mainland China has yet to win an Academy Award, and Chinese officials are eager for the cultural validation that an Oscar brings.",
+      "abstract": "No Chinese movie has ever won an Academy award for best foreign-language film, though China's government officials are eager for cultural validation would Oscar bring; many feel that selection process by State Administration of Press, Publication, Radio, Film and Television, which regulates the Chinese film industry, is capricious and hobbled by censorship restrictions.",
+      "print_page": "17",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/21/arts/21CHINA1/21CHINA1-thumbWide-v2.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/21/arts/21CHINA1/21CHINA1-thumbWide-v2.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/21/arts/21CHINA1/21CHINA1-articleLarge-v2.jpg",
+          "height": 338,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/21/arts/21CHINA1/21CHINA1-articleLarge-v2.jpg",
+            "xlargeheight": "338"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/21/arts/21CHINA1/21CHINA1-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/21/arts/21CHINA1/21CHINA1-thumbStandard-v2.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "In China, Dreams of Vying for an Oscar",
+        "print_headline": "In China, Dreams of Vying for an Oscar"
+      },
+      "keywords": [
+        {
+          "value": "Movies",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "China",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "glocations"
+        },
+        {
+          "value": "Censorship",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Academy Awards (Oscars)",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "Zhang Yimou",
+          "is_major": "N",
+          "rank": "5",
+          "name": "persons"
+        },
+        {
+          "value": "Coming Home (Movie)",
+          "is_major": "N",
+          "rank": "6",
+          "name": "creative_works"
+        },
+        {
+          "value": "Jiang Wen",
+          "is_major": "N",
+          "rank": "7",
+          "name": "persons"
+        }
+      ],
+      "pub_date": "2014-09-21T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Arts&Leisure",
+      "section_name": "Movies",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "Patrick Zuo contributed research.",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Edward",
+            "lastname": "WONG"
+          }
+        ],
+        "original": "By EDWARD WONG"
+      },
+      "type_of_material": "News",
+      "_id": "541b642738f0d8296cb0f886",
+      "word_count": "1002",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/21/arts/21CHINA1/21CHINA1-articleLarge-v2.jpg",
+        "brightness": "65",
+        "saturation": "63",
+        "hue": "93",
+        "shapes": "65"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/29/books/vigil-is-planned-for-uighur-writer.html",
+      "snippet": "The PEN American Center will hold a vigil for the Uighur writer and academic Ilham Tohti on Monday in response to his being sentenced to life in prison.",
+      "lead_paragraph": "The PEN American Center will hold a vigil for the Uighur writer and academic Ilham Tohti on Monday in response to his being sentenced to life in prison.",
+      "abstract": "PEN American Center will hold vigil for Uighur writer and academic Ilham Tohti in response to his being sentenced to life in prison; Tohti, who is vocal critic of Chinese government on human rights and social issues, was sentenced on charges of separatism.",
+      "print_page": "3",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/29/arts/ARTS4/ARTS4-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/29/arts/ARTS4/ARTS4-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/29/arts/ARTS4/ARTS4-articleLarge.jpg",
+          "height": 795,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/29/arts/ARTS4/ARTS4-articleLarge.jpg",
+            "xlargeheight": "795"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/29/arts/ARTS4/ARTS4-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/29/arts/ARTS4/ARTS4-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Vigil Is Planned for Uighur Writer",
+        "kicker": "Arts, Briefly",
+        "print_headline": "Vigil Is Planned for Uighur Writer",
+        "content_kicker": "Arts, Briefly"
+      },
+      "keywords": [
+        {
+          "value": "Tohti, Ilham",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "persons"
+        },
+        {
+          "value": "PEN American Center",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "Uighurs (Chinese Ethnic Group)",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "China",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Books and Literature",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Writing and Writers",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-29T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Culture",
+      "section_name": "Books",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "firstname": "Andrew",
+            "middlename": "R.",
+            "lastname": "CHOW",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "Compiled by ANDREW R. CHOW"
+      },
+      "type_of_material": "Brief",
+      "_id": "542889b438f0d843596a3176",
+      "word_count": "173",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/29/arts/ARTS4/ARTS4-articleLarge.jpg",
+        "brightness": "175",
+        "saturation": "18",
+        "hue": "20",
+        "shapes": "16"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/22/business/international/china-clamps-down-on-web-pinching-companies-like-google.html",
+      "snippet": "Chinese authorities have tightened censorship over Internet traffic in recent weeks, and Google and its services are particularly affected.",
+      "lead_paragraph": "Chinese authorities have tightened censorship over Internet traffic in recent weeks, and Google and its services are particularly affected.",
+      "abstract": "Chinese government, as part of broad campaign to tighten internal security, is clamping down on web traffic, making it more difficult for Google and its customers to do business; even as Google and other big tech firms have lobbied heavily for easing of restrictions, China's broader scrutiny of multinationals has intensified.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/20/business/SUB-GOOGLE-CHINA/SUB-GOOGLE-CHINA-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/20/business/SUB-GOOGLE-CHINA/SUB-GOOGLE-CHINA-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/20/business/SUB-GOOGLE-CHINA/SUB-GOOGLE-CHINA-articleLarge.jpg",
+          "height": 399,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/20/business/SUB-GOOGLE-CHINA/SUB-GOOGLE-CHINA-articleLarge.jpg",
+            "xlargeheight": "399"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/20/business/SUB-GOOGLE-CHINA/SUB-GOOGLE-CHINA-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/20/business/SUB-GOOGLE-CHINA/SUB-GOOGLE-CHINA-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "China Clamps Down on Web, Pinching Companies Like Google",
+        "print_headline": "Sealed Tight"
+      },
+      "keywords": [
+        {
+          "value": "China",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Google Inc",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "Censorship",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Computers and the Internet",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "Baidu Inc",
+          "is_major": "N",
+          "rank": "5",
+          "name": "organizations"
+        },
+        {
+          "value": "Microsoft Corporation",
+          "is_major": "N",
+          "rank": "6",
+          "name": "organizations"
+        },
+        {
+          "value": "",
+          "is_major": "N",
+          "rank": "1",
+          "name": "unknown"
+        }
+      ],
+      "pub_date": "2014-09-22T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Business",
+      "section_name": "Business Day",
+      "subsection_name": "International Business",
+      "byline": {
+        "contributor": "Choe Sang-Hun contributed reporting from Seoul, South Korea, and Austin Ramzy from Taipei, Taiwan. Huang Shaojie contributed research from Beijing.",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Keith",
+            "lastname": "BRADSHER"
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Paul",
+            "lastname": "MOZUR"
+          }
+        ],
+        "original": "By KEITH BRADSHER and PAUL MOZUR"
+      },
+      "type_of_material": "News",
+      "_id": "541f532638f0d82d9dae0d41",
+      "word_count": "1593",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/20/business/SUB-GOOGLE-CHINA/SUB-GOOGLE-CHINA-articleLarge.jpg",
+        "brightness": "217",
+        "saturation": "25",
+        "hue": "150",
+        "shapes": "89"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/18/business/smallbusiness/when-plan-to-help-others-sell-in-china-fails-start-up-changes-targets.html",
+      "snippet": "Export Now was created as an easy, low-cost way for American businesses to export to China, but when that didn&#8217;t work, the company took a new tack.",
+      "lead_paragraph": "Export Now was created as an easy, low-cost way for American businesses to export to China, but when that didn&#8217;t work, the company took a new tack.",
+      "abstract": "You're the Boss blog; interview with Frank Lavin, founder of Export Now, e-commerce platform that was conceived as easy, low-cost way for American small businesses to sell their goods in China; Lavin talks about why he started company and what he is doing to attract clients.",
+      "print_page": "6",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/18/business/Sbiz/Sbiz-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/18/business/Sbiz/Sbiz-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/18/business/Sbiz/Sbiz-articleLarge.jpg",
+          "height": 397,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/18/business/Sbiz/Sbiz-articleLarge.jpg",
+            "xlargeheight": "397"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/18/business/Sbiz/Sbiz-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/18/business/Sbiz/Sbiz-thumbStandard-v2.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "When Plan to Help Others Sell in China Fails, a Start-Up Changes Tack",
+        "kicker": "Conversations",
+        "print_headline": "When Plan to Help Others Sell in China Fails, a Start-Up Changes Tack",
+        "content_kicker": "Conversations"
+      },
+      "keywords": [
+        {
+          "value": "Small Business",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Lavin, Franklin L",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "persons"
+        },
+        {
+          "value": "Export Now",
+          "is_major": "N",
+          "rank": "3",
+          "name": "organizations"
+        },
+        {
+          "value": "China",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "International Trade and World Market",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Entrepreneurship",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "E-Commerce",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        },
+        {
+          "value": "Tmall",
+          "is_major": "N",
+          "rank": "8",
+          "name": "organizations"
+        }
+      ],
+      "pub_date": "2014-09-18T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Business",
+      "section_name": "Business Day",
+      "subsection_name": "Small Business",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "John",
+            "lastname": "GROSSMANN"
+          }
+        ],
+        "original": "By JOHN GROSSMANN"
+      },
+      "type_of_material": "Question",
+      "_id": "5419b34938f0d80959e6b8df",
+      "word_count": "1238",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/18/business/Sbiz/Sbiz-articleLarge.jpg",
+        "brightness": "129",
+        "saturation": "60",
+        "hue": "116",
+        "shapes": "73"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/10/06/technology/to-reach-china-linkedin-plays-by-local-rules.html",
+      "snippet": "The professional social network&#8217;s Chinese-language version, which lacks certain features of Western versions, seems to have the tacit approval of China&#8217;s government.",
+      "lead_paragraph": "The professional social network&#8217;s Chinese-language version, which lacks certain features of Western versions, seems to have the tacit approval of China&#8217;s government.",
+      "abstract": "LinkedIn has found success in China where other American technology companies have largely failed, earning what seems to be tacit approval of government; social network has made several concessions to Chinese authorities, compromising on free expression and relinquishing 7 percent of its local operation to two well-connected Chinese venture capital firms; moves are being closely watched by Silicon Valley as it tries to crack vast Chinese market.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/10/06/business/chinasocialjump/chinasocialjump-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/10/06/business/chinasocialjump/chinasocialjump-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/10/06/business/chinasocialjump/chinasocialjump-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/06/business/chinasocialjump/chinasocialjump-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/10/06/business/chinasocialjump/chinasocialjump-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/06/business/chinasocialjump/chinasocialjump-thumbStandard-v2.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "To Reach China, LinkedIn Plays by Local Rules",
+        "print_headline": "To Reach China, LinkedIn Plays by Local Rules"
+      },
+      "keywords": [
+        {
+          "value": "China",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "LinkedIn Corporation",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "Social Media",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Censorship",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "Computers and the Internet",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Chinese Language",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-10-06T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Business",
+      "section_name": "Technology",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "Paul Mozur reported from Hong Kong and Vindu Goel from San Francisco.",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Paul",
+            "lastname": "MOZUR"
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Vindu",
+            "lastname": "GOEL"
+          }
+        ],
+        "original": "By PAUL MOZUR and VINDU GOEL"
+      },
+      "type_of_material": "News",
+      "_id": "5431f94c38f0d85b58978e58",
+      "word_count": "1407",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/06/business/chinasocialjump/chinasocialjump-articleLarge.jpg",
+        "brightness": "82",
+        "saturation": "26",
+        "hue": "41",
+        "shapes": "89"
+      }
+    },
+    {
+      "web_url": "http://sinosphere.blogs.nytimes.com/2014/09/22/rural-library-chain-closes-citing-tremendous-pressure/",
+      "snippet": "A nongovernmental organization that had run a rural library project with as many as 22 libraries across China has announced it is closing down, pointing to “tremendous pressure” from the local authorities.",
+      "lead_paragraph": null,
+      "abstract": "A nongovernmental organization that had run a rural library project with as many as 22 libraries across China has announced it is closing down, pointing to “tremendous pressure” from the local authorities.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/19/world/19sino-LIREN1/19sino-LIREN1-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/19/world/19sino-LIREN1/19sino-LIREN1-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/19/world/19sino-LIREN1/19sino-LIREN1-articleLarge.jpg",
+          "height": 363,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/19/world/19sino-LIREN1/19sino-LIREN1-articleLarge.jpg",
+            "xlargeheight": "363"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/19/world/19sino-LIREN1/19sino-LIREN1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/19/world/19sino-LIREN1/19sino-LIREN1-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Rural Library Chain Closes, Citing 'Tremendous Pressure'",
+        "kicker": "Sinosphere"
+      },
+      "keywords": [
+        {
+          "value": "Li Yingqiang",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Liren",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Peking University",
+          "name": "organizations",
+          "rank": "2"
+        },
+        {
+          "value": "Education (K-12)",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "Libraries and Librarians",
+          "name": "subject",
+          "rank": "2"
+        },
+        {
+          "value": "Rural Areas",
+          "name": "subject",
+          "rank": "3"
+        },
+        {
+          "value": "Volunteers and Community Service",
+          "name": "subject",
+          "rank": "4"
+        }
+      ],
+      "pub_date": "2014-09-22T05:57:25Z",
+      "document_type": "blogpost",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Vanessa",
+            "lastname": "PIAO"
+          }
+        ],
+        "original": "By VANESSA PIAO"
+      },
+      "type_of_material": "Blog",
+      "_id": "541ff2b338f0d82d9dae0ea8",
+      "word_count": "986",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/19/world/19sino-LIREN1/19sino-LIREN1-articleLarge.jpg",
+        "brightness": "119",
+        "saturation": "51",
+        "hue": "113",
+        "shapes": "23"
+      }
+    },
+    {
+      "web_url": "http://bits.blogs.nytimes.com/2014/09/22/daily-report-chinas-great-firewall-toughens-for-google-and-others/",
+      "snippet": "Chinese authorities have tightened censorship over Internet traffic in recent weeks, and Google and its services are particularly affected.",
+      "lead_paragraph": null,
+      "abstract": "Chinese authorities have tightened censorship over Internet traffic in recent weeks, and Google and its services are particularly affected.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "xlarge",
+          "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "static01.nyt.com/images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Daily Report: China's Great Firewall Toughens for Google and Others",
+        "kicker": "Bits"
+      },
+      "keywords": [
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Google Inc",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Censorship",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "Computers and the Internet",
+          "name": "subject",
+          "rank": "2"
+        }
+      ],
+      "pub_date": "2014-09-22T06:18:50Z",
+      "document_type": "blogpost",
+      "news_desk": "Business",
+      "section_name": "Technology",
+      "subsection_name": null,
+      "byline": {
+        "person": [],
+        "original": "By THE NEW YORK TIMES",
+        "organization": "The New York Times"
+      },
+      "type_of_material": "Blog",
+      "_id": "541ff7b038f0d82d9dae0eb6",
+      "word_count": "155",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard.jpg",
+        "brightness": "121",
+        "saturation": "0",
+        "hue": "0",
+        "shapes": "1"
+      }
+    },
+    {
+      "web_url": "http://dealbook.nytimes.com/2014/09/22/alibabas-i-p-o-raises-25-billion-to-set-global-record/",
+      "snippet": "After Alibaba’s shares leaped 38 percent on their first day of trading on Friday, the company’s underwriters decided to exercise a so-called green shoe.",
+      "lead_paragraph": null,
+      "abstract": "After Alibaba’s shares leaped 38 percent on their first day of trading on Friday, the company’s underwriters decided to exercise a so-called green shoe.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/23/business/dbpix-alibaba1/dbpix-alibaba1-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/23/business/dbpix-alibaba1/dbpix-alibaba1-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/23/business/dbpix-alibaba1/dbpix-alibaba1-articleLarge.jpg",
+          "height": 382,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/23/business/dbpix-alibaba1/dbpix-alibaba1-articleLarge.jpg",
+            "xlargeheight": "382"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/23/business/dbpix-alibaba1/dbpix-alibaba1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/23/business/dbpix-alibaba1/dbpix-alibaba1-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Alibaba I.P.O. Underwriters Increase Deal Size to Record-Setting $25 Billion",
+        "kicker": "DealBook",
+        "print_headline": "I.P.O Sets Record"
+      },
+      "keywords": [
+        {
+          "value": "Ma, Jack",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "Tsai, Joe",
+          "name": "persons",
+          "rank": "2"
+        },
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Agricultural Bank of China",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Alibaba Group Holding Ltd",
+          "name": "organizations",
+          "rank": "2"
+        },
+        {
+          "value": "Initial Public Offerings",
+          "name": "subject",
+          "rank": "1"
+        }
+      ],
+      "pub_date": "2014-09-22T03:42:10Z",
+      "document_type": "blogpost",
+      "news_desk": "Business",
+      "section_name": "Business Day",
+      "subsection_name": "Dealbook",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Neil",
+            "lastname": "GOUGH"
+          }
+        ],
+        "original": "By NEIL GOUGH"
+      },
+      "type_of_material": "Blog",
+      "_id": "541fd31838f0d82d9dae0e52",
+      "word_count": "276",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/23/business/dbpix-alibaba1/dbpix-alibaba1-articleLarge.jpg",
+        "brightness": "90",
+        "saturation": "112",
+        "hue": "142",
+        "shapes": "120"
+      }
+    },
+    {
+      "web_url": "http://dealbook.nytimes.com/2014/09/21/silver-lake-reaps-a-golden-return-on-its-alibaba-stake-after-the-i-p-o/",
+      "snippet": "Thanks to $500 million in investments in Alibaba made in 2011 and 2012, Silver Lake now sits on a stake worth more than $5.1 billion.",
+      "lead_paragraph": null,
+      "abstract": "Thanks to $500 million in investments in Alibaba made in 2011 and 2012, Silver Lake now sits on a stake worth more than $5.1 billion.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/22/business/alibaba/alibaba-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/22/business/alibaba/alibaba-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/22/business/alibaba/alibaba-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/22/business/alibaba/alibaba-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/22/business/alibaba/alibaba-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/22/business/alibaba/alibaba-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Silver Lake Reaps a Golden Return on Its Alibaba Stake After the I.P.O.",
+        "kicker": "DealBook",
+        "print_headline": "Silver Lake Reaps a Golden Return on Its Alibaba Stake After the I.P.O."
+      },
+      "keywords": [
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Alibaba Group Holding Ltd",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Silver Lake Partners",
+          "name": "organizations",
+          "rank": "2"
+        },
+        {
+          "value": "Initial Public Offerings",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "Private Equity",
+          "name": "subject",
+          "rank": "2"
+        }
+      ],
+      "pub_date": "2014-09-21T20:38:57Z",
+      "document_type": "blogpost",
+      "news_desk": "Business",
+      "section_name": "Business Day",
+      "subsection_name": "Dealbook",
+      "byline": {
+        "person": [
+          {
+            "firstname": "Michael",
+            "middlename": "J.",
+            "lastname": "DE LA MERCED",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By MICHAEL J. DE LA MERCED"
+      },
+      "type_of_material": "Blog",
+      "_id": "541f6fb938f0d82d9dae0d75",
+      "word_count": "705",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/22/business/alibaba/alibaba-articleLarge.jpg",
+        "brightness": "107",
+        "saturation": "74",
+        "hue": "195",
+        "shapes": "185"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/21/sports/tennis/after-blazing-trail-li-na-exits-and-leaves-a-gap.html",
+      "snippet": "Li’s retirement deprives the WTA of the opportunity to create a genuine rivalry at the top, and it also raises questions about the evolution of the sport in China.",
+      "lead_paragraph": "Li’s retirement deprives the WTA of the opportunity to create a genuine rivalry at the top, and it also raises questions about the evolution of the sport in China.",
+      "abstract": null,
+      "print_page": "12",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/21/sports/DOG-clarey/DOG-clarey-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/21/sports/DOG-clarey/DOG-clarey-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/21/sports/DOG-clarey/DOG-clarey-articleLarge.jpg",
+          "height": 408,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/21/sports/DOG-clarey/DOG-clarey-articleLarge.jpg",
+            "xlargeheight": "408"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/21/sports/DOG-clarey/DOG-clarey-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/21/sports/DOG-clarey/DOG-clarey-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "After Blazing Trail, Li Na Exits and Leaves a Gap",
+        "kicker": "On Tennis",
+        "print_headline": "After Blazing Trail, a Feisty Star Exits and Leaves a Gap",
+        "content_kicker": "On Tennis"
+      },
+      "keywords": [
+        {
+          "value": "Tennis",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Women's Tennis Assn",
+          "is_major": "N",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "Li Na",
+          "is_major": "N",
+          "rank": "3",
+          "name": "persons"
+        },
+        {
+          "value": "China",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-21T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Sports",
+      "section_name": "Sports",
+      "subsection_name": "Tennis",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Christopher",
+            "lastname": "CLAREY"
+          }
+        ],
+        "original": "By CHRISTOPHER CLAREY"
+      },
+      "type_of_material": "News",
+      "_id": "541dc23038f0d81f018b4129",
+      "word_count": "1052",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/21/sports/DOG-clarey/DOG-clarey-articleLarge.jpg",
+        "brightness": "0",
+        "saturation": "0",
+        "hue": "0",
+        "shapes": "47"
+      }
+    },
+    {
+      "web_url": "http://sinosphere.blogs.nytimes.com/2014/09/19/chinese-fans-celebrate-li-nas-historic-career/",
+      "snippet": "On Chinese social media, news of Li Na’s retirement surpassed the initial public offering of Alibaba and the independence referendum in Scotland.",
+      "lead_paragraph": null,
+      "abstract": "On Chinese social media, news of Li Na’s retirement surpassed the initial public offering of Alibaba and the independence referendum in Scotland.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/19/world/19sino-lina/19sino-lina-thumbWide-v2.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/19/world/19sino-lina/19sino-lina-thumbWide-v2.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/19/world/19sino-lina/19sino-lina-articleLarge-v2.jpg",
+          "height": 408,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/19/world/19sino-lina/19sino-lina-articleLarge-v2.jpg",
+            "xlargeheight": "408"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/19/world/19sino-lina/19sino-lina-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/19/world/19sino-lina/19sino-lina-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Chinese Fans Celebrate Li Na's Historic Career",
+        "kicker": "Sinosphere"
+      },
+      "keywords": [
+        {
+          "value": "Li Na",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Australian Open (Tennis)",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "French Open (Tennis)",
+          "name": "subject",
+          "rank": "2"
+        },
+        {
+          "value": "Sports Injuries",
+          "name": "subject",
+          "rank": "3"
+        },
+        {
+          "value": "Tennis",
+          "name": "subject",
+          "rank": "4"
+        }
+      ],
+      "pub_date": "2014-09-19T02:24:07Z",
+      "document_type": "blogpost",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Austin",
+            "lastname": "RAMZY"
+          }
+        ],
+        "original": "By AUSTIN RAMZY"
+      },
+      "type_of_material": "Blog",
+      "_id": "541bcc9938f0d8296cb101ca",
+      "word_count": "651",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/19/world/19sino-lina/19sino-lina-articleLarge-v2.jpg",
+        "brightness": "121",
+        "saturation": "114",
+        "hue": "147",
+        "shapes": "17"
+      }
+    },
+    {
+      "web_url": "http://dealbook.nytimes.com/2014/09/18/tops-in-e-commerce-alibaba-is-now-taking-on-chinas-banks/",
+      "snippet": "The e-commerce company is going head-to-head with banking competitors that are by and large owned by the Chinese government.",
+      "lead_paragraph": null,
+      "abstract": "The e-commerce company is going head-to-head with banking competitors that are by and large owned by the Chinese government.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/19/business/Bank2/Bank2-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/19/business/Bank2/Bank2-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/19/business/Bank2/Bank2-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/19/business/Bank2/Bank2-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/19/business/Bank2/Bank2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/19/business/Bank2/Bank2-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Tops in E-Commerce, Alibaba Is Now Taking On China’s Banks ",
+        "kicker": "DealBook",
+        "print_headline": "Tops in E-Commerce, Now Taking On China’s Banks"
+      },
+      "keywords": [
+        {
+          "value": "Computers and the Internet",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Banking and Financial Institutions",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Alipay",
+          "is_major": "N",
+          "rank": "3",
+          "name": "organizations"
+        },
+        {
+          "value": "China",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "E-Commerce",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Ma, Jack",
+          "is_major": "Y",
+          "rank": "6",
+          "name": "persons"
+        },
+        {
+          "value": "Alibaba Group Holding Ltd",
+          "is_major": "Y",
+          "rank": "7",
+          "name": "organizations"
+        }
+      ],
+      "pub_date": "2014-09-18T20:20:27Z",
+      "document_type": "blogpost",
+      "news_desk": "Business",
+      "section_name": "Business Day",
+      "subsection_name": "Dealbook",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Neil",
+            "lastname": "GOUGH"
+          }
+        ],
+        "original": "By NEIL GOUGH"
+      },
+      "type_of_material": "Blog",
+      "_id": "541b771638f0d8296cb0fa4e",
+      "word_count": "1266",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/19/business/Bank2/Bank2-articleLarge.jpg",
+        "brightness": "128",
+        "saturation": "149",
+        "hue": "125",
+        "shapes": "145"
+      }
+    },
+    {
+      "web_url": "http://sinosphere.blogs.nytimes.com/2014/08/26/fabled-uighur-princess-coming-to-chinese-television-as-a-cartoon/",
+      "snippet": "Animators in the southern Chinese city of Shenzhen are creating a 104-episode animated series loosely based on a historical Qing Dynasty imperial consort, the Fragrant Concubine, who is shrouded in myth.",
+      "lead_paragraph": null,
+      "abstract": "Animators in the southern Chinese city of Shenzhen are creating a 104-episode animated series loosely based on a historical Qing Dynasty imperial consort, the Fragrant Concubine, who is shrouded in myth.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/08/26/blogs/26sino-cartoon01/26sino-cartoon01-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/08/26/blogs/26sino-cartoon01/26sino-cartoon01-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/08/26/blogs/26sino-cartoon01/26sino-cartoon01-articleLarge.jpg",
+          "height": 1030,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/08/26/blogs/26sino-cartoon01/26sino-cartoon01-articleLarge.jpg",
+            "xlargeheight": "1030"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/08/26/blogs/26sino-cartoon01/26sino-cartoon01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/08/26/blogs/26sino-cartoon01/26sino-cartoon01-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Fabled Uighur Princess Coming to Chinese Television as a Cartoon",
+        "kicker": "Sinosphere"
+      },
+      "keywords": [
+        {
+          "value": "Fuller, Graham E",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "Xi Jinping",
+          "name": "persons",
+          "rank": "2"
+        },
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Kashgar (China)",
+          "name": "glocations",
+          "rank": "2"
+        },
+        {
+          "value": "Shenzhen (China)",
+          "name": "glocations",
+          "rank": "3"
+        },
+        {
+          "value": "Xinjiang (China)",
+          "name": "glocations",
+          "rank": "4"
+        },
+        {
+          "value": "China Central Television",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Communist Party of China",
+          "name": "organizations",
+          "rank": "2"
+        },
+        {
+          "value": "Cartoons and Cartoonists",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "Han Chinese (Ethnic Group)",
+          "name": "subject",
+          "rank": "2"
+        },
+        {
+          "value": "Muslims and Islam",
+          "name": "subject",
+          "rank": "3"
+        },
+        {
+          "value": "Uighurs (Chinese Ethnic Group)",
+          "name": "subject",
+          "rank": "4"
+        }
+      ],
+      "pub_date": "2014-08-26T09:12:35Z",
+      "document_type": "blogpost",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Edward",
+            "lastname": "WONG"
+          }
+        ],
+        "original": "By EDWARD WONG"
+      },
+      "type_of_material": "Blog",
+      "_id": "53fc883d38f0d84b346a006f",
+      "word_count": "1296",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/08/26/blogs/26sino-cartoon01/26sino-cartoon01-articleLarge.jpg",
+        "brightness": "99",
+        "saturation": "215",
+        "hue": "145",
+        "shapes": "150"
+      }
+    },
+    {
+      "web_url": "http://sinosphere.blogs.nytimes.com/2014/09/18/trying-to-turn-chinas-vacations-into-real-holidays/",
+      "snippet": "Facing complaints about nationwide Golden Weeks that cause crippling travel bottlenecks, China has closed the office that scheduled them and given the task to a higher-level ministerial conference.",
+      "lead_paragraph": null,
+      "abstract": "Facing complaints about nationwide Golden Weeks that cause crippling travel bottlenecks, China has closed the office that scheduled them and given the task to a higher-level ministerial conference.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/18/world/18sino-vacation03/18sino-vacation03-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/18/world/18sino-vacation03/18sino-vacation03-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/18/world/18sino-vacation03/18sino-vacation03-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/18/world/18sino-vacation03/18sino-vacation03-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/18/world/18sino-vacation03/18sino-vacation03-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/18/world/18sino-vacation03/18sino-vacation03-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Trying to Turn China's Vacations Into Real Holidays ",
+        "kicker": "Sinosphere"
+      },
+      "keywords": [
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Tsinghua University",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Holidays and Special Occasions",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "Lunar New Year",
+          "name": "subject",
+          "rank": "2"
+        },
+        {
+          "value": "Travel and Vacations",
+          "name": "subject",
+          "rank": "3"
+        }
+      ],
+      "pub_date": "2014-09-18T01:42:55Z",
+      "document_type": "blogpost",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "person": [
+          {
+            "firstname": "Didi",
+            "middlename": "Kirsten",
+            "lastname": "TATLOW",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By DIDI KIRSTEN TATLOW"
+      },
+      "type_of_material": "Blog",
+      "_id": "541a710138f0d80959e6ca38",
+      "word_count": "415",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/18/world/18sino-vacation03/18sino-vacation03-articleLarge.jpg",
+        "brightness": "95",
+        "saturation": "57",
+        "hue": "54",
+        "shapes": "188"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/24/world/asia/obama-at-un-climate-summit-calls-for-vast-international-effort.html",
+      "snippet": "President Obama, emboldened by his use of executive powers to fight climate change at home, challenged China to make the same effort to reduce greenhouse-gas emissions.",
+      "lead_paragraph": "President Obama, emboldened by his use of executive powers to fight climate change at home, challenged China to make the same effort to reduce greenhouse-gas emissions.",
+      "abstract": "Pres Obama challenges China to make effort to reduce its greenhouse-gas emissions and join worldwide campaign to curb global warming; Obama's remarks, delivered in packed chamber of United Nations General Assembly, are broadly aimed at marshaling more than 100 world leaders to confront climate change.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/24/world/PREXY-2/PREXY-2-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/24/world/PREXY-2/PREXY-2-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/24/world/PREXY-2/PREXY-2-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/24/world/PREXY-2/PREXY-2-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/24/world/PREXY-2/PREXY-2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/24/world/PREXY-2/PREXY-2-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Obama Presses Chinese on Global Warming",
+        "print_headline": "Obama Presses Chinese to Move to Curb Warming"
+      },
+      "keywords": [
+        {
+          "value": "Greenhouse Gas Emissions",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Global Warming",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "China",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "United Nations",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "organizations"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "persons"
+        },
+        {
+          "value": "General Assembly (UN)",
+          "is_major": "N",
+          "rank": "6",
+          "name": "organizations"
+        }
+      ],
+      "pub_date": "2014-09-24T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Mark",
+            "lastname": "LANDLER"
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Coral",
+            "lastname": "DAVENPORT"
+          }
+        ],
+        "original": "By MARK LANDLER and CORAL DAVENPORT"
+      },
+      "type_of_material": "News",
+      "_id": "5421c08b38f0d83c6e5b730f",
+      "word_count": "1249",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/24/world/PREXY-2/PREXY-2-articleLarge.jpg",
+        "brightness": "45",
+        "saturation": "127",
+        "hue": "28",
+        "shapes": "54"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/24/world/asia/rights-groups-accuse-china-of-exporting-tools-of-torture.html",
+      "snippet": "Chinese companies are selling law enforcement equipment that can be used for torture, fueling abuses in Africa and Asia, rights organizations reported Tuesday.",
+      "lead_paragraph": "Chinese companies are selling law enforcement equipment that can be used for torture, fueling abuses in Africa and Asia, rights organizations reported Tuesday.",
+      "abstract": "Report by Amnesty International and Omega Research Foundation finds that more than 130 Chinese companies are exporting law enforcement equipment that can be used for torture; study finds that exports are fueling human rights abuses in Africa and Asia.",
+      "print_page": "6",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/23/world/24china/24china-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/23/world/24china/24china-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/23/world/24china/24china-articleLarge.jpg",
+          "height": 450,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/23/world/24china/24china-articleLarge.jpg",
+            "xlargeheight": "450"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/23/world/24china/24china-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/23/world/24china/24china-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Rights Groups Say China Exports ‘Tools of Torture’",
+        "print_headline": "Rights Groups Say China Exports ‘Tools of Torture’"
+      },
+      "keywords": [
+        {
+          "value": "China",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Torture",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Amnesty International",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "organizations"
+        },
+        {
+          "value": "Omega Research Foundation",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "organizations"
+        },
+        {
+          "value": "Human Rights and Human Rights Violations",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Police Brutality, Misconduct and Shootings",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-24T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Dan",
+            "lastname": "LEVIN"
+          }
+        ],
+        "original": "By DAN LEVIN"
+      },
+      "type_of_material": "News",
+      "_id": "542154dd38f0d81f7a60154e",
+      "word_count": "724",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/23/world/24china/24china-articleLarge.jpg",
+        "brightness": "171",
+        "saturation": "9",
+        "hue": "51",
+        "shapes": "36"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/22/sports/tennis/li-sees-bright-future-for-tennis-in-china.html",
+      "snippet": "Li insisted that she had no regrets about retiring and said in an interview that after relaxing for a while, she wants to open a tennis academy.",
+      "lead_paragraph": "Li insisted that she had no regrets about retiring and said in an interview that after relaxing for a while, she wants to open a tennis academy.",
+      "abstract": "Tennis star Li Na, world's second-highest-paid female athlete, is moved to tears during her retirement press conference in Beijing; insists that she has no regrets about retiring and says that after relaxing for a while, she plans on opening the Li Na Tennis Academy.",
+      "print_page": "6",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/22/sports/22tennis2/22tennis2-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/22/sports/22tennis2/22tennis2-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/22/sports/22tennis2/22tennis2-articleLarge.jpg",
+          "height": 437,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/22/sports/22tennis2/22tennis2-articleLarge.jpg",
+            "xlargeheight": "437"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/22/sports/22tennis2/22tennis2-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/22/sports/22tennis2/22tennis2-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Retiring Li Na Has Eyes on Business, and Future of Tennis in China",
+        "print_headline": "Retiring Li Has Eyes on Business, and Future of Tennis in China"
+      },
+      "keywords": [
+        {
+          "value": "Tennis",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Li Na",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "persons"
+        },
+        {
+          "value": "China",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Eisenbud, Max",
+          "is_major": "N",
+          "rank": "5",
+          "name": "persons"
+        }
+      ],
+      "pub_date": "2014-09-22T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Sports",
+      "section_name": "Sports",
+      "subsection_name": "Tennis",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Ben",
+            "lastname": "ROTHENBERG"
+          }
+        ],
+        "original": "By BEN ROTHENBERG"
+      },
+      "type_of_material": "Interview",
+      "_id": "541f083538f0d82d9dae0ccb",
+      "word_count": "868",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/22/sports/22tennis2/22tennis2-articleLarge.jpg",
+        "brightness": "145",
+        "saturation": "115",
+        "hue": "13",
+        "shapes": "39"
+      }
+    },
+    {
+      "web_url": "http://dealbook.nytimes.com/2014/09/14/alibabas-link-to-elite-military-family-is-etched-in-stone/",
+      "snippet": "An ancestral tablet at a Chinese tomb shows how an executive who profited from Alibaba’s acquisition of her company is connected to a family of prominent generals.",
+      "lead_paragraph": null,
+      "abstract": "An ancestral tablet at a Chinese tomb shows how an executive who profited from Alibaba’s acquisition of her company is connected to a family of prominent generals.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/15/business/alibabajump1/alibabajump1-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/15/business/alibabajump1/alibabajump1-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/15/business/alibabajump1/alibabajump1-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/15/business/alibabajump1/alibabajump1-articleLarge-v2.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/15/business/alibabajump1/alibabajump1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/15/business/alibabajump1/alibabajump1-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Alibaba's Link to Elite Military Family Is Etched in Stone",
+        "kicker": "DealBook",
+        "print_headline": "Alibaba’s Link to Elite Family Is Etched in Stone"
+      },
+      "keywords": [
+        {
+          "value": "Citic 21CN Co Ltd",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "China",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Alibaba Group Holding Ltd",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "organizations"
+        },
+        {
+          "value": "Chen Xiaoying",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "Ma, Jack",
+          "name": "persons",
+          "rank": "2"
+        },
+        {
+          "value": "Zhang Zhen (1914- )",
+          "name": "persons",
+          "rank": "3"
+        },
+        {
+          "value": "Initial Public Offerings",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "Mergers, Acquisitions and Divestitures",
+          "name": "subject",
+          "rank": "2"
+        }
+      ],
+      "pub_date": "2014-09-14T21:13:55Z",
+      "document_type": "blogpost",
+      "news_desk": "Business",
+      "section_name": "Business Day",
+      "subsection_name": "Dealbook",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Michael",
+            "lastname": "FORSYTHE"
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Jonathan",
+            "lastname": "ANSFIELD"
+          }
+        ],
+        "original": "By MICHAEL FORSYTHE and JONATHAN ANSFIELD"
+      },
+      "type_of_material": "Blog",
+      "_id": "54163dfa38f0d85fde323ddb",
+      "word_count": "1433",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/15/business/alibabajump1/alibabajump1-articleLarge-v2.jpg",
+        "brightness": "129",
+        "saturation": "123",
+        "hue": "52",
+        "shapes": "4"
+      }
+    },
+    {
+      "web_url": "http://boss.blogs.nytimes.com/2014/09/17/have-you-tried-selling-products-in-china/",
+      "snippet": "For less than the price of a plane ticket to China, Export Now promised to ship a small business’s goods to China and put them online in a massive market. Most small businesses were not interested.",
+      "lead_paragraph": null,
+      "abstract": "For less than the price of a plane ticket to China, Export Now promised to ship a small business’s goods to China and put them online in a massive market. Most small businesses were not interested.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/17/business/smallbusiness/17sbiz/17sbiz-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/17/business/smallbusiness/17sbiz/17sbiz-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/17/business/smallbusiness/17sbiz/17sbiz-articleLarge.jpg",
+          "height": 361,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/17/business/smallbusiness/17sbiz/17sbiz-articleLarge.jpg",
+            "xlargeheight": "361"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/17/business/smallbusiness/17sbiz/17sbiz-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/17/business/smallbusiness/17sbiz/17sbiz-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Have You Tried Selling Products in China?",
+        "kicker": "You&#039;re the Boss"
+      },
+      "keywords": [
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Small Business",
+          "name": "subject",
+          "rank": "1"
+        }
+      ],
+      "pub_date": "2014-09-17T12:57:01Z",
+      "document_type": "blogpost",
+      "news_desk": "Business",
+      "section_name": "Business Day",
+      "subsection_name": "Small Business",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1
+          }
+        ],
+        "original": "By YOU'RE THE BOSS EDITORS"
+      },
+      "type_of_material": "Blog",
+      "_id": "5419bd7c38f0d80959e6b9c4",
+      "word_count": "155",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/17/business/smallbusiness/17sbiz/17sbiz-articleLarge.jpg",
+        "brightness": "122",
+        "saturation": "62",
+        "hue": "122",
+        "shapes": "81"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/20/business/international/gsk-china-fines.html",
+      "snippet": "The fine is the largest ever imposed in the country, and the British drug maker&#8217;s former chief executive there was given a suspended prison sentence.",
+      "lead_paragraph": "The fine is the largest ever imposed in the country, and the British drug maker&#8217;s former chief executive there was given a suspended prison sentence.",
+      "abstract": null,
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/20/business/20glaxo-cnd/20glaxo-cnd-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/20/business/20glaxo-cnd/20glaxo-cnd-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/20/business/20glaxo-cnd/20glaxo-cnd-articleLarge.jpg",
+          "height": 369,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/20/business/20glaxo-cnd/20glaxo-cnd-articleLarge.jpg",
+            "xlargeheight": "369"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/20/business/20glaxo-cnd/20glaxo-cnd-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/20/business/20glaxo-cnd/20glaxo-cnd-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "China Fines GlaxoSmithKline Nearly $500 Million in Bribery Case",
+        "print_headline": "Glaxo Fined $500 Million by China"
+      },
+      "keywords": [
+        {
+          "value": "Fines (Penalties)",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Drugs (Pharmaceuticals)",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "GlaxoSmithKline PLC",
+          "is_major": "N",
+          "rank": "3",
+          "name": "organizations"
+        },
+        {
+          "value": "China",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Frauds and Swindling",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-20T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Business",
+      "section_name": "Business Day",
+      "subsection_name": "International Business",
+      "byline": {
+        "contributor": "Jane Perlez contributed reporting from Beijing.",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Keith",
+            "lastname": "BRADSHER"
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Chris",
+            "lastname": "BUCKLEY"
+          }
+        ],
+        "original": "By KEITH BRADSHER and CHRIS BUCKLEY"
+      },
+      "type_of_material": "News",
+      "_id": "541bf21538f0d8296cb10522",
+      "word_count": "1193",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/20/business/20glaxo-cnd/20glaxo-cnd-articleLarge.jpg",
+        "brightness": "109",
+        "saturation": "43",
+        "hue": "42",
+        "shapes": "4"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/12/business/chinese-regulators-fine-volkswagen-and-chrysler-on-antitrust-charges.html",
+      "snippet": "Regulators imposed penalties totaling $46 million, saying the automakers conspired to keep prices high on cars and replacement parts.",
+      "lead_paragraph": "Regulators imposed penalties totaling $46 million, saying the automakers conspired to keep prices high on cars and replacement parts.",
+      "abstract": "Chinese regulators fine Volkswagen and Chrysler for violating antitrust laws, announcing the first monetary penalties against large multinational carmakers swept up in broad investigation.",
+      "print_page": "2",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/12/business/Antitrust/Antitrust-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/12/business/Antitrust/Antitrust-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/12/business/Antitrust/Antitrust-articleLarge.jpg",
+          "height": 350,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/12/business/Antitrust/Antitrust-articleLarge.jpg",
+            "xlargeheight": "350"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/12/business/Antitrust/Antitrust-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/12/business/Antitrust/Antitrust-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "China Fines Volkswagen and Chrysler for Antitrust Violations",
+        "print_headline": "China Fines Volkswagen and Chrysler for Antitrust Violations"
+      },
+      "keywords": [
+        {
+          "value": "Automobiles",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "China",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "glocations"
+        },
+        {
+          "value": "Chrysler Group LLC",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "organizations"
+        },
+        {
+          "value": "Audi Division of Volkswagen AG",
+          "is_major": "N",
+          "rank": "4",
+          "name": "organizations"
+        },
+        {
+          "value": "Volkswagen AG",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "organizations"
+        },
+        {
+          "value": "Antitrust Laws and Competition Issues",
+          "is_major": "Y",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "Fines (Penalties)",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        },
+        {
+          "value": "",
+          "is_major": "N",
+          "rank": "1",
+          "name": "unknown"
+        }
+      ],
+      "pub_date": "2014-09-12T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Business",
+      "section_name": "Business Day",
+      "subsection_name": "International Business",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Keith",
+            "lastname": "BRADSHER"
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Chris",
+            "lastname": "BUCKLEY"
+          }
+        ],
+        "original": "By KEITH BRADSHER and CHRIS BUCKLEY"
+      },
+      "type_of_material": "News",
+      "_id": "5411b30d38f0d869f5e8afc7",
+      "word_count": "978",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/12/business/Antitrust/Antitrust-articleLarge.jpg",
+        "brightness": "126",
+        "saturation": "30",
+        "hue": "60",
+        "shapes": "16"
       }
     }
   ]

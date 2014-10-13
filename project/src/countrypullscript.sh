@@ -13,13 +13,18 @@ rm -rf temp
 mkdir countryData
 mkdir temp
 
+touch temp/pagecount.txt
+echo "0" > temp/pagecount.txt
+
 echo " "
 
 for((i=0; i<$totalCountries; i++))
 do
 	# Enriching the dataset
-	echo "Downloading Metadata: ${country[$i]}"
-	sh pullscript.sh ${country[$i]} $imageRequest > countryData/${country[$i]}.jsonl
+	echo "Downloading Metadata: ${country[$i]} \c"
+	sh pullscript.sh ${country[$i]} $imageRequest
+	totalDownloads=`awk '{print $1}' temp/pagecount.txt`
+	echo $totalDownloads
 	
 	# pulling images
 	echo "Downloading Images: ${country[$i]}"
@@ -36,7 +41,6 @@ do
 	rm countryData/linkUpdated${country[$i]}.jsonl
 	rm countryData/combinedData${country[$i]}.jsonl
 	rm countryData/combinedJSON${country[$i]}.json
-
 done
 
 # visualisation

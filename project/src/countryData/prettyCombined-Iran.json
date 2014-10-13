@@ -2373,6 +2373,3641 @@
         "hue": "93",
         "shapes": "96"
       }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/17/world/middleeast/shiite-militias-pose-challenge-for-us-in-iraq.html",
+      "snippet": "The de facto coalition of militias, the United States and the Iraqi government against the Islamic State shows little promise for stability.",
+      "lead_paragraph": "The de facto coalition of militias, the United States and the Iraqi government against the Islamic State shows little promise for stability.",
+      "abstract": "Power and autonomy of Asaib Ahl al-Haq and other Shiite militias in fight to defeat Islamic State in Iraq and Syria pose central challenge to creation of a more just and less sectarian Iraqi government; while many Iraqi Shiites view militias as their protectors, many in Sunni minority say they fear groups as agents of Iran, empowered by Iraqi government to kill with impunity.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/17/world/MILITIA/MILITIA-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/17/world/MILITIA/MILITIA-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/17/world/MILITIA/MILITIA-articleLarge.jpg",
+          "height": 384,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/17/world/MILITIA/MILITIA-articleLarge.jpg",
+            "xlargeheight": "384"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/17/world/MILITIA/MILITIA-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/17/world/MILITIA/MILITIA-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Shiite Militias Pose Challenge for U.S. in Iraq",
+        "print_headline": "Shiite Militias Pose Challenge for U.S. in Iraq"
+      },
+      "keywords": [
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "Asaib Ahl al-Haq",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Terrorism",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Sunni Muslims",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "Shiite Muslims",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        },
+        {
+          "value": "Iraqi Army",
+          "is_major": "N",
+          "rank": "8",
+          "name": "organizations"
+        }
+      ],
+      "pub_date": "2014-09-17T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "David"
+          }
+        ],
+        "original": "By DAVID D. KIRKPATRICK"
+      },
+      "type_of_material": "News",
+      "_id": "5418e27038f0d86afc9a0b10",
+      "word_count": "1464",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/17/world/MILITIA/MILITIA-articleLarge.jpg",
+        "brightness": "214",
+        "saturation": "54",
+        "hue": "23",
+        "shapes": "28"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/26/world/middleeast/hassan-rouhani-iran-united-nations.html",
+      "snippet": "The president of Iran, Hassan Rouhani, said the West and Arab states should apologize for &#8220;blunders&#8221; that he said had given rise to extremist groups.",
+      "lead_paragraph": "The president of Iran, Hassan Rouhani, said the West and Arab states should apologize for &#8220;blunders&#8221; that he said had given rise to extremist groups.",
+      "abstract": "Iranian Pres Hassan Rouhani, during his annual speech to the United Nations, says West and Arab states should apologize for mistakes that have given rise to Islamic State and other violent jihadist groups; also denounces Western-led sanctions imposed on Iran's nuclear program and reiterates his government's desire to resolve Iran's protracted dispute with United States and other nations over the program.",
+      "print_page": "14",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/26/world/NATIONS/NATIONS-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/26/world/NATIONS/NATIONS-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/26/world/NATIONS/NATIONS-articleLarge.jpg",
+          "height": 346,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/26/world/NATIONS/NATIONS-articleLarge.jpg",
+            "xlargeheight": "346"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/26/world/NATIONS/NATIONS-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/26/world/NATIONS/NATIONS-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Iran&#8217;s President Says West&#8217;s &#8216;Blunders&#8217; Aided Rise of Islamic State",
+        "print_headline": "Iran&#8217;s President Says West&#8217;s &#8216;Blunders&#8217; Aided Rise of Islamic State"
+      },
+      "keywords": [
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "N",
+          "rank": "11",
+          "name": "subject"
+        },
+        {
+          "value": "Rouhani, Hassan",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "persons"
+        },
+        {
+          "value": "United Nations",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "organizations"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "organizations"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "N",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "Syria",
+          "is_major": "N",
+          "rank": "6",
+          "name": "glocations"
+        },
+        {
+          "value": "Nuclear Weapons",
+          "is_major": "Y",
+          "rank": "7",
+          "name": "subject"
+        },
+        {
+          "value": "Embargoes and Sanctions",
+          "is_major": "N",
+          "rank": "8",
+          "name": "subject"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "9",
+          "name": "persons"
+        },
+        {
+          "value": "General Assembly (UN)",
+          "is_major": "N",
+          "rank": "10",
+          "name": "organizations"
+        }
+      ],
+      "pub_date": "2014-09-26T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "Mark Landler and Rick Gladstone contributed reporting from New York.",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Somini",
+            "lastname": "SENGUPTA"
+          }
+        ],
+        "original": "By SOMINI SENGUPTA"
+      },
+      "type_of_material": "News",
+      "_id": "54242e9538f0d84b4e7ea0b9",
+      "word_count": "649",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/26/world/NATIONS/NATIONS-articleLarge.jpg",
+        "brightness": "51",
+        "saturation": "137",
+        "hue": "85",
+        "shapes": "115"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/22/us/familys-video-appeals-to-iran-for-release-of-american.html",
+      "snippet": "A video featuring the terminally ill father of Amir Hekmati, who has been incarcerated for three years, was released near the opening of the United Nations General Assembly.",
+      "lead_paragraph": "A video featuring the terminally ill father of Amir Hekmati, who has been incarcerated for three years, was released near the opening of the United Nations General Assembly.",
+      "abstract": "Family of Amir Hekmati, former United States Marine incarcerated in Tehran for three years, calls attention to case by releasing video in which his terminally ill father appeals to Iranian leaders for Hekmati's release; video appears ahead of opening of the United Nations General Assembly.",
+      "print_page": "6",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/22/world/SUB-MARINE/SUB-MARINE-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/22/world/SUB-MARINE/SUB-MARINE-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/22/world/SUB-MARINE/SUB-MARINE-articleLarge.jpg",
+          "height": 855,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/22/world/SUB-MARINE/SUB-MARINE-articleLarge.jpg",
+            "xlargeheight": "855"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/22/world/SUB-MARINE/SUB-MARINE-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/22/world/SUB-MARINE/SUB-MARINE-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Family&#8217;s Video Appeals to Iran for Release of American",
+        "print_headline": "Family’s Video Appeals to Iran for Release of American"
+      },
+      "keywords": [
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Hekmati, Amir Mirzaei",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "persons"
+        },
+        {
+          "value": "Political Prisoners",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Iranian-Americans",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "Video Recordings, Downloads and Streaming",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Amnesties, Commutations and Pardons",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "General Assembly (UN)",
+          "is_major": "N",
+          "rank": "7",
+          "name": "organizations"
+        },
+        {
+          "value": "New York State",
+          "is_major": "N",
+          "rank": "8",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-22T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "U.S.",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Rick",
+            "lastname": "GLADSTONE"
+          }
+        ],
+        "original": "By RICK GLADSTONE"
+      },
+      "type_of_material": "News",
+      "_id": "541f920338f0d82d9dae0dbb",
+      "word_count": "772",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/22/world/SUB-MARINE/SUB-MARINE-articleLarge.jpg",
+        "brightness": "157",
+        "saturation": "118",
+        "hue": "16",
+        "shapes": "222"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/20/world/middleeast/at-un-kerry-thanks-other-nations-for-their-support-in-fighting-islamic-state.html",
+      "snippet": "In drumming up support in the fight against a terrorist group, the secretary of state suggested that Iran had a role to play.",
+      "lead_paragraph": "In drumming up support in the fight against a terrorist group, the secretary of state suggested that Iran had a role to play.",
+      "abstract": "Sec of State John Kerry expresses gratitude at United Nations to host of allies for bolstering American-led campaign against Islamic State militants; singles out French for airstrikes and Saudi clerics for condemning the group.",
+      "print_page": "8",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/21/world/NATIONS/NATIONS-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/21/world/NATIONS/NATIONS-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/21/world/NATIONS/NATIONS-articleLarge.jpg",
+          "height": 357,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/21/world/NATIONS/NATIONS-articleLarge.jpg",
+            "xlargeheight": "357"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/21/world/NATIONS/NATIONS-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/21/world/NATIONS/NATIONS-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "At U.N., Kerry Thanks Other Nations for Their Support in Fighting Islamic State",
+        "print_headline": "At U.N., Kerry Thanks Other Nations for Their Support in Fighting Islamic State"
+      },
+      "keywords": [
+        {
+          "value": "Kerry, John",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "persons"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "glocations"
+        },
+        {
+          "value": "Syria",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "organizations"
+        },
+        {
+          "value": "United States International Relations",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "United Nations",
+          "is_major": "N",
+          "rank": "6",
+          "name": "organizations"
+        },
+        {
+          "value": "Security Council (UN)",
+          "is_major": "N",
+          "rank": "7",
+          "name": "organizations"
+        },
+        {
+          "value": "Iran",
+          "is_major": "N",
+          "rank": "8",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-20T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Somini",
+            "lastname": "SENGUPTA"
+          }
+        ],
+        "original": "By SOMINI SENGUPTA"
+      },
+      "type_of_material": "News",
+      "_id": "541db2b838f0d81f018b4027",
+      "word_count": "807",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/21/world/NATIONS/NATIONS-articleLarge.jpg",
+        "brightness": "79",
+        "saturation": "85",
+        "hue": "20",
+        "shapes": "89"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/10/12/world/middleeast/irans-jailing-of-activist-offers-hint-of-liberty-under-rouhani.html",
+      "snippet": "The detention without charge of a 25-year-old Iranian-British national who fought for women&#8217;s rights has shown, many say, the limits of personal expression in Iran.",
+      "lead_paragraph": "The detention without charge of a 25-year-old Iranian-British national who fought for women&#8217;s rights has shown, many say, the limits of personal expression in Iran.",
+      "abstract": null,
+      "print_page": "13",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "width": 190,
+          "url": "images/2014/10/12/world/12iran/12iran-thumbWide.jpg",
+          "height": 126,
+          "subtype": "wide",
+          "legacy": {
+            "wide": "images/2014/10/12/world/12iran/12iran-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "width": 600,
+          "url": "static01.nyt.com/images/2014/10/12/world/12iran/12iran-articleLarge.jpg",
+          "height": 412,
+          "subtype": "xlarge",
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/12/world/12iran/12iran-articleLarge.jpg",
+            "xlargeheight": "412"
+          },
+          "type": "image"
+        },
+        {
+          "width": 75,
+          "url": "images/2014/10/12/world/12iran/12iran-thumbStandard.jpg",
+          "height": 75,
+          "subtype": "thumbnail",
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/12/world/12iran/12iran-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Iran’s Jailing of Activist Offers Hint of Liberty Under Rouhani",
+        "print_headline": "Iran Jailing Offers Hint of Liberty Under Rouhani"
+      },
+      "keywords": [
+        {
+          "rank": "1",
+          "is_major": "N",
+          "name": "glocations",
+          "value": "Iran"
+        },
+        {
+          "rank": "2",
+          "is_major": "N",
+          "name": "persons",
+          "value": "Ghavami, Ghoncheh"
+        },
+        {
+          "rank": "3",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Women's Rights"
+        },
+        {
+          "rank": "4",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Political Prisoners"
+        },
+        {
+          "rank": "5",
+          "is_major": "N",
+          "name": "persons",
+          "value": "Rouhani, Hassan"
+        },
+        {
+          "rank": "6",
+          "is_major": "N",
+          "name": "glocations",
+          "value": "Great Britain"
+        }
+      ],
+      "pub_date": "2014-10-12T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "firstname": "Thomas",
+            "rank": 1,
+            "lastname": "ERDBRINK"
+          }
+        ],
+        "original": "By THOMAS ERDBRINK"
+      },
+      "type_of_material": "News",
+      "_id": "543991f238f0d81c57108c6f",
+      "word_count": "1212",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/12/world/12iran/12iran-articleLarge.jpg",
+        "brightness": "38",
+        "saturation": "102",
+        "hue": "77",
+        "shapes": "62"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/30/opinion/roger-cohen-for-isis-slaughter-is-an-end-in-itself.html",
+      "snippet": "Islamic State represents the counterhuman. The human has no alternative but to fight back.",
+      "lead_paragraph": "Islamic State represents the counterhuman. The human has no alternative but to fight back.",
+      "abstract": "Roger Cohen Op-Ed column argues that Islamic State of Iraq and Syria is cult of violence in which there is no place for human reason, cautiously comparing it to irrational destructive force of Nazism; argues when faced with such a force, humanity has no choice but to fight back; contends in this case heaviest responsibility must fall on Arab world, and on Iran in particular.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2010/09/16/opinion/Cohen_New/Cohen_New-thumbWide-v3.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2010/09/16/opinion/Cohen_New/Cohen_New-thumbWide-v3.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2010/09/16/opinion/Cohen_New/Cohen_New-articleLarge.jpg",
+          "height": 900,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2010/09/16/opinion/Cohen_New/Cohen_New-articleLarge.jpg",
+            "xlargeheight": "900"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2010/09/16/opinion/Cohen_New/Cohen_New-thumbStandard-v3.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2010/09/16/opinion/Cohen_New/Cohen_New-thumbStandard-v3.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "seo": "For ISIS, Slaughter Is an End in Itself",
+        "main": "Here There Is No Why",
+        "kicker": "Op-Ed Columnist",
+        "print_headline": "There Is No Why Here",
+        "content_kicker": "Op-Ed Columnist"
+      },
+      "keywords": [
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "glocations"
+        },
+        {
+          "value": "Syria",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Middle East",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "Arabs",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "Holocaust and the Nazi Era",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-30T12:30:00Z",
+      "document_type": "article",
+      "news_desk": "Editorial",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Roger",
+            "lastname": "COHEN"
+          }
+        ],
+        "original": "By ROGER COHEN"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "5429557438f0d843596a335f",
+      "word_count": "810",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2010/09/16/opinion/Cohen_New/Cohen_New-articleLarge.jpg",
+        "brightness": "39",
+        "saturation": "111",
+        "hue": "139",
+        "shapes": "9"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/12/world/middleeast/focus-on-isis-stirs-fears-that-efforts-to-curb-iran-will-recede.html",
+      "snippet": "Until now, President Obama’s No. 1 priority in the Middle East had been clear: preventing Iran from obtaining a nuclear weapon.",
+      "lead_paragraph": "Until now, President Obama’s No. 1 priority in the Middle East had been clear: preventing Iran from obtaining a nuclear weapon.",
+      "abstract": "News Analysis; fight against Islamic State in Iraq and Syria raises fears that Pres Obama's efforts to prevent Iran from obtaining a nuclear weapon will slip.",
+      "print_page": "11",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/12/world/STRATEGY/STRATEGY-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/12/world/STRATEGY/STRATEGY-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/12/world/STRATEGY/STRATEGY-articleLarge.jpg",
+          "height": 397,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/12/world/STRATEGY/STRATEGY-articleLarge.jpg",
+            "xlargeheight": "397"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/12/world/STRATEGY/STRATEGY-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/12/world/STRATEGY/STRATEGY-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "ISIS Fight Raises Fears That Efforts to Curb Iran Will Slip",
+        "kicker": "News Analysis",
+        "print_headline": "ISIS Fight Raises Fears That Efforts to Curb Iran Will Slip",
+        "content_kicker": "News Analysis"
+      },
+      "keywords": [
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Nuclear Weapons",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "organizations"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Syria",
+          "is_major": "N",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "6",
+          "name": "persons"
+        },
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-12T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "firstname": "David",
+            "middlename": "E.",
+            "lastname": "SANGER",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By DAVID E. SANGER"
+      },
+      "type_of_material": "An Analysis; News Analysis",
+      "_id": "5411deef38f0d832853e85bb",
+      "word_count": "1218",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/12/world/STRATEGY/STRATEGY-articleLarge.jpg",
+        "brightness": "135",
+        "saturation": "62",
+        "hue": "24",
+        "shapes": "3"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/16/world/middleeast/iraqi-leader-asks-world-powers-to-pursue-isis-in-syria.html",
+      "snippet": "Secretary of State John Kerry spoke at a Paris conference on the Iraqi security crisis, as Iran’s supreme leader said the American plan for bombing ISIS was absurd.",
+      "lead_paragraph": "Secretary of State John Kerry spoke at a Paris conference on the Iraqi security crisis, as Iran’s supreme leader said the American plan for bombing ISIS was absurd.",
+      "abstract": "Secretary of State John Kerry says Obama administration is open to talking with Iran on security crisis in Iraq, even after Iran's Supreme Leader Ayatollah Ali Khamenei said his country will no longer discuss Middle East issues with the United States.",
+      "print_page": "11",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/16/world/16DIPLO-2/16DIPLO-2-thumbWide-v2.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/16/world/16DIPLO-2/16DIPLO-2-thumbWide-v2.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/16/world/16DIPLO-2/16DIPLO-2-articleLarge.jpg",
+          "height": 408,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/16/world/16DIPLO-2/16DIPLO-2-articleLarge.jpg",
+            "xlargeheight": "408"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/16/world/16DIPLO-2/16DIPLO-2-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/16/world/16DIPLO-2/16DIPLO-2-thumbStandard-v2.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Kerry Says U.S. Is Open to Talking to Iran, Even as Ayatollah Is Dismissive",
+        "print_headline": "Kerry Says U.S. Is Open to Talking to Iran, Even as Ayatollah Is Dismissive"
+      },
+      "keywords": [
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "glocations"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Kerry, John",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "persons"
+        },
+        {
+          "value": "Khamenei, Ali",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "persons"
+        },
+        {
+          "value": "Syria",
+          "is_major": "N",
+          "rank": "6",
+          "name": "glocations"
+        },
+        {
+          "value": "Assad, Bashar al-",
+          "is_major": "N",
+          "rank": "7",
+          "name": "persons"
+        },
+        {
+          "value": "United States International Relations",
+          "is_major": "N",
+          "rank": "8",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-16T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "Michael R. Gordon reported from Paris, and Thomas Erdbrink from Tehran. David D. Kirkpatrick contributed reporting from Baghdad.",
+        "person": [
+          {
+            "firstname": "Michael",
+            "middlename": "R.",
+            "lastname": "GORDON",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Thomas",
+            "lastname": "ERDBRINK"
+          }
+        ],
+        "original": "By MICHAEL R. GORDON and THOMAS ERDBRINK"
+      },
+      "type_of_material": "News",
+      "_id": "5416b64438f0d85fde323f0e",
+      "word_count": "888",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/16/world/16DIPLO-2/16DIPLO-2-articleLarge.jpg",
+        "brightness": "53",
+        "saturation": "96",
+        "hue": "159",
+        "shapes": "42"
+      }
+    },
+    {
+      "web_url": "http://lens.blogs.nytimes.com/2014/09/12/in-iran-mothers-dream-of-missing-sons/",
+      "snippet": "In visions and doorways, Iranian mothers hold out hope their sons will one day return three decades after going missing in the war with Iraq.",
+      "lead_paragraph": null,
+      "abstract": "In visions and doorways, Iranian mothers hold out hope their sons will one day return three decades after going missing in the war with Iraq.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/11/blogs/20140911-lens-fatimah-slide-O0IW/20140911-lens-fatimah-slide-O0IW-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/11/blogs/20140911-lens-fatimah-slide-O0IW/20140911-lens-fatimah-slide-O0IW-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/11/blogs/20140911-lens-fatimah-slide-O0IW/20140911-lens-fatimah-slide-O0IW-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/11/blogs/20140911-lens-fatimah-slide-O0IW/20140911-lens-fatimah-slide-O0IW-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/11/blogs/20140911-lens-fatimah-slide-O0IW/20140911-lens-fatimah-slide-O0IW-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/11/blogs/20140911-lens-fatimah-slide-O0IW/20140911-lens-fatimah-slide-O0IW-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "In Iran, Mothers Dream of Missing Sons",
+        "kicker": "Lens"
+      },
+      "keywords": [
+        {
+          "value": "Amsterdam (Netherlands)",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Iran",
+          "name": "glocations",
+          "rank": "2"
+        },
+        {
+          "value": "Malaysia",
+          "name": "glocations",
+          "rank": "3"
+        },
+        {
+          "value": "World Press Photo Foundation",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Awards, Decorations and Honors",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "Photography",
+          "name": "subject",
+          "rank": "2"
+        }
+      ],
+      "pub_date": "2014-09-12T05:00:31Z",
+      "document_type": "blogpost",
+      "news_desk": null,
+      "section_name": "Multimedia",
+      "subsection_name": null,
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Kerri",
+            "lastname": "MACDONALD"
+          }
+        ],
+        "original": "By KERRI MACDONALD"
+      },
+      "type_of_material": "Blog",
+      "_id": "5412b6ce38f0d832853e885e",
+      "word_count": "807",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/11/blogs/20140911-lens-fatimah-slide-O0IW/20140911-lens-fatimah-slide-O0IW-articleLarge.jpg",
+        "brightness": "null",
+        "saturation": "null",
+        "hue": "null",
+        "shapes": "null"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/07/19/opinion/patrick-chappatte-negotiations-with-iran.html",
+      "snippet": "Discussions about Iran’s nuclear enrichment program are set to continue.",
+      "lead_paragraph": "Discussions about Iran’s nuclear enrichment program are set to continue.",
+      "abstract": null,
+      "print_page": "",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/07/19/opinion/19chappatte/19chappatte-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/07/19/opinion/19chappatte/19chappatte-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/07/19/opinion/19chappatte/19chappatte-articleLarge.jpg",
+          "height": 489,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/07/19/opinion/19chappatte/19chappatte-articleLarge.jpg",
+            "xlargeheight": "489"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/07/19/opinion/19chappatte/19chappatte-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/07/19/opinion/19chappatte/19chappatte-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Negotiations with Iran",
+        "kicker": "Patrick Chappatte",
+        "content_kicker": "Patrick Chappatte"
+      },
+      "keywords": [
+        {
+          "value": "Iran",
+          "is_major": "N",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Chappatte, Patrick",
+          "is_major": "N",
+          "rank": "1",
+          "name": "persons"
+        },
+        {
+          "value": "United States International Relations",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Kerry, John",
+          "is_major": "N",
+          "rank": "4",
+          "name": "persons"
+        }
+      ],
+      "pub_date": "2014-07-19T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "OpEd",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": [],
+      "type_of_material": "Op-Ed",
+      "_id": "53c8f21438f0d80b5141b928",
+      "word_count": "10",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/07/19/opinion/19chappatte/19chappatte-articleLarge.jpg",
+        "brightness": "242",
+        "saturation": "5",
+        "hue": "138",
+        "shapes": "163"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/28/business/international/bnp-paribas-chairman-to-step-down-as-french-bank-seeks-to-shed-stigma.html",
+      "snippet": "Baudouin Prot is leaving in the wake of the institution&#8217;s guilty plea and fines in the United States for dealing with blacklisted countries.",
+      "lead_paragraph": "Baudouin Prot is leaving in the wake of the institution&#8217;s guilty plea and fines in the United States for dealing with blacklisted countries.",
+      "abstract": "Baudouin Prot is stepping down as chairman of the French bank BNP Paribas in wake of the institution's guilty plea and nearly $9 billion in fines in the United States for its dealings with blacklisted countries; Jean Lemierre, former head of the European Bank for Reconstruction and Development, is set to replace him.",
+      "print_page": "14",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/28/world/28paribas/28paribas-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/28/world/28paribas/28paribas-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/28/world/28paribas/28paribas-articleLarge.jpg",
+          "height": 744,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/28/world/28paribas/28paribas-articleLarge.jpg",
+            "xlargeheight": "744"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/28/world/28paribas/28paribas-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/28/world/28paribas/28paribas-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "BNP Paribas, After Scandal, Says Chairman Will Resign ",
+        "print_headline": "BNP Paribas, After Scandal, Says Chairman Will Resign"
+      },
+      "keywords": [
+        {
+          "value": "BNP Paribas",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "Prot, Baudouin",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "persons"
+        },
+        {
+          "value": "Lemierre, Jean",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "persons"
+        },
+        {
+          "value": "Appointments and Executive Changes",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "France",
+          "is_major": "N",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "Fines (Penalties)",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "Suits and Litigation (Civil)",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "8",
+          "name": "glocations"
+        },
+        {
+          "value": "Iran",
+          "is_major": "N",
+          "rank": "9",
+          "name": "glocations"
+        },
+        {
+          "value": "Sudan",
+          "is_major": "N",
+          "rank": "10",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-28T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Business",
+      "section_name": "Business Day",
+      "subsection_name": "International Business",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "David",
+            "lastname": "JOLLY"
+          }
+        ],
+        "original": "By DAVID JOLLY"
+      },
+      "type_of_material": "News",
+      "_id": "5426b0e038f0d862dbf4ea98",
+      "word_count": "311",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/28/world/28paribas/28paribas-articleLarge.jpg",
+        "brightness": "188",
+        "saturation": "41",
+        "hue": "26",
+        "shapes": "11"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/19/opinion/strategy-for-fighting-the-islamic-state.html",
+      "snippet": "Readers discuss President Obama&#8217;s plan to train and arm Syrian rebels.",
+      "lead_paragraph": "Readers discuss President Obama&#8217;s plan to train and arm Syrian rebels.",
+      "abstract": null,
+      "print_page": "28",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/19/opinion/0919lettersISIS/0919lettersISIS-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/19/opinion/0919lettersISIS/0919lettersISIS-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/19/opinion/0919lettersISIS/0919lettersISIS-articleLarge.jpg",
+          "height": 762,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/19/opinion/0919lettersISIS/0919lettersISIS-articleLarge.jpg",
+            "xlargeheight": "762"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/19/opinion/0919lettersISIS/0919lettersISIS-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/19/opinion/0919lettersISIS/0919lettersISIS-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Strategy for Fighting the Islamic State",
+        "kicker": "Letters",
+        "print_headline": "Strategy for Fighting the Islamic State",
+        "content_kicker": "Letters"
+      },
+      "keywords": [
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "N",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "Syria",
+          "is_major": "N",
+          "rank": "2",
+          "name": "glocations"
+        },
+        {
+          "value": "Turkey",
+          "is_major": "N",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Iran",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Saudi Arabia",
+          "is_major": "N",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "7",
+          "name": "persons"
+        }
+      ],
+      "pub_date": "2014-09-19T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Letters",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": [],
+      "type_of_material": "Letter",
+      "_id": "541b6fdb38f0d8296cb0f99f",
+      "word_count": "621",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/19/opinion/0919lettersISIS/0919lettersISIS-articleLarge.jpg",
+        "brightness": "null",
+        "saturation": "null",
+        "hue": "null",
+        "shapes": "null"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/video/world/middleeast/100000003001373/john-kerry-on-nuclear-negotiations.html",
+      "snippet": "Secretary of State John Kerry announced that intense nuclear negotiations with Iran have yielded “tangible progress,” but that significant gaps remain.",
+      "lead_paragraph": "Secretary of State John Kerry announced that intense nuclear negotiations with Iran have yielded “tangible progress,” but that significant gaps remain.",
+      "abstract": null,
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/07/15/multimedia/kerry-iran/kerry-iran-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/07/15/multimedia/kerry-iran/kerry-iran-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/07/15/multimedia/kerry-iran/kerry-iran-articleLarge.jpg",
+          "height": 427,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/07/15/multimedia/kerry-iran/kerry-iran-articleLarge.jpg",
+            "xlargeheight": "427"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/07/15/multimedia/kerry-iran/kerry-iran-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/07/15/multimedia/kerry-iran/kerry-iran-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Kerry on Nuclear Negotiations"
+      },
+      "keywords": [
+        {
+          "value": "Kerry, John",
+          "is_major": "N",
+          "rank": "3",
+          "name": "persons"
+        },
+        {
+          "value": "Iran",
+          "is_major": "N",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Nuclear Weapons",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "United States International Relations",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-07-15T12:16:55Z",
+      "document_type": "multimedia",
+      "news_desk": "World / Middle East",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Carrie",
+            "lastname": "Halperin"
+          }
+        ],
+        "original": "Carrie Halperin"
+      },
+      "type_of_material": "Video",
+      "_id": "53c5540b38f0d844fb7d8111",
+      "word_count": "21",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/07/15/multimedia/kerry-iran/kerry-iran-articleLarge.jpg",
+        "brightness": "177",
+        "saturation": "6",
+        "hue": "106",
+        "shapes": "26"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/07/20/world/middleeast/staying-the-course-on-iran-by-threatening-pain-and-offering-relief.html",
+      "snippet": "Behind President Obama’s decision to extend the Iran nuclear negotiations is a calculation that the administration has the mix of pressure and incentives just about right.",
+      "lead_paragraph": "Behind President Obama’s decision to extend the Iran nuclear negotiations is a calculation that the administration has the mix of pressure and incentives just about right.",
+      "abstract": "News analysis; Obama administration believes agreement to a four-month extension of nuclear negotiations with Iran is strategic diplomacy; Congress, and some nuclear experts pushing for a harder line, strongly disagree, arguing that only more sanctions, more pressure and lurking threat of military action will get a final deal done.",
+      "print_page": "6",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/07/20/world/NUKES/NUKES-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/07/20/world/NUKES/NUKES-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/07/20/world/NUKES/NUKES-articleLarge.jpg",
+          "height": 410,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/07/20/world/NUKES/NUKES-articleLarge.jpg",
+            "xlargeheight": "410"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/07/20/world/NUKES/NUKES-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/07/20/world/NUKES/NUKES-thumbStandard-v2.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Staying the Course on Iran by Threatening Pain and Offering Relief",
+        "kicker": "News Analysis",
+        "print_headline": "Staying the Course on Iran by Threatening Pain and Offering Relief",
+        "content_kicker": "News Analysis"
+      },
+      "keywords": [
+        {
+          "value": "Zarif, Mohammad Javad",
+          "is_major": "N",
+          "rank": "5",
+          "name": "persons"
+        },
+        {
+          "value": "United States International Relations",
+          "is_major": "N",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "6",
+          "name": "glocations"
+        },
+        {
+          "value": "Embargoes and Sanctions",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Nuclear Weapons",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "4",
+          "name": "persons"
+        }
+      ],
+      "pub_date": "2014-07-20T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "firstname": "David",
+            "middlename": "E.",
+            "lastname": "SANGER",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By DAVID E. SANGER"
+      },
+      "type_of_material": "An Analysis; News Analysis",
+      "_id": "53ca998c38f0d813330d4da8",
+      "word_count": "1190",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/07/20/world/NUKES/NUKES-articleLarge.jpg",
+        "brightness": "154",
+        "saturation": "78",
+        "hue": "32",
+        "shapes": "12"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/07/15/world/middleeast/iran-outlines-nuclear-deal-accepts-limit.html",
+      "snippet": "Iran’s foreign minister, Mohammad Javad Zarif, said the country could accept a freeze on its capacity to produce nuclear fuel at current levels for several years, provided it could eventually produce fuel unhindered.",
+      "lead_paragraph": "Iran’s foreign minister, Mohammad Javad Zarif, said the country could accept a freeze on its capacity to produce nuclear fuel at current levels for several years, provided it could eventually produce fuel unhindered.",
+      "abstract": "Iran's Foreign Min Mohammad Javad Zarif says country can accept a freeze on its capacity to produce nuclear fuel at current levels for several years, provided it can eventually produce fuel unhindered; negotiation is taking place on at least two levels: a political and a technical discussion.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/07/15/world/NUKES/NUKES-thumbWide-v3.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/07/15/world/NUKES/NUKES-thumbWide-v3.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/07/15/world/NUKES/NUKES-articleLarge-v2.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/07/15/world/NUKES/NUKES-articleLarge-v2.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/07/15/world/NUKES/NUKES-thumbStandard-v3.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/07/15/world/NUKES/NUKES-thumbStandard-v3.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Iran Outlines Nuclear Deal; Accepts Limit",
+        "print_headline": "Iran Outlines Nuclear Deal; Accepts Limit"
+      },
+      "keywords": [
+        {
+          "value": "International Relations",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Kerry, John",
+          "is_major": "N",
+          "rank": "9",
+          "name": "persons"
+        },
+        {
+          "value": "Khamenei, Ali",
+          "is_major": "N",
+          "rank": "7",
+          "name": "persons"
+        },
+        {
+          "value": "Zarif, Mohammad Javad",
+          "is_major": "N",
+          "rank": "6",
+          "name": "persons"
+        },
+        {
+          "value": "Embargoes and Sanctions",
+          "is_major": "N",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "8",
+          "name": "persons"
+        },
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Nuclear Weapons",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "United States International Relations",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-07-15T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "firstname": "David",
+            "middlename": "E.",
+            "lastname": "SANGER",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By DAVID E. SANGER"
+      },
+      "type_of_material": "News",
+      "_id": "53c48cc538f0d832710c0b92",
+      "word_count": "1519",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/07/15/world/NUKES/NUKES-articleLarge-v2.jpg",
+        "brightness": "183",
+        "saturation": "31",
+        "hue": "152",
+        "shapes": "43"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/times-insider/2014/08/29/what-were-reading-31/",
+      "snippet": "Recommended reads from New York Times reporters and editors, highlighting great stories from around the web.",
+      "lead_paragraph": null,
+      "abstract": "Recommended reads from New York Times reporters and editors, highlighting great stories from around the web.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/08/29/blogs/wwr1/wwr1-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/08/29/blogs/wwr1/wwr1-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "static01.nyt.com/images/2014/08/29/blogs/wwr1/wwr1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/08/29/blogs/wwr1/wwr1-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "What We're Reading",
+        "kicker": "Times Insider"
+      },
+      "keywords": [
+        {
+          "value": "Kannapell, Andrea",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "Kantor, Jodi",
+          "name": "persons",
+          "rank": "2"
+        },
+        {
+          "value": "Rich, Motoko",
+          "name": "persons",
+          "rank": "3"
+        },
+        {
+          "value": "Schwartz, John",
+          "name": "persons",
+          "rank": "4"
+        },
+        {
+          "value": "Sklar, Rachel",
+          "name": "persons",
+          "rank": "5"
+        },
+        {
+          "value": "Stewart, Jon",
+          "name": "persons",
+          "rank": "6"
+        },
+        {
+          "value": "Afghanistan",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Iran",
+          "name": "glocations",
+          "rank": "2"
+        },
+        {
+          "value": "Syria",
+          "name": "glocations",
+          "rank": "3"
+        },
+        {
+          "value": "Hollywood Reporter",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "New Republic",
+          "name": "organizations",
+          "rank": "2"
+        },
+        {
+          "value": "New York Times",
+          "name": "organizations",
+          "rank": "3"
+        },
+        {
+          "value": "Slate (Magazine)",
+          "name": "organizations",
+          "rank": "4"
+        },
+        {
+          "value": "Starbucks Corporation",
+          "name": "organizations",
+          "rank": "5"
+        },
+        {
+          "value": "Civil War (US) (1861-65)",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "News and News Media",
+          "name": "subject",
+          "rank": "2"
+        },
+        {
+          "value": "Newspapers",
+          "name": "subject",
+          "rank": "3"
+        },
+        {
+          "value": "Terrorism",
+          "name": "subject",
+          "rank": "4"
+        },
+        {
+          "value": "Women and Girls",
+          "name": "subject",
+          "rank": "5"
+        }
+      ],
+      "pub_date": "2014-08-29T16:55:39Z",
+      "document_type": "blogpost",
+      "news_desk": null,
+      "section_name": null,
+      "subsection_name": null,
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Insider",
+            "lastname": "STAFF"
+          }
+        ],
+        "original": "By INSIDER STAFF"
+      },
+      "type_of_material": "Blog",
+      "_id": "5400e92938f0d841b2f3919e",
+      "word_count": "398",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/08/29/blogs/wwr1/wwr1-thumbStandard.jpg",
+        "brightness": "141",
+        "saturation": "61",
+        "hue": "33",
+        "shapes": "3"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/03/world/middleeast/waging-a-desperate-fight-an-iraqi-town-holds-off-militants.html",
+      "snippet": "The siege of Amerli, a northern Shiite Turkmen community, is thought to be the first instance in which a town has kept ISIS at bay since the group began its march through Iraq.",
+      "lead_paragraph": "The siege of Amerli, a northern Shiite Turkmen community, is thought to be the first instance in which a town has kept ISIS at bay since the group began its march through Iraq.",
+      "abstract": "Shiite Turkmens and fellow residents in Amerli, Iraq, are credited for their courage and success, waging weeks-long campaign for survival against ISIS that kept their town out of terrorist control; siege is thought to be first time town has kept militants out; ISIS fighters were eventually driven out by odd coalition of Iraqi and Iranian militias backed by American air support; aid from United Nations has started reaching starving residents.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/03/world/middleeast/IRAQ/IRAQ-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/03/world/middleeast/IRAQ/IRAQ-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/03/world/middleeast/IRAQ/IRAQ-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/03/world/middleeast/IRAQ/IRAQ-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/03/world/middleeast/IRAQ/IRAQ-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/03/world/middleeast/IRAQ/IRAQ-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Waging Desperate Campaign, Iraqi Town Held Off Militants",
+        "print_headline": "Waging Desperate Campaign, Iraqi Town Held Off Militants"
+      },
+      "keywords": [
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "glocations"
+        },
+        {
+          "value": "Amerli (Iraq)",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "Iran",
+          "is_major": "N",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "Terrorism",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-03T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Azam",
+            "lastname": "AHMED"
+          }
+        ],
+        "original": "By AZAM AHMED"
+      },
+      "type_of_material": "News",
+      "_id": "54064d4838f0d81983bde9ce",
+      "word_count": "1153",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/03/world/middleeast/IRAQ/IRAQ-articleLarge.jpg",
+        "brightness": "117",
+        "saturation": "41",
+        "hue": "144",
+        "shapes": "112"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/07/14/world/middleeast/iran-nuclear-talks.html",
+      "snippet": "As Secretary of State John Kerry and his Iranian counterpart try to rescue stalled talks, they are struggling to accommodate members of Congress and Iranian military and religious leaders.",
+      "lead_paragraph": "As Secretary of State John Kerry and his Iranian counterpart try to rescue stalled talks, they are struggling to accommodate members of Congress and Iranian military and religious leaders.",
+      "abstract": "News analysis; Sec of State John Kerry arrives in Vienna in attempt to rescue negotiations with Iran that have stalled on question of how large a nuclear infrastructure nation will be permitted to have; Kerry and his counterpart Iranian Foreign Min Mohammad Javad Zarif are struggling to accommodate both members of Congress and Iranian military and religious leaders, respectively.",
+      "print_page": "5",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/07/13/world/middleeast/14NUKE/14NUKE-thumbWide-v3.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/07/13/world/middleeast/14NUKE/14NUKE-thumbWide-v3.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/07/13/world/middleeast/14NUKE/14NUKE-articleLarge-v3.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/07/13/world/middleeast/14NUKE/14NUKE-articleLarge-v3.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/07/13/world/middleeast/14NUKE/14NUKE-thumbStandard-v3.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/07/13/world/middleeast/14NUKE/14NUKE-thumbStandard-v3.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Americans and Iranians See Constraints at Home in Nuclear Negotiations",
+        "kicker": "News Analysis",
+        "print_headline": "Americans and Iranians See Constraints at Home in Nuclear Negotiations",
+        "content_kicker": "News Analysis"
+      },
+      "keywords": [
+        {
+          "value": "Islamic Revolutionary Guards Corps",
+          "is_major": "N",
+          "rank": "11",
+          "name": "organizations"
+        },
+        {
+          "value": "Khamenei, Ali",
+          "is_major": "N",
+          "rank": "5",
+          "name": "persons"
+        },
+        {
+          "value": "Senate",
+          "is_major": "N",
+          "rank": "9",
+          "name": "organizations"
+        },
+        {
+          "value": "Embargoes and Sanctions",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        },
+        {
+          "value": "United States International Relations",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "Kerry, John",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "persons"
+        },
+        {
+          "value": "Menendez, Robert",
+          "is_major": "N",
+          "rank": "14",
+          "name": "persons"
+        },
+        {
+          "value": "House of Representatives",
+          "is_major": "N",
+          "rank": "8",
+          "name": "organizations"
+        },
+        {
+          "value": "Graham, Lindsey",
+          "is_major": "N",
+          "rank": "13",
+          "name": "persons"
+        },
+        {
+          "value": "Republican Party",
+          "is_major": "N",
+          "rank": "10",
+          "name": "organizations"
+        },
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "12",
+          "name": "persons"
+        },
+        {
+          "value": "Nuclear Weapons",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Zarif, Mohammad Javad",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "persons"
+        }
+      ],
+      "pub_date": "2014-07-14T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "firstname": "David",
+            "middlename": "E.",
+            "lastname": "SANGER",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By DAVID E. SANGER"
+      },
+      "type_of_material": "An Analysis; News Analysis",
+      "_id": "53c2b63538f0d8297e22dd9d",
+      "word_count": "1253",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/07/13/world/middleeast/14NUKE/14NUKE-articleLarge-v3.jpg",
+        "brightness": "141",
+        "saturation": "66",
+        "hue": "37",
+        "shapes": "141"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/15/us/holder-says-private-suit-against-united-against-nuclear-iran-risks-state-secrets.html",
+      "snippet": "After limiting a privilege to dismiss lawsuits in the name of national security, the attorney general has intervened in a defamation case against United Against Nuclear Iran.",
+      "lead_paragraph": "After limiting a privilege to dismiss lawsuits in the name of national security, the attorney general has intervened in a defamation case against United Against Nuclear Iran.",
+      "abstract": "Attorney Gen Eric H Holder Jr, during his first year in office, put new limits on when government can dismiss lawsuits in name of protecting national security; Holder has now broad authority to do just that, intervening in defamation lawsuit against United Against Nuclear Iran, advocacy group pushing for tough sanctions against Tehran; government says case should be dropped because opening files will jeopardize national security.",
+      "print_page": "13",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/15/us/HOLDER/HOLDER-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/15/us/HOLDER/HOLDER-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/15/us/HOLDER/HOLDER-articleLarge.jpg",
+          "height": 416,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/15/us/HOLDER/HOLDER-articleLarge.jpg",
+            "xlargeheight": "416"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/15/us/HOLDER/HOLDER-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/15/us/HOLDER/HOLDER-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Holder Says Private Suit Risks State Secrets",
+        "print_headline": "Holder Says Private Suit Risks State Secrets"
+      },
+      "keywords": [
+        {
+          "value": "United Against Nuclear Iran",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "Classified Information and State Secrets",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Justice Department",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "organizations"
+        },
+        {
+          "value": "Holder, Eric H Jr",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "persons"
+        },
+        {
+          "value": "Suits and Litigation (Civil)",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Central Intelligence Agency",
+          "is_major": "N",
+          "rank": "6",
+          "name": "organizations"
+        },
+        {
+          "value": "Restis, Victor",
+          "is_major": "N",
+          "rank": "7",
+          "name": "persons"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "8",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-15T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "National",
+      "section_name": "U.S.",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Matt",
+            "lastname": "APUZZO"
+          }
+        ],
+        "original": "By MATT APUZZO"
+      },
+      "type_of_material": "News",
+      "_id": "541632d638f0d85fde323dca",
+      "word_count": "752",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/15/us/HOLDER/HOLDER-articleLarge.jpg",
+        "brightness": "52",
+        "saturation": "147",
+        "hue": "23",
+        "shapes": "13"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/07/09/movies/closed-curtain-by-the-iranian-dissident-jafar-panahi.html",
+      "snippet": "“Closed Curtain,” by Jafar Panahi, is a film, or nonfilm, that mixes defiance and whimsy with an edge of melancholy and fatigue.",
+      "lead_paragraph": "“Closed Curtain,” by Jafar Panahi, is a film, or nonfilm, that mixes defiance and whimsy with an edge of melancholy and fatigue.",
+      "abstract": "A O Scott reviews movie Closed Curtain, directed by Jafar Panahi and Kambuzia Partovi, written by Panahi and starring Partovi.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/07/09/arts/closed1/closed-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/07/09/arts/closed1/closed-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/07/09/arts/closed-1404848977115/closed-1404848977115-articleLarge.jpg",
+          "height": 290,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/07/09/arts/closed-1404848977115/closed-1404848977115-articleLarge.jpg",
+            "xlargeheight": "290"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/07/09/arts/closed1/closed-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/07/09/arts/closed1/closed-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "seo": "‘Closed Curtain,’ by the Iranian Dissident Jafar Panahi",
+        "main": "An Allegory Steeped in Enigmas",
+        "kicker": "Movie Review | 'Closed Curtain'",
+        "print_headline": "An Allegory Steeped in Enigmas",
+        "content_kicker": "Movie Review"
+      },
+      "keywords": [
+        {
+          "value": "Iran",
+          "is_major": "N",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "Panahi, Jafar",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "persons"
+        },
+        {
+          "value": "Movies",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Closed Curtain (Movie)",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "creative_works"
+        },
+        {
+          "value": "Partovi, Kambuzia",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "persons"
+        }
+      ],
+      "pub_date": "2014-07-09T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Culture",
+      "section_name": "Movies",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "firstname": "A.",
+            "middlename": "O.",
+            "lastname": "SCOTT",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By A. O. SCOTT"
+      },
+      "type_of_material": "Review",
+      "_id": "53bc6d5238f0d846b5b5d1f8",
+      "word_count": "710",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/07/09/arts/closed-1404848977115/closed-1404848977115-articleLarge.jpg",
+        "brightness": "6",
+        "saturation": "101",
+        "hue": "8",
+        "shapes": "29"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/13/world/middleeast/kerry-opposes-irans-inclusion-in-iraq-security-talks.html",
+      "snippet": "The French hosts of a meeting to coordinate assistance to the Iraqi fight against Islamist militants have not ruled out Iran’s attendance, but the United States is arguing against the country’s inclusion.",
+      "lead_paragraph": "The French hosts of a meeting to coordinate assistance to the Iraqi fight against Islamist militants have not ruled out Iran’s attendance, but the United States is arguing against the country’s inclusion.",
+      "abstract": "Sec of State John Kerry says it would not be appropriate for Iran to attend international conference on security crisis in Iraq to be held in Paris; France, which is host of meeting, has left open possibility that Iran might attend and help coordinate aid to new Iraqi government for its fight against Islamic State in Iraq and Syria.",
+      "print_page": "8",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/13/world/DIPLO/DIPLO-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/13/world/DIPLO/DIPLO-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/13/world/DIPLO/DIPLO-articleLarge.jpg",
+          "height": 360,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/13/world/DIPLO/DIPLO-articleLarge.jpg",
+            "xlargeheight": "360"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/13/world/DIPLO/DIPLO-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/13/world/DIPLO/DIPLO-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Iran’s Participation in Meeting to Aid Iraq Is ‘Not Appropriate,’ Says Kerry",
+        "print_headline": "Iran’s Participation in Meeting to Aid Iraq Is ‘Not Appropriate,’ Says Kerry"
+      },
+      "keywords": [
+        {
+          "value": "Kerry, John",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "persons"
+        },
+        {
+          "value": "Quds Force",
+          "is_major": "N",
+          "rank": "11",
+          "name": "organizations"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "glocations"
+        },
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Syria",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "organizations"
+        },
+        {
+          "value": "Islamic Revolutionary Guards Corps",
+          "is_major": "N",
+          "rank": "6",
+          "name": "organizations"
+        },
+        {
+          "value": "France",
+          "is_major": "Y",
+          "rank": "7",
+          "name": "glocations"
+        },
+        {
+          "value": "Paris (France)",
+          "is_major": "N",
+          "rank": "8",
+          "name": "glocations"
+        },
+        {
+          "value": "Nuclear Weapons",
+          "is_major": "N",
+          "rank": "9",
+          "name": "subject"
+        },
+        {
+          "value": "United States International Relations",
+          "is_major": "N",
+          "rank": "10",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-13T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "Sebnem Arsu and Ceylan Yeginsu contributed reporting from Istanbul.",
+        "person": [
+          {
+            "firstname": "Michael",
+            "middlename": "R.",
+            "lastname": "GORDON",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By MICHAEL R. GORDON"
+      },
+      "type_of_material": "News",
+      "_id": "54135ec538f0d835ee044951",
+      "word_count": "896",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/13/world/DIPLO/DIPLO-articleLarge.jpg",
+        "brightness": "59",
+        "saturation": "89",
+        "hue": "29",
+        "shapes": "99"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/01/world/middleeast/iraq.html",
+      "snippet": "The fight for Amerli appeared to mark the first time American warplanes and militias backed by Iran were working with a common purpose on the battlefield against militants from the Islamic State in Iraq and Syria.",
+      "lead_paragraph": "The fight for Amerli appeared to mark the first time American warplanes and militias backed by Iran were working with a common purpose on the battlefield against militants from the Islamic State in Iraq and Syria.",
+      "abstract": "American warplanes and Iran-backed militias, though not coordinating efforts, work with common goal on battlefields of northern Iraq to punch through defenses of Islamic State; should such military actions continue, they could signal dramatic shift for the United States and Iran, which have long vied for control in Iraq, and could align interest of Americans with longtime sworn enemies in Shiite militias.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/01/world/IRAQ-1/IRAQ-1-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/01/world/IRAQ-1/IRAQ-1-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/01/world/IRAQ-1/IRAQ-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/01/world/IRAQ-1/IRAQ-1-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/01/world/IRAQ-1/IRAQ-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/01/world/IRAQ-1/IRAQ-1-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "U.S. and Iran Unlikely Allies in Iraq Battle",
+        "print_headline": "U.S. and Iran Unlikely Allies in Iraq Battle"
+      },
+      "keywords": [
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "11",
+          "name": "persons"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "12",
+          "name": "glocations"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "glocations"
+        },
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Shiite Muslims",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Sunni Muslims",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "Yazidi (Religious Sect)",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        },
+        {
+          "value": "Asaib Ahl al-Haq",
+          "is_major": "N",
+          "rank": "8",
+          "name": "organizations"
+        },
+        {
+          "value": "Pesh Merga",
+          "is_major": "N",
+          "rank": "9",
+          "name": "organizations"
+        },
+        {
+          "value": "Amerli (Iraq)",
+          "is_major": "N",
+          "rank": "10",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-01T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "Tim Arango reported from Baghdad, and Azam Ahmed from Qaryat Salam, Iraq. Reporting was contributed by Ali Hamza and Omar al-Jawoshy from Baghdad; an employee of The New York Times from Sulaiman Bek, Iraq; and Helene Cooper from Washington.",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Tim",
+            "lastname": "ARANGO"
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Azam",
+            "lastname": "AHMED"
+          }
+        ],
+        "original": "By TIM ARANGO and AZAM AHMED"
+      },
+      "type_of_material": "News",
+      "_id": "5403467638f0d80cceb20439",
+      "word_count": "1407",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/01/world/IRAQ-1/IRAQ-1-articleLarge.jpg",
+        "brightness": "156",
+        "saturation": "65",
+        "hue": "17",
+        "shapes": "39"
+      }
+    },
+    {
+      "web_url": "http://dealbook.nytimes.com/2014/06/30/a-grieving-father-pulls-a-thread-that-unravels-illegal-bank-deals/",
+      "snippet": "A bus bombing two decades ago — and a father’s quest for justice — set off a chain of events that led to a case against BNP Paribas for transferring money to blacklisted countries.",
+      "lead_paragraph": null,
+      "abstract": "A bus bombing two decades ago — and a father’s quest for justice — set off a chain of events that led to a case against BNP Paribas for transferring money to blacklisted countries.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/07/01/business/Sanctions/Sanctions-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/07/01/business/Sanctions/Sanctions-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/07/01/business/Sanctions/Sanctions-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/07/01/business/Sanctions/Sanctions-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/07/01/business/Sanctions/Sanctions-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/07/01/business/Sanctions/Sanctions-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "A Grieving Father Pulls a Thread That Unravels BNP's Illegal Deals",
+        "kicker": "DealBook",
+        "print_headline": "Grieving Father Pulls a Thread That Unravels Illegal Bank Deals"
+      },
+      "keywords": [
+        {
+          "value": "Flatow, Stephen",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "persons"
+        },
+        {
+          "value": "Money Laundering",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "BNP Paribas",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "Banking and Financial Institutions",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-06-30T22:37:24Z",
+      "document_type": "blogpost",
+      "news_desk": "Business",
+      "section_name": "Business Day",
+      "subsection_name": "Dealbook",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Jessica",
+            "lastname": "SILVER-GREENBERG"
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Ben",
+            "lastname": "PROTESS"
+          }
+        ],
+        "original": "By JESSICA SILVER-GREENBERG and BEN PROTESS"
+      },
+      "type_of_material": "Blog",
+      "_id": "53b21f3438f0d835aaa9b753",
+      "word_count": "1634",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/07/01/business/Sanctions/Sanctions-articleLarge.jpg",
+        "brightness": "122",
+        "saturation": "62",
+        "hue": "26",
+        "shapes": "54"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/08/20/world/europe/russia-iran-and-egypt-heckle-us-about-tactics-in-ferguson.html",
+      "snippet": "Strident criticism of the action taken by the police in Ferguson, Mo., has come from authoritarian nations where the police are often venerated and dissent is scarcely tolerated.",
+      "lead_paragraph": "Strident criticism of the action taken by the police in Ferguson, Mo., has come from authoritarian nations where the police are often venerated and dissent is scarcely tolerated.",
+      "abstract": null,
+      "print_page": "",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/08/19/world/europe/19open_rt/19open_rt-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/08/19/world/europe/19open_rt/19open_rt-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/08/19/world/europe/19open_rt/19open_rt-articleLarge.jpg",
+          "height": 448,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/08/19/world/europe/19open_rt/19open_rt-articleLarge.jpg",
+            "xlargeheight": "448"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/08/19/world/europe/19open_rt/19open_rt-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/08/19/world/europe/19open_rt/19open_rt-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Russia, Iran and Egypt Heckle U.S. About Tactics in Ferguson",
+        "kicker": "Open Source",
+        "content_kicker": "Open Source"
+      },
+      "keywords": [
+        {
+          "value": "Ferguson (Mo)",
+          "is_major": "N",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Demonstrations, Protests and Riots",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Iran",
+          "is_major": "N",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Russia",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Egypt",
+          "is_major": "N",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "China",
+          "is_major": "N",
+          "rank": "6",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-08-20T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Europe",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Robert",
+            "lastname": "MACKEY"
+          }
+        ],
+        "original": "By ROBERT MACKEY"
+      },
+      "type_of_material": "News",
+      "_id": "53f3f8ac38f0d857ea2d09c0",
+      "word_count": "1111",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/08/19/world/europe/19open_rt/19open_rt-articleLarge.jpg",
+        "brightness": "176",
+        "saturation": "105",
+        "hue": "79",
+        "shapes": "17"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html",
+      "snippet": "Top officials enjoy what they deny to their citizens: social media.",
+      "lead_paragraph": "Top officials enjoy what they deny to their citizens: social media.",
+      "abstract": "Op-Ed article by Setareh Derakhshesh, director of the Voice of America Persian Service, contends experience of the organization shows that Iranians are eager to be exposed to global media, ideas and culture, despite Iran's attempts at Internet censorship.",
+      "print_page": "23",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/06/25/opinion/0625OPEDstafford/0625OPEDstafford-thumbWide-v2.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/06/25/opinion/0625OPEDstafford/0625OPEDstafford-thumbWide-v2.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/06/25/opinion/0625OPEDstafford/0625OPEDstafford-articleLarge.jpg",
+          "height": 714,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/06/25/opinion/0625OPEDstafford/0625OPEDstafford-articleLarge.jpg",
+            "xlargeheight": "714"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/06/25/opinion/0625OPEDstafford/0625OPEDstafford-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/06/25/opinion/0625OPEDstafford/0625OPEDstafford-thumbStandard-v2.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Breaking the Law to Go Online in Iran",
+        "kicker": "Op-Ed Contributor",
+        "print_headline": "Breaking the Law to Go Online in Iran",
+        "content_kicker": "Op-Ed Contributor"
+      },
+      "keywords": [
+        {
+          "value": "News and News Media",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Computers and the Internet",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Censorship",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Social Media",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-06-25T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "OpEd",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Setareh",
+            "lastname": "DERAKHSHESH"
+          }
+        ],
+        "original": "By SETAREH DERAKHSHESH"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "53aa0dd538f0d86af25be846",
+      "word_count": "987",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/06/25/opinion/0625OPEDstafford/0625OPEDstafford-articleLarge.jpg",
+        "brightness": "111",
+        "saturation": "9",
+        "hue": "61",
+        "shapes": "11"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/10/world/middleeast/longtime-rivals-look-to-team-up-to-confront-isis.html",
+      "snippet": "As the United States and its allies look to fight the Islamic State in Iraq and Syria, longtime adversaries are scrambling to see if they can cooperate to defeat the rising threat.",
+      "lead_paragraph": "As the United States and its allies look to fight the Islamic State in Iraq and Syria, longtime adversaries are scrambling to see if they can cooperate to defeat the rising threat.",
+      "abstract": null,
+      "print_page": "10",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/10/world/JP-TURBULENCE-1/JP-TURBULENCE-1-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/10/world/JP-TURBULENCE-1/JP-TURBULENCE-1-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/10/world/JP-TURBULENCE-1/JP-TURBULENCE-1-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/10/world/JP-TURBULENCE-1/JP-TURBULENCE-1-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/10/world/JP-TURBULENCE-1/JP-TURBULENCE-1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/10/world/JP-TURBULENCE-1/JP-TURBULENCE-1-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Longtime Rivals Look to Team Up to Confront ISIS",
+        "print_headline": "To Confront ISIS Threat, Longtime Mideast Rivals Look to Team Up"
+      },
+      "keywords": [
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "11",
+          "name": "persons"
+        },
+        {
+          "value": "Assad, Bashar al-",
+          "is_major": "N",
+          "rank": "12",
+          "name": "persons"
+        },
+        {
+          "value": "Kurdistan Workers' Party",
+          "is_major": "N",
+          "rank": "13",
+          "name": "organizations"
+        },
+        {
+          "value": "Israel",
+          "is_major": "N",
+          "rank": "14",
+          "name": "glocations"
+        },
+        {
+          "value": "Egypt",
+          "is_major": "N",
+          "rank": "15",
+          "name": "glocations"
+        },
+        {
+          "value": "Kurds",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Muslims and Islam",
+          "is_major": "N",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Middle East",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "N",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "Syria",
+          "is_major": "N",
+          "rank": "6",
+          "name": "glocations"
+        },
+        {
+          "value": "Turkey",
+          "is_major": "N",
+          "rank": "7",
+          "name": "glocations"
+        },
+        {
+          "value": "Iran",
+          "is_major": "N",
+          "rank": "8",
+          "name": "glocations"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "9",
+          "name": "glocations"
+        },
+        {
+          "value": "Saudi Arabia",
+          "is_major": "N",
+          "rank": "10",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-10T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "Azam Ahmed contributed reporting from Erbil, Iraq, and Omar al-Jawoshy from Baghdad.",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Tim",
+            "lastname": "ARANGO"
+          }
+        ],
+        "original": "By TIM ARANGO"
+      },
+      "type_of_material": "News",
+      "_id": "540fa9bf38f0d87641c68059",
+      "word_count": "1349",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/10/world/JP-TURBULENCE-1/JP-TURBULENCE-1-articleLarge.jpg",
+        "brightness": "141",
+        "saturation": "30",
+        "hue": "19",
+        "shapes": "6"
+      }
+    },
+    {
+      "web_url": "http://dealbook.nytimes.com/2014/07/07/u-s-scrutiny-for-banks-shifts-to-commerzbank-and-germany/",
+      "snippet": "The authorities are said to have begun settlement talks with Commerzbank over its dealings with Iran, a move that may pave the way toward talks with Deutsche Bank.",
+      "lead_paragraph": null,
+      "abstract": "The authorities are said to have begun settlement talks with Commerzbank over its dealings with Iran, a move that may pave the way toward talks with Deutsche Bank.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/07/08/business/Bank/Bank-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/07/08/business/Bank/Bank-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/07/08/business/dbpix-bank1/dbpix-bank1-articleLarge.jpg",
+          "height": 403,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/07/08/business/dbpix-bank1/dbpix-bank1-articleLarge.jpg",
+            "xlargeheight": "403"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/07/08/business/Bank/Bank-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/07/08/business/Bank/Bank-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "U.S. Scrutiny for Banks Shifts to Commerzbank and Germany",
+        "kicker": "DealBook",
+        "print_headline": "Scrutiny for Banks Is Shifting to Germany"
+      },
+      "keywords": [
+        {
+          "value": "Banking and Financial Institutions",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Money Laundering",
+          "is_major": "N",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Germany",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Commerzbank",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "organizations"
+        },
+        {
+          "value": "Iran",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Deutsche Bank AG",
+          "is_major": "Y",
+          "rank": "6",
+          "name": "organizations"
+        },
+        {
+          "value": "Bharara, Preet",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "Lawsky, Benjamin M",
+          "name": "persons",
+          "rank": "2"
+        }
+      ],
+      "pub_date": "2014-07-07T21:04:04Z",
+      "document_type": "blogpost",
+      "news_desk": "Business",
+      "section_name": "Business Day",
+      "subsection_name": "Dealbook",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Jessica",
+            "lastname": "SILVER-GREENBERG"
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Ben",
+            "lastname": "PROTESS"
+          }
+        ],
+        "original": "By JESSICA SILVER-GREENBERG and BEN PROTESS"
+      },
+      "type_of_material": "Blog",
+      "_id": "53bb43d838f0d847f10f5cd3",
+      "word_count": "828",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/07/08/business/dbpix-bank1/dbpix-bank1-articleLarge.jpg",
+        "brightness": "77",
+        "saturation": "12",
+        "hue": "60",
+        "shapes": "40"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/07/09/world/middleeast/iran-sends-3-attack-planes-to-iraqi-government.html",
+      "snippet": "Delivery of the Su-25 aircraft is the latest step Iran has taken to help Prime Minister Nuri Kamal al-Maliki battle the forces of the Islamic State in Iraq and Syria.",
+      "lead_paragraph": "Delivery of the Su-25 aircraft is the latest step Iran has taken to help Prime Minister Nuri Kamal al-Maliki battle the forces of the Islamic State in Iraq and Syria.",
+      "abstract": "Iran sends three Russian-made attack planes to Iraqi government, latest step country has taken to help Prime Min Nuri Kamal al-Maliki battle forces of the Islamic State in Iraq and Syria, or ISIS, and expand its influence as Iraqi politicians struggle to form a new government.",
+      "print_page": "9",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/07/09/world/IRAN/IRAN-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/07/09/world/IRAN/IRAN-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/07/09/world/IRAN/IRAN-articleLarge.jpg",
+          "height": 333,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/07/09/world/IRAN/IRAN-articleLarge.jpg",
+            "xlargeheight": "333"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/07/09/world/IRAN/IRAN-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/07/09/world/IRAN/IRAN-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Iran Sends 3 Attack Planes to Iraqi Government",
+        "print_headline": "Iran Sends 3 Attack Planes to Iraqi Government"
+      },
+      "keywords": [
+        {
+          "value": "Drones (Pilotless Planes)",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "6",
+          "name": "organizations"
+        },
+        {
+          "value": "Military Aircraft",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "glocations"
+        },
+        {
+          "value": "Maliki, Nuri Kamal al-",
+          "is_major": "N",
+          "rank": "4",
+          "name": "persons"
+        }
+      ],
+      "pub_date": "2014-07-09T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "firstname": "Michael",
+            "middlename": "R.",
+            "lastname": "GORDON",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Eric",
+            "lastname": "SCHMITT"
+          }
+        ],
+        "original": "By MICHAEL R. GORDON and ERIC SCHMITT"
+      },
+      "type_of_material": "News",
+      "_id": "53bca0d338f0d846b5b5d291",
+      "word_count": "982",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/07/09/world/IRAN/IRAN-articleLarge.jpg",
+        "brightness": "202",
+        "saturation": "46",
+        "hue": "29",
+        "shapes": "23"
+      }
     }
   ]
 }

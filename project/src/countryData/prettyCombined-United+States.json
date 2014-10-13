@@ -1716,6 +1716,159 @@
       }
     },
     {
+      "web_url": "http://www.nytimes.com/2014/10/11/us/politics/ads-paid-for-by-secret-money-flood-the-midterm-elections.html",
+      "snippet": "More than half of the general election advertising aired by outside groups in the battle for control of Congress has come from organizations that disclose little or nothing about their donors.",
+      "lead_paragraph": "More than half of the general election advertising aired by outside groups in the battle for control of Congress has come from organizations that disclose little or nothing about their donors.",
+      "abstract": null,
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "width": 190,
+          "url": "images/2014/10/11/us/JP-DONATE/JP-DONATE-thumbWide.jpg",
+          "height": 126,
+          "subtype": "wide",
+          "legacy": {
+            "wide": "images/2014/10/11/us/JP-DONATE/JP-DONATE-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "width": 600,
+          "url": "static01.nyt.com/images/2014/10/11/us/JP-DONATE/JP-DONATE-articleLarge.jpg",
+          "height": 379,
+          "subtype": "xlarge",
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/11/us/JP-DONATE/JP-DONATE-articleLarge.jpg",
+            "xlargeheight": "379"
+          },
+          "type": "image"
+        },
+        {
+          "width": 75,
+          "url": "images/2014/10/11/us/JP-DONATE/JP-DONATE-thumbStandard.jpg",
+          "height": 75,
+          "subtype": "thumbnail",
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/11/us/JP-DONATE/JP-DONATE-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Secret Money Fueling a Flood of Political Ads",
+        "print_headline": "Secret Money Fueling a Flood of Political Ads"
+      },
+      "keywords": [
+        {
+          "rank": "1",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "Campaign Finance"
+        },
+        {
+          "rank": "11",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Campaign Media Analysis Group"
+        },
+        {
+          "rank": "12",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "Elections"
+        },
+        {
+          "rank": "2",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "Political Advertising"
+        },
+        {
+          "rank": "3",
+          "is_major": "Y",
+          "name": "glocations",
+          "value": "United States"
+        },
+        {
+          "rank": "4",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Citizens United v Federal Election Commission (Supreme Court Decision)"
+        },
+        {
+          "rank": "5",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Democratic Party"
+        },
+        {
+          "rank": "6",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Republican Party"
+        },
+        {
+          "rank": "7",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Political Action Committees"
+        },
+        {
+          "rank": "8",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Nonprofit Organizations"
+        },
+        {
+          "rank": "9",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Midterm Elections (2014)"
+        },
+        {
+          "rank": "10",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Brennan Center for Justice"
+        }
+      ],
+      "pub_date": "2014-10-11T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "National",
+      "section_name": "U.S.",
+      "subsection_name": "Politics",
+      "byline": {
+        "contributor": "Alicia Parlapiano contributed reporting.",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "firstname": "Nicholas",
+            "rank": 1,
+            "lastname": "CONFESSORE"
+          }
+        ],
+        "original": "By NICHOLAS CONFESSORE"
+      },
+      "type_of_material": "News",
+      "_id": "54383d5d38f0d83c143b8fd3",
+      "word_count": "1228",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/11/us/JP-DONATE/JP-DONATE-articleLarge.jpg",
+        "brightness": "99",
+        "saturation": "55",
+        "hue": "34",
+        "shapes": "79"
+      }
+    },
+    {
       "web_url": "http://www.nytimes.com/2014/10/10/opinion/david-brooks-money-matters-less.html",
       "snippet": "Remember all the talk about how Citizens United would give Republicans a spending advantage forevermore? That hasn&#8217;t happened.",
       "lead_paragraph": "Remember all the talk about how Citizens United would give Republicans a spending advantage forevermore? That hasn&#8217;t happened.",
@@ -2371,6 +2524,4142 @@
         "saturation": "38",
         "hue": "148",
         "shapes": "57"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/video/world/middleeast/100000003121563/kerry-on-us-strategy-against-isis.html",
+      "snippet": "Secretary of State John Kerry reiterated to lawmakers that there would be no American ground troops in combat against ISIS fighters in Iraq and Syria.",
+      "lead_paragraph": "Secretary of State John Kerry reiterated to lawmakers that there would be no American ground troops in combat against ISIS fighters in Iraq and Syria.",
+      "abstract": null,
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/17/multimedia/kerry-on-isis-strategy/kerry-on-isis-strategy-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/17/multimedia/kerry-on-isis-strategy/kerry-on-isis-strategy-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/17/multimedia/kerry-on-isis-strategy/kerry-on-isis-strategy-articleLarge.jpg",
+          "height": 388,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/17/multimedia/kerry-on-isis-strategy/kerry-on-isis-strategy-articleLarge.jpg",
+            "xlargeheight": "388"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/17/multimedia/kerry-on-isis-strategy/kerry-on-isis-strategy-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/17/multimedia/kerry-on-isis-strategy/kerry-on-isis-strategy-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Kerry on U.S. Strategy Against ISIS"
+      },
+      "keywords": [
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "United States International Relations",
+          "is_major": "N",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "N",
+          "rank": "4",
+          "name": "organizations"
+        },
+        {
+          "value": "Kerry, John",
+          "is_major": "N",
+          "rank": "5",
+          "name": "persons"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "N",
+          "rank": "6",
+          "name": "glocations"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "7",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-17T20:46:48Z",
+      "document_type": "multimedia",
+      "news_desk": "World / Middle East",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "person": [],
+        "original": "Reuters",
+        "organization": "Reuters"
+      },
+      "type_of_material": "Video",
+      "_id": "541a2b9538f0d80959e6c3fb",
+      "word_count": "25",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/17/multimedia/kerry-on-isis-strategy/kerry-on-isis-strategy-articleLarge.jpg",
+        "brightness": "54",
+        "saturation": "159",
+        "hue": "24",
+        "shapes": "27"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/18/us/politics/house-vote-isis.html",
+      "snippet": "A House divided along unusual and unpredictable lines voted to authorize the training and arming of Syrian rebels to confront the militant group Islamic State, backing President Obama.",
+      "lead_paragraph": "A House divided along unusual and unpredictable lines voted to authorize the training and arming of Syrian rebels to confront the militant group Islamic State, backing President Obama.",
+      "abstract": "House votes to authorize training and arming of Syrian rebels to confront militant group Islamic State in Iraq and Syria, backing Pres Obama; legislation also grants Obama authority to accept contributions in cash and in kind to help finance the mission; Saudi Arabia has already pledged to host the training of Syrian rebels, and Obama administration promises to vet the fighters for reliability.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/18/world/CONG/CONG-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/18/world/CONG/CONG-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/18/world/CONG/CONG-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/18/world/CONG/CONG-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/18/world/CONG/CONG-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/18/world/CONG/CONG-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "House Votes to Authorize Aid to Syrian Rebels in ISIS Fight",
+        "print_headline": "House Backs Bill to Give Training to Syrian Rebels"
+      },
+      "keywords": [
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "N",
+          "rank": "11",
+          "name": "subject"
+        },
+        {
+          "value": "Syria",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "glocations"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "N",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Saudi Arabia",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "6",
+          "name": "persons"
+        },
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        },
+        {
+          "value": "House of Representatives",
+          "is_major": "N",
+          "rank": "8",
+          "name": "organizations"
+        },
+        {
+          "value": "Boehner, John A",
+          "is_major": "N",
+          "rank": "9",
+          "name": "persons"
+        },
+        {
+          "value": "Pelosi, Nancy",
+          "is_major": "N",
+          "rank": "10",
+          "name": "persons"
+        }
+      ],
+      "pub_date": "2014-09-18T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "U.S.",
+      "subsection_name": "Politics",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Jonathan",
+            "lastname": "WEISMAN"
+          }
+        ],
+        "original": "By JONATHAN WEISMAN"
+      },
+      "type_of_material": "News",
+      "_id": "5419c05338f0d80959e6ba03",
+      "word_count": "1256",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/18/world/CONG/CONG-articleLarge.jpg",
+        "brightness": "76",
+        "saturation": "82",
+        "hue": "29",
+        "shapes": "143"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/19/world/middleeast/senate-approves-isis-bill-avoiding-bigger-war-debate.html",
+      "snippet": "Lawmakers sidestepped the debate over the extent of American military action until the lame-duck session of Congress later this year.",
+      "lead_paragraph": "Lawmakers sidestepped the debate over the extent of American military action until the lame-duck session of Congress later this year.",
+      "abstract": "Senate gives overwhelming approval to the training and arming of Syrian rebels, then flees the Capitol with the House for the fall campaign, avoiding the debate over the extent of American military action until the lame-duck session of Congress later this year.",
+      "print_page": "10",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/19/world/CONG/CONG-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/19/world/CONG/CONG-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/19/world/CONG/CONG-articleLarge.jpg",
+          "height": 362,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/19/world/CONG/CONG-articleLarge.jpg",
+            "xlargeheight": "362"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/19/world/CONG/CONG-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/19/world/CONG/CONG-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Congress Gives Final Approval to Aid Rebels in Fight With ISIS",
+        "print_headline": "Senate Approves Training and Arming Syrian Rebels"
+      },
+      "keywords": [
+        {
+          "value": "United States",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "N",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Syria",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "6",
+          "name": "persons"
+        },
+        {
+          "value": "Senate",
+          "is_major": "N",
+          "rank": "7",
+          "name": "organizations"
+        },
+        {
+          "value": "Terrorism",
+          "is_major": "N",
+          "rank": "8",
+          "name": "subject"
+        },
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "9",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-19T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Jonathan",
+            "lastname": "WEISMAN"
+          },
+          {
+            "firstname": "Jeremy",
+            "middlename": "W.",
+            "lastname": "PETERS",
+            "rank": 2,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By JONATHAN WEISMAN and JEREMY W. PETERS"
+      },
+      "type_of_material": "News",
+      "_id": "541b5e9938f0d8296cb0f804",
+      "word_count": "1227",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/19/world/CONG/CONG-articleLarge.jpg",
+        "brightness": "88",
+        "saturation": "65",
+        "hue": "29",
+        "shapes": "80"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/13/world/middleeast/isis-recruits-prompt-laws-against-foreign-fighters.html",
+      "snippet": "As lawmakers around the world debate laws intended to stop citizens from fighting for foreign terrorist groups, the U.S. is seeking a legally binding United Nations Security Council resolution.",
+      "lead_paragraph": "As lawmakers around the world debate laws intended to stop citizens from fighting for foreign terrorist groups, the U.S. is seeking a legally binding United Nations Security Council resolution.",
+      "abstract": "Rapid surge of Islamic State in Iraq and Syria, and its ability to draw fighters from across the globe, have set off alarm bells in capitals worldwide; countries that rarely see eye to eye are now trying to blunt its recruitment drive, passing a raft of new rules that they hope will stop their citizens from joining extremist groups abroad; United States is pushing for a legally binding United Nations Security Council resolution.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/13/world/ALT-FIGHTERS/ALT-FIGHTERS-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/13/world/ALT-FIGHTERS/ALT-FIGHTERS-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/13/world/ALT-FIGHTERS/ALT-FIGHTERS-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/13/world/ALT-FIGHTERS/ALT-FIGHTERS-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/13/world/ALT-FIGHTERS/ALT-FIGHTERS-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/13/world/ALT-FIGHTERS/ALT-FIGHTERS-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Nations Trying to Stop Their Citizens From Going to Middle East to Fight for ISIS",
+        "print_headline": "Nations Working to Stop Citizens from Aiding ISIS"
+      },
+      "keywords": [
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "11",
+          "name": "glocations"
+        },
+        {
+          "value": "Turkey",
+          "is_major": "N",
+          "rank": "12",
+          "name": "glocations"
+        },
+        {
+          "value": "Qatar",
+          "is_major": "N",
+          "rank": "13",
+          "name": "glocations"
+        },
+        {
+          "value": "Saudi Arabia",
+          "is_major": "N",
+          "rank": "14",
+          "name": "glocations"
+        },
+        {
+          "value": "Terrorism",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "United Nations",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "organizations"
+        },
+        {
+          "value": "Syria",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "United States International Relations",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "France",
+          "is_major": "N",
+          "rank": "7",
+          "name": "glocations"
+        },
+        {
+          "value": "Great Britain",
+          "is_major": "N",
+          "rank": "8",
+          "name": "glocations"
+        },
+        {
+          "value": "Tunisia",
+          "is_major": "N",
+          "rank": "9",
+          "name": "glocations"
+        },
+        {
+          "value": "Netherlands",
+          "is_major": "N",
+          "rank": "10",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-13T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "Eric Schmitt contributed reporting from Washington.",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Somini",
+            "lastname": "SENGUPTA"
+          }
+        ],
+        "original": "By SOMINI SENGUPTA"
+      },
+      "type_of_material": "News",
+      "_id": "5413339238f0d835ee044599",
+      "word_count": "1420",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/13/world/ALT-FIGHTERS/ALT-FIGHTERS-articleLarge.jpg",
+        "brightness": "81",
+        "saturation": "76",
+        "hue": "146",
+        "shapes": "10"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/16/us/us-pushes-back-against-warnings-that-isis-plans-to-enter-from-mexico.html",
+      "snippet": "Counterterrorism officials said they are far more concerned that a militant will enter the country in a quite typical way: legally, on a commercial airline flight.",
+      "lead_paragraph": "Counterterrorism officials said they are far more concerned that a militant will enter the country in a quite typical way: legally, on a commercial airline flight.",
+      "abstract": "Homeland Security Dept and Federal Bureau of Investigation officials say there is no truth to warnings from conservative groups and leading Republicans that militants from the Islamic State in Iraq and Syria plan to enter the United States from Mexico to carry out terrorist attacks.",
+      "print_page": "19",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/16/us/BORDER/BORDER-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/16/us/BORDER/BORDER-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/16/us/BORDER/BORDER-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/16/us/BORDER/BORDER-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/16/us/BORDER/BORDER-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/16/us/BORDER/BORDER-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "U.S. Pushes Back Against Warnings That ISIS Plans to Enter From Mexico",
+        "print_headline": "U.S. Pushes Back Against Warnings That ISIS Plans to Enter From Mexico"
+      },
+      "keywords": [
+        {
+          "value": "Terrorism",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "Mexico",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Homeland Security Department",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "organizations"
+        },
+        {
+          "value": "Federal Bureau of Investigation",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "organizations"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "6",
+          "name": "glocations"
+        },
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        },
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "N",
+          "rank": "8",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-16T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "National",
+      "section_name": "U.S.",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "firstname": "Michael",
+            "middlename": "S.",
+            "lastname": "SCHMIDT",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By MICHAEL S. SCHMIDT"
+      },
+      "type_of_material": "News",
+      "_id": "54178b3d38f0d851fd3a81c7",
+      "word_count": "1059",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/16/us/BORDER/BORDER-articleLarge.jpg",
+        "brightness": "99",
+        "saturation": "57",
+        "hue": "60",
+        "shapes": "113"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/video/world/middleeast/100000003118036/dempsey-and-hagel-speeches-and-protests.html",
+      "snippet": "Comments by Gen. Martin E. Dempsey, the chairman of the Joint Chiefs of Staff, and Defense Secretary Chuck Hagel on the United States’ campaign against ISIS were interrupted by anti-war protesters.",
+      "lead_paragraph": "Comments by Gen. Martin E. Dempsey, the chairman of the Joint Chiefs of Staff, and Defense Secretary Chuck Hagel on the United States’ campaign against ISIS were interrupted by anti-war protesters.",
+      "abstract": null,
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/16/multimedia/hagel-dempsey-airstrikes/hagel-dempsey-airstrikes-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/16/multimedia/hagel-dempsey-airstrikes/hagel-dempsey-airstrikes-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/16/multimedia/hagel-dempsey-airstrikes/hagel-dempsey-airstrikes-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/16/multimedia/hagel-dempsey-airstrikes/hagel-dempsey-airstrikes-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/16/multimedia/hagel-dempsey-airstrikes/hagel-dempsey-airstrikes-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/16/multimedia/hagel-dempsey-airstrikes/hagel-dempsey-airstrikes-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Dempsey and Hagel Speeches and Protests"
+      },
+      "keywords": [
+        {
+          "value": "Joint Chiefs of Staff",
+          "is_major": "N",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "House of Representatives",
+          "is_major": "N",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "N",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-16T15:15:34Z",
+      "document_type": "multimedia",
+      "news_desk": "World / Middle East",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": [],
+      "type_of_material": "Video",
+      "_id": "54188c6738f0d86afc9a0327",
+      "word_count": "31",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/16/multimedia/hagel-dempsey-airstrikes/hagel-dempsey-airstrikes-articleLarge.jpg",
+        "brightness": "30",
+        "saturation": "236",
+        "hue": "16",
+        "shapes": "37"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/11/world/middleeast/extending-a-legacy-of-war.html",
+      "snippet": "President Obama on Wednesday night may have ensured that he will pass his successor a volatile and incomplete war, just as he inherited one when he took office.",
+      "lead_paragraph": "President Obama on Wednesday night may have ensured that he will pass his successor a volatile and incomplete war, just as he inherited one when he took office.",
+      "abstract": "New analysis; Pres Obama's ordering of sustained military campaign against Islamic extremists in Syria and Iraq effectively sets a new course for the remainder of his presidency; likely ensures that he will pass his successor a volatile and incomplete war, much as his predecessor George W Bush left for him; new phase against ISIS will not involve many American troops on the ground, but it continues to keep the United States at war.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/10/multimedia/nytm-isis-explainer/nytm-isis-explainer-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/10/multimedia/nytm-isis-explainer/nytm-isis-explainer-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/10/multimedia/nytm-isis-explainer/nytm-isis-explainer-articleLarge.jpg",
+          "height": 389,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/10/multimedia/nytm-isis-explainer/nytm-isis-explainer-articleLarge.jpg",
+            "xlargeheight": "389"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/10/multimedia/nytm-isis-explainer/nytm-isis-explainer-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/10/multimedia/nytm-isis-explainer/nytm-isis-explainer-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "New Military Campaign Extends a Legacy of War",
+        "kicker": "News Analysis",
+        "print_headline": "Extending a Legacy of War",
+        "content_kicker": "News Analysis"
+      },
+      "keywords": [
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Syria",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "persons"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "6",
+          "name": "glocations"
+        },
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-11T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Peter",
+            "lastname": "BAKER"
+          }
+        ],
+        "original": "By PETER BAKER"
+      },
+      "type_of_material": "An Analysis; News Analysis",
+      "_id": "5410f81b38f0d80f29521f9f",
+      "word_count": "1384",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/10/multimedia/nytm-isis-explainer/nytm-isis-explainer-articleLarge.jpg",
+        "brightness": "129",
+        "saturation": "28",
+        "hue": "35",
+        "shapes": "27"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/28/world/americas/presidents-drive-for-carbon-pricing-fails-to-win-at-home.html",
+      "snippet": "The United States, which is under growing international pressure to price carbon, is missing from a World Bank declaration calling on all nations to enact laws forcing industries to pay for carbon emissions.",
+      "lead_paragraph": "The United States, which is under growing international pressure to price carbon, is missing from a World Bank declaration calling on all nations to enact laws forcing industries to pay for carbon emissions.",
+      "abstract": "News analysis; United States is missing from World Bank declaration calling on all nations to enact laws forcing industries to pay for carbon emissions that scientists say are the leading cause of global warming; declaration, signed by 74 countries and more than 1,000 businesses, notes that governments can either directly tax carbon pollution or create market-based cap-and-trade systems, which force companies to buy government-issued pollution.",
+      "print_page": "12",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/28/world/CLIMATE/CLIMATE-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/28/world/CLIMATE/CLIMATE-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/28/world/CLIMATE/CLIMATE-articleLarge.jpg",
+          "height": 834,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/28/world/CLIMATE/CLIMATE-articleLarge.jpg",
+            "xlargeheight": "834"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/28/world/CLIMATE/CLIMATE-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/28/world/CLIMATE/CLIMATE-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "President’s Drive for Carbon Pricing Fails to Win at Home",
+        "kicker": "News Analysis",
+        "print_headline": "President’s Drive for Carbon Pricing Fails to Win at Home",
+        "content_kicker": "News Analysis"
+      },
+      "keywords": [
+        {
+          "value": "Greenhouse Gas Emissions",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "World Bank",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "Global Warming",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Coal",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "5",
+          "name": "persons"
+        },
+        {
+          "value": "United Nations",
+          "is_major": "N",
+          "rank": "6",
+          "name": "organizations"
+        },
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        },
+        {
+          "value": "Republican Party",
+          "is_major": "N",
+          "rank": "8",
+          "name": "organizations"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "9",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-28T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Coral",
+            "lastname": "DAVENPORT"
+          }
+        ],
+        "original": "By CORAL DAVENPORT"
+      },
+      "type_of_material": "An Analysis; News Analysis",
+      "_id": "5426e12738f0d858f109f723",
+      "word_count": "1019",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/28/world/CLIMATE/CLIMATE-articleLarge.jpg",
+        "brightness": "147",
+        "saturation": "49",
+        "hue": "59",
+        "shapes": "66"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/12/world/middleeast/arabs-give-tepid-support-to-us-fight-against-isis.html",
+      "snippet": "Three years after the United States left Iraq, its return to the region is getting a less than enthusiastic welcome, with allies finding ways to avoid specific commitments to an expanded effort against Sunni extremists.",
+      "lead_paragraph": "Three years after the United States left Iraq, its return to the region is getting a less than enthusiastic welcome, with allies finding ways to avoid specific commitments to an expanded effort against Sunni extremists.",
+      "abstract": "Return of United States to Middle East three years after withdrawing from Iraq is getting a less than enthusiastic welcome among Arab nations; leading allies like Egypt, Jordan and Turkey are all finding ways to avoid specific commitments to Pres Obama's expanded effort against Islamic State in Iraq and Syria; thirteen years of chaos have deepened political and sectarian divisions and increased mistrust of US on all sides.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/12/world/alliance/alliance-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/12/world/alliance/alliance-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/12/world/alliance/alliance-articleLarge.jpg",
+          "height": 404,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/12/world/alliance/alliance-articleLarge.jpg",
+            "xlargeheight": "404"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/12/world/alliance/alliance-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/12/world/alliance/alliance-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Arabs Give Tepid Support to U.S. Fight Against ISIS",
+        "print_headline": "Arabs Give Tepid Support to U.S. Fight Against ISIS"
+      },
+      "keywords": [
+        {
+          "value": "Syria",
+          "is_major": "N",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Jordan",
+          "is_major": "N",
+          "rank": "11",
+          "name": "glocations"
+        },
+        {
+          "value": "Turkey",
+          "is_major": "N",
+          "rank": "12",
+          "name": "glocations"
+        },
+        {
+          "value": "Lebanon",
+          "is_major": "N",
+          "rank": "13",
+          "name": "glocations"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "N",
+          "rank": "14",
+          "name": "glocations"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "United States International Relations",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Middle East",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "6",
+          "name": "persons"
+        },
+        {
+          "value": "Terrorism",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        },
+        {
+          "value": "Assad, Bashar al-",
+          "is_major": "N",
+          "rank": "8",
+          "name": "persons"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "9",
+          "name": "glocations"
+        },
+        {
+          "value": "Egypt",
+          "is_major": "N",
+          "rank": "10",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-12T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "Anne Barnard reported from Beirut, and David D. Kirkpatrick from Baghdad. Reporting was contributed by an employee of The New York Times from Raqqa, Syria; Hwaida Saad and Mohammad Ghannam from Beirut; Ali Hamza from Baghdad; Merna Thomas from Cairo; and Sebnem Arsu from Istanbul.",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Anne",
+            "lastname": "BARNARD"
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "David"
+          }
+        ],
+        "original": "By ANNE BARNARD and DAVID D. KIRKPATRICK"
+      },
+      "type_of_material": "News",
+      "_id": "5412550538f0d832853e8784",
+      "word_count": "1449",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/12/world/alliance/alliance-articleLarge.jpg",
+        "brightness": "172",
+        "saturation": "27",
+        "hue": "159",
+        "shapes": "171"
+      }
+    },
+    {
+      "web_url": "http://op-talk.blogs.nytimes.com/2014/09/25/a-foreign-policy-turning-point-or-a-moral-equivalence-blunder/",
+      "snippet": "For some observers, President Obama’s speech at the United Nations signaled a shift toward a more robust attitude in international relations. Others criticized its incoherence — or accused it of noting a false moral equivalence.",
+      "lead_paragraph": null,
+      "abstract": "For some observers, President Obama’s speech at the United Nations signaled a shift toward a more robust attitude in international relations. Others criticized its incoherence — or accused it of noting a false moral equivalence.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/25/blogs/25OBAMAUN/25OBAMAUN-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/25/blogs/25OBAMAUN/25OBAMAUN-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/25/blogs/25OBAMAUN/25OBAMAUN-articleLarge.jpg",
+          "height": 598,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/25/blogs/25OBAMAUN/25OBAMAUN-articleLarge.jpg",
+            "xlargeheight": "598"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/25/blogs/25OBAMAUN/25OBAMAUN-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/25/blogs/25OBAMAUN/25OBAMAUN-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "A Foreign Policy Turning Point or a Moral-Equivalence Blunder? ",
+        "kicker": "Op-Talk"
+      },
+      "keywords": [
+        {
+          "value": "Obama, Barack",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "Middle East",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Russia",
+          "name": "glocations",
+          "rank": "2"
+        },
+        {
+          "value": "Syria",
+          "name": "glocations",
+          "rank": "3"
+        },
+        {
+          "value": "Ukraine",
+          "name": "glocations",
+          "rank": "4"
+        },
+        {
+          "value": "United States",
+          "name": "glocations",
+          "rank": "5"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "United Nations",
+          "name": "organizations",
+          "rank": "2"
+        },
+        {
+          "value": "International Relations",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "Speeches and Statements",
+          "name": "subject",
+          "rank": "2"
+        },
+        {
+          "value": "United States International Relations",
+          "name": "subject",
+          "rank": "3"
+        },
+        {
+          "value": "United States Politics and Government",
+          "name": "subject",
+          "rank": "4"
+        }
+      ],
+      "pub_date": "2014-09-25T16:54:31Z",
+      "document_type": "blogpost",
+      "news_desk": null,
+      "section_name": "false",
+      "subsection_name": "false",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Hanna",
+            "lastname": "KOZLOWSKA"
+          }
+        ],
+        "original": "By HANNA KOZLOWSKA"
+      },
+      "type_of_material": "Blog",
+      "_id": "5424815338f0d8525e453700",
+      "word_count": "1134",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/25/blogs/25OBAMAUN/25OBAMAUN-articleLarge.jpg",
+        "brightness": "50",
+        "saturation": "77",
+        "hue": "92",
+        "shapes": "245"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/11/opinion/nicholas-kristof-critique-from-an-obama-fan.html",
+      "snippet": "The president is right to expand the attack on ISIS into Syria if it’s done prudently with modest goals.",
+      "lead_paragraph": "The president is right to expand the attack on ISIS into Syria if it’s done prudently with modest goals.",
+      "abstract": "Nicholas Kristof Op-Ed column offer cautious support of Pres Obama's authorization of counterterrorism measures in Syria; says Obama is right to expand military action against Sunni militants into Syria, if effort is carried out prudently and with modest goals of containing and degrading terror group; asserts that both care and cooperation with Sunni allies in Middle East are crucial to ensure that violence does not spread.",
+      "print_page": "27",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2010/09/16/opinion/Kristof_New/Kristof_New-thumbWide-v2.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2010/09/16/opinion/Kristof_New/Kristof_New-thumbWide-v2.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2010/09/16/opinion/Kristof_New/Kristof_New-articleLarge.jpg",
+          "height": 766,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2010/09/16/opinion/Kristof_New/Kristof_New-articleLarge.jpg",
+            "xlargeheight": "766"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2010/09/16/opinion/Kristof_New/Kristof_New-thumbStandard-v4.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2010/09/16/opinion/Kristof_New/Kristof_New-thumbStandard-v4.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Critique From an Obama Fan",
+        "kicker": "Op-Ed Columnist",
+        "print_headline": "Critique From an Obama Fan",
+        "content_kicker": "Op-Ed Columnist"
+      },
+      "keywords": [
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "Syria",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "glocations"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "N",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "Terrorism",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "6",
+          "name": "persons"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "7",
+          "name": "glocations"
+        },
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "8",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-11T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Editorial",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Nicholas",
+            "lastname": "KRISTOF"
+          }
+        ],
+        "original": "By NICHOLAS KRISTOF"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "5410fd9638f0d80f29522004",
+      "word_count": "795",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2010/09/16/opinion/Kristof_New/Kristof_New-articleLarge.jpg",
+        "brightness": "29",
+        "saturation": "66",
+        "hue": "116",
+        "shapes": "23"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/video/world/100000003105444/kerry-pledges-to-help-iraq-overcome-isis.html",
+      "snippet": "Secretary of State John Kerry arrived in Baghdad Wednesday to pledge the United States’s support in defeating the terrorist group the Islamic State in Iraq and Syria.",
+      "lead_paragraph": "Secretary of State John Kerry arrived in Baghdad Wednesday to pledge the United States’s support in defeating the terrorist group the Islamic State in Iraq and Syria.",
+      "abstract": null,
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/10/multimedia/kerry-in-baghdad/kerry-in-baghdad-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/10/multimedia/kerry-in-baghdad/kerry-in-baghdad-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/10/multimedia/kerry-in-baghdad/kerry-in-baghdad-articleLarge.jpg",
+          "height": 416,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/10/multimedia/kerry-in-baghdad/kerry-in-baghdad-articleLarge.jpg",
+            "xlargeheight": "416"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/10/multimedia/kerry-in-baghdad/kerry-in-baghdad-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/10/multimedia/kerry-in-baghdad/kerry-in-baghdad-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Kerry Pledges to Help Iraq Overcome ISIS"
+      },
+      "keywords": [
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "United States International Relations",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "N",
+          "rank": "3",
+          "name": "organizations"
+        },
+        {
+          "value": "Kerry, John",
+          "is_major": "N",
+          "rank": "4",
+          "name": "persons"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "N",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "Baghdad (Iraq)",
+          "is_major": "N",
+          "rank": "6",
+          "name": "glocations"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "7",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-10T13:35:48Z",
+      "document_type": "multimedia",
+      "news_desk": "World",
+      "section_name": "World",
+      "subsection_name": null,
+      "byline": [],
+      "type_of_material": "Video",
+      "_id": "54108c1338f0d80f29521772",
+      "word_count": "27",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/10/multimedia/kerry-in-baghdad/kerry-in-baghdad-articleLarge.jpg",
+        "brightness": "120",
+        "saturation": "189",
+        "hue": "150",
+        "shapes": "75"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/10/07/arts/design/tax-court-ruling-is-seen-as-a-victory-for-artists.html",
+      "snippet": "If you say you are an artist, but you make little money from selling your art, your work can still be considered a profession in the eyes of the I.R.S.",
+      "lead_paragraph": "If you say you are an artist, but you make little money from selling your art, your work can still be considered a profession in the eyes of the I.R.S.",
+      "abstract": "United States Tax Court rules in favor of artist Susan Crile, who was accused by Internal Revenue Service of underpaying taxes from 2004 to 2009; IRS had claimed that Crile could not claim tax deductions in excess of the income she made from selling her art.",
+      "print_page": "3",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "width": 190,
+          "url": "images/2014/10/07/arts/CRILE/CRILE-thumbWide.jpg",
+          "height": 126,
+          "subtype": "wide",
+          "legacy": {
+            "wide": "images/2014/10/07/arts/CRILE/CRILE-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "width": 600,
+          "url": "static01.nyt.com/images/2014/10/07/arts/CRILE/CRILE-articleLarge.jpg",
+          "height": 680,
+          "subtype": "xlarge",
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/07/arts/CRILE/CRILE-articleLarge.jpg",
+            "xlargeheight": "680"
+          },
+          "type": "image"
+        },
+        {
+          "width": 75,
+          "url": "images/2014/10/07/arts/CRILE/CRILE-thumbStandard.jpg",
+          "height": 75,
+          "subtype": "thumbnail",
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/07/arts/CRILE/CRILE-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Tax Court Ruling Is Seen as a Victory for Artists",
+        "print_headline": "Tax Court Ruling Is Seen as a Victory for Artists"
+      },
+      "keywords": [
+        {
+          "rank": "1",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "Art"
+        },
+        {
+          "rank": "2",
+          "is_major": "Y",
+          "name": "organizations",
+          "value": "Internal Revenue Service"
+        },
+        {
+          "rank": "3",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "Tax Credits, Deductions and Exemptions"
+        },
+        {
+          "rank": "4",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "United States Tax Court"
+        },
+        {
+          "rank": "5",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Federal Taxes (US)"
+        },
+        {
+          "rank": "6",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Finances"
+        },
+        {
+          "rank": "7",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Income Tax"
+        },
+        {
+          "rank": "8",
+          "is_major": "Y",
+          "name": "persons",
+          "value": "Crile, Susan"
+        }
+      ],
+      "pub_date": "2014-10-07T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Culture",
+      "section_name": "Arts",
+      "subsection_name": "Art & Design",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "firstname": "Randy",
+            "rank": 1,
+            "lastname": "KENNEDY"
+          }
+        ],
+        "original": "By RANDY KENNEDY"
+      },
+      "type_of_material": "News",
+      "_id": "54330a3f38f0d84dea7b0766",
+      "word_count": "761",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/07/arts/CRILE/CRILE-articleLarge.jpg",
+        "brightness": "117",
+        "saturation": "63",
+        "hue": "50",
+        "shapes": "185"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/10/09/upshot/how-actblue-became-a-powerful-force-in-fund-raising.html",
+      "snippet": "Collecting information, not just money, the Democratic online fund-raising group has deployed technology to make donating easier.",
+      "lead_paragraph": "Collecting information, not just money, the Democratic online fund-raising group has deployed technology to make donating easier.",
+      "abstract": "The Upshot; ActBlue has become a major fund-raising mechanism for the Democratic Party by deploying technology to make donating faster easier; in 10 years, more than $619 million has passed through the start-up on the way to Democratic candidates and causes.",
+      "print_page": "3",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "width": 190,
+          "url": "images/2014/10/09/upshot/09UP-actblue/09UP-actblue-thumbWide.jpg",
+          "height": 126,
+          "subtype": "wide",
+          "legacy": {
+            "wide": "images/2014/10/09/upshot/09UP-actblue/09UP-actblue-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "width": 600,
+          "url": "static01.nyt.com/images/2014/10/09/upshot/09UP-actblue/09UP-actblue-articleLarge.jpg",
+          "height": 400,
+          "subtype": "xlarge",
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/09/upshot/09UP-actblue/09UP-actblue-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "width": 75,
+          "url": "images/2014/10/09/upshot/09UP-actblue/09UP-actblue-thumbStandard-v2.jpg",
+          "height": 75,
+          "subtype": "thumbnail",
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/09/upshot/09UP-actblue/09UP-actblue-thumbStandard-v2.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "How ActBlue Became a Powerful Force in Fund-Raising",
+        "content_kicker": "Campaign Finance",
+        "kicker": "The Upshot",
+        "print_headline": "How ActBlue Became a Force in Political Fund-Raising"
+      },
+      "keywords": [
+        {
+          "rank": "1",
+          "is_major": "Y",
+          "name": "organizations",
+          "value": "ActBlue"
+        },
+        {
+          "rank": "2",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "Campaign Finance"
+        },
+        {
+          "rank": "3",
+          "is_major": "Y",
+          "name": "glocations",
+          "value": "United States"
+        },
+        {
+          "rank": "4",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Democratic Party"
+        },
+        {
+          "rank": "5",
+          "is_major": "N",
+          "name": "subject",
+          "value": "United States Politics and Government"
+        },
+        {
+          "rank": "6",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "Elections"
+        }
+      ],
+      "pub_date": "2014-10-09T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Business",
+      "section_name": "The Upshot",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "firstname": "Derek",
+            "rank": 1,
+            "lastname": "WILLIS"
+          }
+        ],
+        "original": "By DEREK WILLIS"
+      },
+      "type_of_material": "News",
+      "_id": "54360b5538f0d843550381ac",
+      "word_count": "1125",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/09/upshot/09UP-actblue/09UP-actblue-articleLarge.jpg",
+        "brightness": "31",
+        "saturation": "127",
+        "hue": "53",
+        "shapes": "105"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/29/opinion/paul-krugman-our-invisible-rich.html",
+      "snippet": "They have become so wealthy that most Americans can&#8217;t imagine how much they&#8217;re worth.",
+      "lead_paragraph": "They have become so wealthy that most Americans can&#8217;t imagine how much they&#8217;re worth.",
+      "abstract": "Paul Krugman Op-Ed column argues that most Americans remain woefully ignorant of just how wealthy the richest Americans have become; notes that the ultra-wealthy live such cloistered, protected lives that they have become virtually invisible; holds that if the true extent of income inequality were more widely understood it would become a more potent election issue.",
+      "print_page": "27",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2010/09/16/opinion/Krugman_New/Krugman_New-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2010/09/16/opinion/Krugman_New/Krugman_New-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2010/09/16/opinion/Krugman_New/Krugman_New-articleLarge.jpg",
+          "height": 900,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2010/09/16/opinion/Krugman_New/Krugman_New-articleLarge.jpg",
+            "xlargeheight": "900"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2010/09/16/opinion/Krugman_New/Krugman_New-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2010/09/16/opinion/Krugman_New/Krugman_New-thumbStandard-v2.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Our Invisible Rich",
+        "kicker": "Op-Ed Columnist",
+        "print_headline": "Our Invisible Rich",
+        "content_kicker": "Op-Ed Columnist"
+      },
+      "keywords": [
+        {
+          "value": "Income Inequality",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "High Net Worth Individuals",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "United States Politics and Government",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "United States",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Poverty",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "United States Economy",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-29T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Editorial",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Paul",
+            "lastname": "KRUGMAN"
+          }
+        ],
+        "original": "By PAUL KRUGMAN"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "5428a98d38f0d843596a31ba",
+      "word_count": "827",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2010/09/16/opinion/Krugman_New/Krugman_New-articleLarge.jpg",
+        "brightness": "33",
+        "saturation": "88",
+        "hue": "151",
+        "shapes": "114"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/28/opinion/sunday/frank-bruni-the-wilds-of-education.html",
+      "snippet": "The landscape that students romp across shouldn&#8217;t be too tame.",
+      "lead_paragraph": "The landscape that students romp across shouldn&#8217;t be too tame.",
+      "abstract": "Frank Bruni Op-Ed column contends that education should not be too tame, challenging Banned Books Week and instances of harmless books being banned by school boards; maintains efforts to ban some books are inextricable from subtler, more pervasive dynamics of caution and conformity in classrooms and schools.",
+      "print_page": "3",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/28/sunday-review/0928BRUNIsub/0928BRUNIsub-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/28/sunday-review/0928BRUNIsub/0928BRUNIsub-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/28/sunday-review/0928BRUNIsub/0928BRUNIsub-articleLarge.jpg",
+          "height": 412,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/28/sunday-review/0928BRUNIsub/0928BRUNIsub-articleLarge.jpg",
+            "xlargeheight": "412"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/28/sunday-review/0928BRUNIsub/0928BRUNIsub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/28/sunday-review/0928BRUNIsub/0928BRUNIsub-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "The Wilds of Education ",
+        "kicker": "Op-Ed Columnist",
+        "print_headline": "The Wilds of Education",
+        "content_kicker": "Op-Ed Columnist"
+      },
+      "keywords": [
+        {
+          "value": "Education (K-12)",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Books and Literature",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Censorship",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "United States",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Colleges and Universities",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Social Conditions and Trends",
+          "is_major": "Y",
+          "rank": "6",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-28T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Editorial",
+      "section_name": "Opinion",
+      "subsection_name": "Sunday Review",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Frank",
+            "lastname": "BRUNI"
+          }
+        ],
+        "original": "By FRANK BRUNI"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "5427023538f0d858f109f771",
+      "word_count": "1059",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/28/sunday-review/0928BRUNIsub/0928BRUNIsub-articleLarge.jpg",
+        "brightness": "243",
+        "saturation": "253",
+        "hue": "137",
+        "shapes": "1"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/29/opinion/finally-the-truth-about-the-bailout.html",
+      "snippet": "The A.I.G. case is an opportunity to explain the Fed&#8217;s decisions.",
+      "lead_paragraph": "The A.I.G. case is an opportunity to explain the Fed&#8217;s decisions.",
+      "abstract": "Editorial by Noam Scheiber, senior editor at The New Republic, examines case of Starr International Co Inc v United States, challenging government's 2008 bailout of AIG on constitutional grounds; argues that while case is far-fetched on its merits, it could serve to heal the long-festering wound of controversy surrounding sweetheart deal that banks like Goldman Sachs received during bailout.",
+      "print_page": "27",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/29/opinion/0929OPEDchayka/0929OPEDchayka-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/29/opinion/0929OPEDchayka/0929OPEDchayka-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/29/opinion/0929OPEDchayka/0929OPEDchayka-articleLarge.jpg",
+          "height": 1124,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/29/opinion/0929OPEDchayka/0929OPEDchayka-articleLarge.jpg",
+            "xlargeheight": "1124"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/29/opinion/0929OPEDchayka/0929OPEDchayka-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/29/opinion/0929OPEDchayka/0929OPEDchayka-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Finally, the Truth About the A.I.G. Bailout",
+        "kicker": "Op-Ed Contributor",
+        "print_headline": "Finally, the Truth About the Bailout",
+        "content_kicker": "Op-Ed Contributor"
+      },
+      "keywords": [
+        {
+          "value": "American International Group Inc",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "United States Economy",
+          "is_major": "N",
+          "rank": "11",
+          "name": "subject"
+        },
+        {
+          "value": "Goldman Sachs Group Inc",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "Emergency Economic Stabilization Act (2008)",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Subprime Mortgage Crisis",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "Banking and Financial Institutions",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Greenberg, Maurice R",
+          "is_major": "N",
+          "rank": "6",
+          "name": "persons"
+        },
+        {
+          "value": "Geithner, Timothy F",
+          "is_major": "N",
+          "rank": "7",
+          "name": "persons"
+        },
+        {
+          "value": "Treasury Department",
+          "is_major": "N",
+          "rank": "8",
+          "name": "organizations"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "9",
+          "name": "glocations"
+        },
+        {
+          "value": "Stocks and Bonds",
+          "is_major": "N",
+          "rank": "10",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-29T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "OpEd",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Noam",
+            "lastname": "SCHEIBER"
+          }
+        ],
+        "original": "By NOAM SCHEIBER"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "54289fa738f0d843596a31a0",
+      "word_count": "951",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/29/opinion/0929OPEDchayka/0929OPEDchayka-articleLarge.jpg",
+        "brightness": "null",
+        "saturation": "null",
+        "hue": "null",
+        "shapes": "null"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/10/03/opinion/young-brilliant-and-underfunded.html",
+      "snippet": "We’ll never know what medical breakthroughs were missed because young scientists were not provided with resources.",
+      "lead_paragraph": "We’ll never know what medical breakthroughs were missed because young scientists were not provided with resources.",
+      "abstract": "Op-Ed article by Rep Andy Harris of Maryland warns that young scientists and researchers receive relatively fewer resources from the National Institutes of Health than do their older and more experienced colleagues; calls on NIH to develop strategic plan that sets national research priorities, and targets good researchers who are doing valuable work in the prime of their careers.",
+      "print_page": "27",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/10/03/opinion/03harris/03harris-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/10/03/opinion/03harris/03harris-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/10/03/opinion/03harris/03harris-articleLarge.jpg",
+          "height": 550,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/03/opinion/03harris/03harris-articleLarge.jpg",
+            "xlargeheight": "550"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/10/03/opinion/03harris/03harris-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/03/opinion/03harris/03harris-thumbStandard-v2.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Young, Brilliant and Underfunded",
+        "kicker": "Op-Ed Contributor",
+        "print_headline": "Young, Brilliant and Underfunded",
+        "content_kicker": "Op-Ed Contributor"
+      },
+      "keywords": [
+        {
+          "value": "National Institutes of Health",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "organizations"
+        },
+        {
+          "value": "Research",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Age, Chronological",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Budgets and Budgeting",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Health and Human Services Department",
+          "is_major": "N",
+          "rank": "6",
+          "name": "organizations"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "7",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-10-03T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "OpEd",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Andy",
+            "lastname": "HARRIS"
+          }
+        ],
+        "original": "By ANDY HARRIS"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "542ddda838f0d87d7534d015",
+      "word_count": "900",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/03/opinion/03harris/03harris-articleLarge.jpg",
+        "brightness": "null",
+        "saturation": "null",
+        "hue": "null",
+        "shapes": "null"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/video/world/100000003095408/players-in-the-coalition-against-isis.html",
+      "snippet": "The Obama administration is now leading a coalition of nations to fight the Islamic State in Iraq and Syria.",
+      "lead_paragraph": "The Obama administration is now leading a coalition of nations to fight the Islamic State in Iraq and Syria.",
+      "abstract": null,
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/05/multimedia/coalition-against-isis/coalition-against-isis-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/05/multimedia/coalition-against-isis/coalition-against-isis-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/05/multimedia/coalition-against-isis/coalition-against-isis-articleLarge.jpg",
+          "height": 380,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/05/multimedia/coalition-against-isis/coalition-against-isis-articleLarge.jpg",
+            "xlargeheight": "380"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/05/multimedia/coalition-against-isis/coalition-against-isis-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/05/multimedia/coalition-against-isis/coalition-against-isis-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Players in the Coalition Against ISIS"
+      },
+      "keywords": [
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "11",
+          "name": "glocations"
+        },
+        {
+          "value": "United States International Relations",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "N",
+          "rank": "3",
+          "name": "organizations"
+        },
+        {
+          "value": "North Atlantic Treaty Organization",
+          "is_major": "N",
+          "rank": "4",
+          "name": "organizations"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "5",
+          "name": "persons"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "N",
+          "rank": "6",
+          "name": "glocations"
+        },
+        {
+          "value": "Syria",
+          "is_major": "N",
+          "rank": "7",
+          "name": "glocations"
+        },
+        {
+          "value": "Jordan",
+          "is_major": "N",
+          "rank": "8",
+          "name": "glocations"
+        },
+        {
+          "value": "Turkey",
+          "is_major": "N",
+          "rank": "9",
+          "name": "glocations"
+        },
+        {
+          "value": "Saudi Arabia",
+          "is_major": "N",
+          "rank": "10",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-05T19:36:33Z",
+      "document_type": "multimedia",
+      "news_desk": "World",
+      "section_name": "World",
+      "subsection_name": null,
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Christian",
+            "lastname": "Roman"
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Carrie",
+            "lastname": "Halperin"
+          }
+        ],
+        "original": "Christian Roman and Carrie Halperin"
+      },
+      "type_of_material": "Video",
+      "_id": "540a491138f0d84fb883370f",
+      "word_count": "19",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/05/multimedia/coalition-against-isis/coalition-against-isis-articleLarge.jpg",
+        "brightness": "137",
+        "saturation": "108",
+        "hue": "148",
+        "shapes": "64"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/10/03/opinion/paul-krugman-depression-denial-syndrome.html",
+      "snippet": "The fall of Bill Gross at Pimco is an example of how decision-makers refuse to acknowledge that the rules are different in a persistently depressed economy.",
+      "lead_paragraph": "The fall of Bill Gross at Pimco is an example of how decision-makers refuse to acknowledge that the rules are different in a persistently depressed economy.",
+      "abstract": "Paul Krugman Op-Ed column contends Bill Gross's departure from investment firm Pimco is symptom of refusal to acknowledge that rules are different in persistently depressed economy, malady that continues to afflict major decision-makers, public and private; notes that while Gross has paid price for mistakenly believing soaring inflation and interest rates were inevitable, yet other deficit hysterics continue in their error.",
+      "print_page": "27",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2010/09/16/opinion/Krugman_New/Krugman_New-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2010/09/16/opinion/Krugman_New/Krugman_New-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2010/09/16/opinion/Krugman_New/Krugman_New-articleLarge.jpg",
+          "height": 900,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2010/09/16/opinion/Krugman_New/Krugman_New-articleLarge.jpg",
+            "xlargeheight": "900"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2010/09/16/opinion/Krugman_New/Krugman_New-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2010/09/16/opinion/Krugman_New/Krugman_New-thumbStandard-v2.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Depression Denial Syndrome",
+        "kicker": "Op-Ed Columnist",
+        "print_headline": "Depression Denial Syndrome",
+        "content_kicker": "Op-Ed Columnist"
+      },
+      "keywords": [
+        {
+          "value": "Gross, William H",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "persons"
+        },
+        {
+          "value": "PIMCO (Pacific Investment Management Company)",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "United States Economy",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Inflation (Economics)",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "Interest Rates",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Credit and Debt",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "7",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-10-03T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Editorial",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Paul",
+            "lastname": "KRUGMAN"
+          }
+        ],
+        "original": "By PAUL KRUGMAN"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "542de5e538f0d87d7534d038",
+      "word_count": "805",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2010/09/16/opinion/Krugman_New/Krugman_New-articleLarge.jpg",
+        "brightness": "33",
+        "saturation": "88",
+        "hue": "151",
+        "shapes": "114"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/27/opinion/curses-fooled-again.html",
+      "snippet": "The new &#8220;Candid Camera&#8221; reveals that today&#8217;s pervasive technology makes people easy targets.",
+      "lead_paragraph": "The new &#8220;Candid Camera&#8221; reveals that today&#8217;s pervasive technology makes people easy targets.",
+      "abstract": "Op-Ed article by writer and television host Peter Funt describes summer spent producing new generation of Candid Camera episodes; discusses ways that people have changed or stayed same over years, and submits that Americans increasingly dwell on minutiae when they feel they cannot control larger aspects of their lives, making them easier to fool.",
+      "print_page": "23",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/27/opinion/0927OPEDgoldencosmos/0927OPEDgoldencosmos-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/27/opinion/0927OPEDgoldencosmos/0927OPEDgoldencosmos-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/27/opinion/0927OPEDgoldencosmos/0927OPEDgoldencosmos-articleLarge.jpg",
+          "height": 676,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/27/opinion/0927OPEDgoldencosmos/0927OPEDgoldencosmos-articleLarge.jpg",
+            "xlargeheight": "676"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/27/opinion/0927OPEDgoldencosmos/0927OPEDgoldencosmos-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/27/opinion/0927OPEDgoldencosmos/0927OPEDgoldencosmos-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Curses, Fooled Again!",
+        "kicker": "Op-Ed Contributor",
+        "print_headline": "Curses, Fooled Again!",
+        "content_kicker": "Op-Ed Contributor"
+      },
+      "keywords": [
+        {
+          "value": "Hoaxes and Pranks",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Television",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "United States",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Social Conditions and Trends",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "Computers and the Internet",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Smartphones",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "Cameras",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        },
+        {
+          "value": "Candid Camera (TV Program)",
+          "is_major": "Y",
+          "rank": "8",
+          "name": "creative_works"
+        }
+      ],
+      "pub_date": "2014-09-27T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "OpEd",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Peter",
+            "lastname": "FUNT"
+          }
+        ],
+        "original": "By PETER FUNT"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "54260c9238f0d862dbf4e9b6",
+      "word_count": "923",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/27/opinion/0927OPEDgoldencosmos/0927OPEDgoldencosmos-articleLarge.jpg",
+        "brightness": "null",
+        "saturation": "null",
+        "hue": "null",
+        "shapes": "null"
+      }
+    },
+    {
+      "web_url": "http://well.blogs.nytimes.com/2014/09/29/vets-face-rising-worry-over-fleas/",
+      "snippet": "Anecdotal reports suggest fleas are getting harder to control, but vets and product makers said the products still work.",
+      "lead_paragraph": null,
+      "abstract": "Anecdotal reports suggest fleas are getting harder to control, but vets and product makers said the products still work.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/30/health/30well_fleas/30well_fleas-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/30/health/30well_fleas/30well_fleas-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/30/health/30well_fleas/30well_fleas-articleLarge.jpg",
+          "height": 417,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/30/health/30well_fleas/30well_fleas-articleLarge.jpg",
+            "xlargeheight": "417"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/30/health/30well_fleas/30well_fleas-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/30/health/30well_fleas/30well_fleas-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Vets Face Rising Worry Over Fleas",
+        "kicker": "Well",
+        "print_headline": "Vets Face Rising Worry Over Fleas"
+      },
+      "keywords": [
+        {
+          "value": "Dogs",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Parasites",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Pets",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Fleas",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "Veterinary Medicine",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "United States",
+          "name": "glocations",
+          "rank": "1"
+        }
+      ],
+      "pub_date": "2014-09-29T18:42:10Z",
+      "document_type": "blogpost",
+      "news_desk": "Science",
+      "section_name": "Health",
+      "subsection_name": null,
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Tara",
+            "lastname": "PARKER-POPE"
+          }
+        ],
+        "original": "By TARA PARKER-POPE"
+      },
+      "type_of_material": "Blog",
+      "_id": "5429e11138f0d83564f676e4",
+      "word_count": "933",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/30/health/30well_fleas/30well_fleas-articleLarge.jpg",
+        "brightness": "136",
+        "saturation": "129",
+        "hue": "20",
+        "shapes": "75"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/politics/first-draft/2014/10/09/today-in-politics-12/",
+      "snippet": "The election has taken a dark turn as conservatives use warnings about Ebola, the Islamic State and terrorism to send a message: The world is a scary place, and the Democrats can’t protect you.",
+      "lead_paragraph": null,
+      "abstract": "The election has taken a dark turn as conservatives use warnings about Ebola, the Islamic State and terrorism to send a message: The world is a scary place, and the Democrats can’t protect you.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "width": 190,
+          "url": "images/2014/10/09/us/politics/09firstdraft-obama/09firstdraft-obama-thumbWide.jpg",
+          "height": 126,
+          "subtype": "wide",
+          "legacy": {
+            "wide": "images/2014/10/09/us/politics/09firstdraft-obama/09firstdraft-obama-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "width": 600,
+          "url": "static01.nyt.com/images/2014/10/09/us/politics/09firstdraft-obama/09firstdraft-obama-articleLarge.jpg",
+          "height": 400,
+          "subtype": "xlarge",
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/09/us/politics/09firstdraft-obama/09firstdraft-obama-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "width": 75,
+          "url": "images/2014/10/09/us/politics/09firstdraft-obama/09firstdraft-obama-thumbStandard.jpg",
+          "height": 75,
+          "subtype": "thumbnail",
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/09/us/politics/09firstdraft-obama/09firstdraft-obama-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Today in Politics",
+        "kicker": "First Draft"
+      },
+      "keywords": [
+        {
+          "rank": "1",
+          "name": "persons",
+          "value": "Johnson, Jeh C"
+        },
+        {
+          "rank": "2",
+          "name": "persons",
+          "value": "Obama, Barack"
+        },
+        {
+          "rank": "3",
+          "name": "persons",
+          "value": "Pelosi, Nancy"
+        },
+        {
+          "rank": "1",
+          "name": "glocations",
+          "value": "United States"
+        },
+        {
+          "rank": "1",
+          "name": "organizations",
+          "value": "Center for Strategic and International Studies"
+        },
+        {
+          "rank": "2",
+          "name": "organizations",
+          "value": "House of Representatives"
+        },
+        {
+          "rank": "1",
+          "name": "subject",
+          "value": "Midterm Elections (2014)"
+        },
+        {
+          "rank": "2",
+          "name": "subject",
+          "value": "United States Politics and Government"
+        }
+      ],
+      "pub_date": "2014-10-09T07:11:58Z",
+      "document_type": "blogpost",
+      "news_desk": null,
+      "section_name": null,
+      "subsection_name": null,
+      "byline": {
+        "person": [],
+        "original": "By THE NEW YORK TIMES",
+        "organization": "The New York Times"
+      },
+      "type_of_material": "Blog",
+      "_id": "54366dbb38f0d8435503827c",
+      "word_count": "1260",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/09/us/politics/09firstdraft-obama/09firstdraft-obama-articleLarge.jpg",
+        "brightness": "134",
+        "saturation": "139",
+        "hue": "18",
+        "shapes": "32"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/24/opinion/america-out-of-whack.html",
+      "snippet": "Why aren’t the rewards of economic growth distributed more fairly?",
+      "lead_paragraph": "Why aren’t the rewards of economic growth distributed more fairly?",
+      "abstract": null,
+      "print_page": "",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/23/opinion/23edsall1/23edsall1-thumbWide-v2.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/23/opinion/23edsall1/23edsall1-thumbWide-v2.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/23/opinion/23edsall1/23edsall1-articleLarge-v2.jpg",
+          "height": 349,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/23/opinion/23edsall1/23edsall1-articleLarge-v2.jpg",
+            "xlargeheight": "349"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/23/opinion/23edsall1/23edsall1-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/23/opinion/23edsall1/23edsall1-thumbStandard-v2.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "America Out of Whack",
+        "kicker": "Op-Ed | Thomas B. Edsall",
+        "content_kicker": "Contributing Op-Ed Writer"
+      },
+      "keywords": [
+        {
+          "value": "United States Economy",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "11",
+          "name": "subject"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "12",
+          "name": "glocations"
+        },
+        {
+          "value": "Third World and Developing Countries",
+          "is_major": "N",
+          "rank": "13",
+          "name": "subject"
+        },
+        {
+          "value": "Economic Conditions and Trends",
+          "is_major": "N",
+          "rank": "14",
+          "name": "subject"
+        },
+        {
+          "value": "Income Inequality",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Corporations",
+          "is_major": "N",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Corporate Taxes",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "Income Tax",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Productivity",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "International Trade and World Market",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        },
+        {
+          "value": "Capitalism (Theory and Philosophy)",
+          "is_major": "N",
+          "rank": "8",
+          "name": "subject"
+        },
+        {
+          "value": "Republican Party",
+          "is_major": "N",
+          "rank": "9",
+          "name": "organizations"
+        },
+        {
+          "value": "Democratic Party",
+          "is_major": "N",
+          "rank": "10",
+          "name": "organizations"
+        }
+      ],
+      "pub_date": "2014-09-24T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Editorial",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Thomas"
+          }
+        ],
+        "original": "By THOMAS B. EDSALL"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "5422241638f0d83c6e5b7b31",
+      "word_count": "1854",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/23/opinion/23edsall1/23edsall1-articleLarge-v2.jpg",
+        "brightness": "246",
+        "saturation": "13",
+        "hue": "29",
+        "shapes": "98"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/06/business/political-impact-of-latest-economic-news.html",
+      "snippet": "The tepid growth in August will probably not change voters&#8217; gloom about the economy much, which voters usually hold the president&#8217;s party responsible.",
+      "lead_paragraph": "The tepid growth in August will probably not change voters&#8217; gloom about the economy much, which voters usually hold the president&#8217;s party responsible.",
+      "abstract": "Tepid jobs report for August 2014 is discouraging news for Democrats hoping to change voters' gloom about the economy before 2014 midterm elections.",
+      "print_page": "7",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/06/business/Midterms/Midterms-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/06/business/Midterms/Midterms-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/06/business/Midterms/Midterms-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/06/business/Midterms/Midterms-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/06/business/Midterms/Midterms-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/06/business/Midterms/Midterms-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Hiring Data Isn&#8217;t Strong Enough to Lift Democrats&#8217; Hopes for November ",
+        "print_headline": "Hiring Data Isn’t Strong Enough to Lift Democrats’ Hopes for November"
+      },
+      "keywords": [
+        {
+          "value": "United States Economy",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "United States",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "glocations"
+        },
+        {
+          "value": "Midterm Elections (2014)",
+          "is_major": "N",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "Democratic Party",
+          "is_major": "N",
+          "rank": "5",
+          "name": "organizations"
+        },
+        {
+          "value": "Republican Party",
+          "is_major": "N",
+          "rank": "6",
+          "name": "organizations"
+        }
+      ],
+      "pub_date": "2014-09-06T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Business",
+      "section_name": "Business Day",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Jackie",
+            "lastname": "CALMES"
+          }
+        ],
+        "original": "By JACKIE CALMES"
+      },
+      "type_of_material": "News",
+      "_id": "5409effb38f0d84fb8832fea",
+      "word_count": "798",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/06/business/Midterms/Midterms-articleLarge.jpg",
+        "brightness": "39",
+        "saturation": "95",
+        "hue": "138",
+        "shapes": "215"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/video/world/middleeast/100000003135318/obama-addresses-un-about-battling-isis.html",
+      "snippet": "President Obama said the United States will work with a broad coalition to dismantle ISIS’ “network of death” in a speech before delegates at the 69th session of the United Nations General Assembly.",
+      "lead_paragraph": "President Obama said the United States will work with a broad coalition to dismantle ISIS’ “network of death” in a speech before delegates at the 69th session of the United Nations General Assembly.",
+      "abstract": null,
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/24/world/25PREXY2-hp/25PREXY2-hp-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/24/world/25PREXY2-hp/25PREXY2-hp-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/24/world/25PREXY2-hp/25PREXY2-hp-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/24/world/25PREXY2-hp/25PREXY2-hp-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/24/world/25PREXY2-hp/25PREXY2-hp-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/24/world/25PREXY2-hp/25PREXY2-hp-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Obama on Fight Against ISIS at the U.N."
+      },
+      "keywords": [
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "International Relations",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "N",
+          "rank": "3",
+          "name": "organizations"
+        },
+        {
+          "value": "United Nations",
+          "is_major": "N",
+          "rank": "4",
+          "name": "organizations"
+        },
+        {
+          "value": "General Assembly (UN)",
+          "is_major": "N",
+          "rank": "5",
+          "name": "organizations"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "6",
+          "name": "persons"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "7",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-24T12:10:11Z",
+      "document_type": "multimedia",
+      "news_desk": "World / Middle East",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": [],
+      "type_of_material": "Video",
+      "_id": "5422ecf338f0d84b4e7e9cd2",
+      "word_count": "33",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/24/world/25PREXY2-hp/25PREXY2-hp-articleLarge.jpg",
+        "brightness": "20",
+        "saturation": "66",
+        "hue": "56",
+        "shapes": "122"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/23/health/finding-risks-not-answers-in-gene-tests.html",
+      "snippet": "Tests to find mutations that predispose people to types of cancer have outpaced the understanding of what they mean.",
+      "lead_paragraph": "Tests to find mutations that predispose people to types of cancer have outpaced the understanding of what they mean.",
+      "abstract": "Some doctors worry that multigene testing may open a can of worms, because the ability to find mutations has outpaced the understanding of what they mean; say that in some cases, tests find cancer-associated mutations for which there are no preventive measures, and the patient is left with a bleak prognosis.",
+      "print_page": "17",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/23/us/SCREEN/SCREEN-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/23/us/SCREEN/SCREEN-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/23/us/SCREEN/SCREEN-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/23/us/SCREEN/SCREEN-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/23/us/SCREEN/SCREEN-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/23/us/SCREEN/SCREEN-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Finding Risks, Not Answers, in Gene Tests",
+        "print_headline": "Finding Risks, Not Answers, in Expanding Array of Gene Tests"
+      },
+      "keywords": [
+        {
+          "value": "Cancer",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Genetics and Heredity",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Tests (Medical)",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Research",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "DNA (Deoxyribonucleic Acid)",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "6",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-23T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "National",
+      "section_name": "Health",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Denise",
+            "lastname": "GRADY"
+          },
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 2,
+            "firstname": "Andrew",
+            "lastname": "POLLACK"
+          }
+        ],
+        "original": "By DENISE GRADY and ANDREW POLLACK"
+      },
+      "type_of_material": "News",
+      "_id": "5420d02338f0d81f7a60099f",
+      "word_count": "1391",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/23/us/SCREEN/SCREEN-articleLarge.jpg",
+        "brightness": "135",
+        "saturation": "61",
+        "hue": "60",
+        "shapes": "84"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/03/opinion/dealing-with-iraq-syria-and-isis.html",
+      "snippet": "Responses to opinion articles about the Mideast turmoil.",
+      "lead_paragraph": "Responses to opinion articles about the Mideast turmoil.",
+      "abstract": null,
+      "print_page": "22",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/03/opinion/0903lettersIRAQ/0903lettersIRAQ-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/03/opinion/0903lettersIRAQ/0903lettersIRAQ-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/03/opinion/0903lettersIRAQ/0903lettersIRAQ-articleLarge.jpg",
+          "height": 762,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/03/opinion/0903lettersIRAQ/0903lettersIRAQ-articleLarge.jpg",
+            "xlargeheight": "762"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/03/opinion/0903lettersIRAQ/0903lettersIRAQ-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/03/opinion/0903lettersIRAQ/0903lettersIRAQ-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Dealing With Iraq, Syria and ISIS",
+        "kicker": "Letters",
+        "print_headline": "Dealing With Iraq, Syria and ISIS",
+        "content_kicker": "Letter"
+      },
+      "keywords": [
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "N",
+          "rank": "11",
+          "name": "glocations"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "12",
+          "name": "glocations"
+        },
+        {
+          "value": "United States International Relations",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Constitution (US)",
+          "is_major": "N",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "N",
+          "rank": "5",
+          "name": "organizations"
+        },
+        {
+          "value": "McCain, John",
+          "is_major": "N",
+          "rank": "6",
+          "name": "persons"
+        },
+        {
+          "value": "Graham, Lindsey",
+          "is_major": "N",
+          "rank": "7",
+          "name": "persons"
+        },
+        {
+          "value": "Kerry, John",
+          "is_major": "N",
+          "rank": "8",
+          "name": "persons"
+        },
+        {
+          "value": "Glasser, Ira",
+          "is_major": "N",
+          "rank": "9",
+          "name": "persons"
+        },
+        {
+          "value": "Syria",
+          "is_major": "N",
+          "rank": "10",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-03T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Letters",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": [],
+      "type_of_material": "Letter",
+      "_id": "54064fbc38f0d81983bde9fb",
+      "word_count": "722",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/03/opinion/0903lettersIRAQ/0903lettersIRAQ-articleLarge.jpg",
+        "brightness": "null",
+        "saturation": "null",
+        "hue": "null",
+        "shapes": "null"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/25/opinion/colony-collapse-are-bees-back-up-on-their-knees.html",
+      "snippet": "Colony collapse may be over, but the pollination squad needs help.",
+      "lead_paragraph": "Colony collapse may be over, but the pollination squad needs help.",
+      "abstract": "Op-Ed article by bee advocate Noah Wilson-Rich offers hope that phenomenon known as colony collapse disorder, responsible for killing thousands of honeybees worldwide, may be waning but warns bees are still threatened by chemicals, diseases and habitat loss; holds efforts by beekeepers and others to revive bee populations must continue, along with research into smart pollination practices.",
+      "print_page": "31",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/25/opinion/0925OPEDnewcomb/0925OPEDnewcomb-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/25/opinion/0925OPEDnewcomb/0925OPEDnewcomb-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/25/opinion/0925OPEDnewcomb/0925OPEDnewcomb-articleLarge.jpg",
+          "height": 687,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/25/opinion/0925OPEDnewcomb/0925OPEDnewcomb-articleLarge.jpg",
+            "xlargeheight": "687"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/25/opinion/0925OPEDnewcomb/0925OPEDnewcomb-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/25/opinion/0925OPEDnewcomb/0925OPEDnewcomb-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Are Bees Back Up on Their Knees?",
+        "kicker": "Op-Ed Contributor",
+        "print_headline": "Are Bees Back Up on Their Knees?",
+        "content_kicker": "Op-Ed Contributor"
+      },
+      "keywords": [
+        {
+          "value": "Bees",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Agriculture and Farming",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Pesticides",
+          "is_major": "N",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Environment",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "5",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-25T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "OpEd",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Noah",
+            "lastname": "WILSON-RICH"
+          }
+        ],
+        "original": "By NOAH WILSON-RICH"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "542357ac38f0d84b4e7e9e84",
+      "word_count": "945",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/25/opinion/0925OPEDnewcomb/0925OPEDnewcomb-articleLarge.jpg",
+        "brightness": "null",
+        "saturation": "null",
+        "hue": "null",
+        "shapes": "null"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/04/opinion/after-beheadings-pressure-on-obama.html",
+      "snippet": "Readers respond to a front-page article about the beheading of the journalist Steven Sotloff and to a column by Frank Bruni about President Obama&#8217;s statements.",
+      "lead_paragraph": "Readers respond to a front-page article about the beheading of the journalist Steven Sotloff and to a column by Frank Bruni about President Obama&#8217;s statements.",
+      "abstract": null,
+      "print_page": "26",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/04/opinion/0904lettersIRAQ/0904lettersIRAQ-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/04/opinion/0904lettersIRAQ/0904lettersIRAQ-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/04/opinion/0904lettersIRAQ/0904lettersIRAQ-articleLarge.jpg",
+          "height": 761,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/04/opinion/0904lettersIRAQ/0904lettersIRAQ-articleLarge.jpg",
+            "xlargeheight": "761"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/04/opinion/0904lettersIRAQ/0904lettersIRAQ-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/04/opinion/0904lettersIRAQ/0904lettersIRAQ-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "After Beheadings, Pressure on Obama",
+        "kicker": "Letters",
+        "print_headline": "After Beheadings, Pressure on Obama",
+        "content_kicker": "Letters"
+      },
+      "keywords": [
+        {
+          "value": "United States Defense and Military Forces",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Islamic State in Iraq and Syria (ISIS)",
+          "is_major": "N",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Iraq",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Syria",
+          "is_major": "N",
+          "rank": "5",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-04T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Letters",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": [],
+      "type_of_material": "Letter",
+      "_id": "5407ad2438f0d843936a7136",
+      "word_count": "842",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/04/opinion/0904lettersIRAQ/0904lettersIRAQ-articleLarge.jpg",
+        "brightness": "176",
+        "saturation": "0",
+        "hue": "0",
+        "shapes": "43"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/23/science/on-a-warmer-planet-which-cities-will-be-safest.html",
+      "snippet": "Scientists trying to predict the consequences of climate change see few havens from future storms, floods and droughts. But some regions will fare much better than others.",
+      "lead_paragraph": "Scientists trying to predict the consequences of climate change see few havens from future storms, floods and droughts. But some regions will fare much better than others.",
+      "abstract": "Scientists trying to predict consequences of climate change in United States say all areas of country will be affected, but some regions will fare better than others; although few people today are moving long distances to strategize for climate change, some Americans are at least pondering the question of where they would go based on impact of weather on comfort, safety and cost of living.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/23/science/23SAFE1/23SAFE1-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/23/science/23SAFE1/23SAFE1-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/23/science/23SAFE1/23SAFE1-articleLarge.jpg",
+          "height": 404,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/23/science/23SAFE1/23SAFE1-articleLarge.jpg",
+            "xlargeheight": "404"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/23/science/23SAFE1/23SAFE1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/23/science/23SAFE1/23SAFE1-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "seo": "On a Warmer Planet, Which Cities Will Be Safest?",
+        "main": "Portland Will Still Be Cool, but Anchorage May Be the Place to Be",
+        "print_headline": "Alaska, Oregon or ... Detroit?",
+        "content_kicker": "Nature in the Balance"
+      },
+      "keywords": [
+        {
+          "value": "Global Warming",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Weather",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "United States",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Mora, Camilo",
+          "is_major": "N",
+          "rank": "4",
+          "name": "persons"
+        },
+        {
+          "value": "Strauss, Benjamin H",
+          "is_major": "N",
+          "rank": "5",
+          "name": "persons"
+        },
+        {
+          "value": "Mass, Clifford E",
+          "is_major": "N",
+          "rank": "6",
+          "name": "persons"
+        },
+        {
+          "value": "Kahn, Matthew Edwin",
+          "is_major": "N",
+          "rank": "7",
+          "name": "persons"
+        },
+        {
+          "value": "Peterson, Thomas C",
+          "is_major": "N",
+          "rank": "8",
+          "name": "persons"
+        }
+      ],
+      "pub_date": "2014-09-23T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Science",
+      "section_name": "Science",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "firstname": "Jennifer",
+            "middlename": "A.",
+            "lastname": "KINGSON",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By JENNIFER A. KINGSON"
+      },
+      "type_of_material": "News",
+      "_id": "5420611538f0d81f7a5fffe9",
+      "word_count": "1214",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/23/science/23SAFE1/23SAFE1-articleLarge.jpg",
+        "brightness": "147",
+        "saturation": "43",
+        "hue": "141",
+        "shapes": "50"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/26/world/asia/narendra-modi-defies-expectations-with-mix-of-soft-and-severe-in-india.html",
+      "snippet": "India’s new prime minister, Narendra Modi, offers himself as a metaphor for the India he wants to build — ambitious, confident and impatient with slackness of any kind.",
+      "lead_paragraph": "India’s new prime minister, Narendra Modi, offers himself as a metaphor for the India he wants to build — ambitious, confident and impatient with slackness of any kind.",
+      "abstract": "Indian Prime Min Narendra Modi comes to New York for five days as an immensely popular leader and a sought-after strategic partner; it is big moment for him, as he offers himself as a metaphor for the India he wants to build--ambitious, confident and impatient with slackness of any kind; he is building a machine for governing in India, one he intends to operate for a long time.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/26/world/MODI/MODI-thumbWide-v3.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/26/world/MODI/MODI-thumbWide-v3.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/26/world/MODI/MODI-articleLarge-v3.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/26/world/MODI/MODI-articleLarge-v3.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/26/world/MODI/MODI-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/26/world/MODI/MODI-thumbStandard-v2.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Defying Expectations in India, Modi Begins Key Trip to U.S.",
+        "print_headline": "Defying Expectations in India, Modi Begins Key Trip to U.S."
+      },
+      "keywords": [
+        {
+          "value": "India",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Modi, Narendra",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "persons"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Bharatiya Janata Party",
+          "is_major": "N",
+          "rank": "4",
+          "name": "organizations"
+        },
+        {
+          "value": "Economic Conditions and Trends",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Elections",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "New York City",
+          "is_major": "N",
+          "rank": "7",
+          "name": "glocations"
+        },
+        {
+          "value": "United Nations",
+          "is_major": "N",
+          "rank": "8",
+          "name": "organizations"
+        }
+      ],
+      "pub_date": "2014-09-26T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Ellen",
+            "lastname": "BARRY"
+          }
+        ],
+        "original": "By ELLEN BARRY"
+      },
+      "type_of_material": "News",
+      "_id": "5424508a38f0d8525e453277",
+      "word_count": "1619",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/26/world/MODI/MODI-articleLarge-v3.jpg",
+        "brightness": "172",
+        "saturation": "21",
+        "hue": "157",
+        "shapes": "83"
       }
     }
   ]
