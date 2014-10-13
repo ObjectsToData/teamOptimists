@@ -4,7 +4,7 @@
       "web_url": "http://www.nytimes.com/2014/10/13/opinion/how-to-quarantine-against-ebola.html",
       "snippet": "Create a rapid blood-testing system for travelers from affected regions.",
       "lead_paragraph": "Create a rapid blood-testing system for travelers from affected regions.",
-      "abstract": null,
+      "abstract": "Op-Ed article by Prof Siddhartha Mukherjee contends Ebola case of Thomas Eric Duncan in Dallas shows that medical community must rethink concept of quarantine, in light of the absence of any established anti-viral treatment; calls for development of pilot program for rapid-testing quarantine.",
       "print_page": "21",
       "blog": [],
       "source": "The New York Times",
@@ -55,45 +55,45 @@
       "keywords": [
         {
           "rank": "1",
-          "is_major": "N",
+          "is_major": "Y",
           "name": "subject",
           "value": "Ebola Virus"
         },
         {
           "rank": "2",
-          "is_major": "N",
+          "is_major": "Y",
           "name": "subject",
           "value": "Tests (Medical)"
         },
         {
           "rank": "3",
-          "is_major": "N",
+          "is_major": "Y",
           "name": "subject",
           "value": "Epidemics"
         },
         {
           "rank": "4",
-          "is_major": "N",
-          "name": "subject",
-          "value": "Airlines and Airplanes"
+          "is_major": "Y",
+          "name": "persons",
+          "value": "Duncan, Thomas Eric"
         },
         {
           "rank": "5",
           "is_major": "N",
           "name": "subject",
-          "value": "Airport Security"
+          "value": "Airlines and Airplanes"
         },
         {
           "rank": "6",
           "is_major": "N",
           "name": "subject",
-          "value": "Humanitarian Aid"
+          "value": "Airport Security"
         },
         {
           "rank": "7",
           "is_major": "N",
-          "name": "persons",
-          "value": "Duncan, Thomas Eric"
+          "name": "subject",
+          "value": "Humanitarian Aid"
         },
         {
           "rank": "8",
@@ -128,7 +128,7 @@
         "brightness": "165",
         "saturation": "37",
         "hue": "40",
-        "shapes": "Count"
+        "shapes": "31"
       }
     },
     {
@@ -238,7 +238,7 @@
         "brightness": "96",
         "saturation": "63",
         "hue": "47",
-        "shapes": "31"
+        "shapes": "57"
       }
     },
     {
@@ -358,10 +358,10 @@
       "word_count": "3203",
       "enrichment": {
         "url": "static01.nyt.com/images/2014/09/01/world/GITMO-1/GITMO-1-articleLarge.jpg",
-        "brightness": "96",
-        "saturation": "63",
-        "hue": "47",
-        "shapes": "31"
+        "brightness": "null",
+        "saturation": "null",
+        "hue": "null",
+        "shapes": "null"
       }
     },
     {
@@ -1294,139 +1294,6 @@
       }
     },
     {
-      "web_url": "http://www.nytimes.com/politics/first-draft/2014/10/13/today-in-politics-14/",
-      "snippet": "It’s debate night in the marquee Kentucky Senate race featuring one of the country’s shrewdest political tacticians, Mitch McConnell, against a tenacious Democratic challenger, Alison Lundergan Grimes.",
-      "lead_paragraph": null,
-      "abstract": "It’s debate night in the marquee Kentucky Senate race featuring one of the country’s shrewdest political tacticians, Mitch McConnell, against a tenacious Democratic challenger, Alison Lundergan Grimes.",
-      "print_page": null,
-      "blog": [],
-      "source": "The New York Times",
-      "multimedia": [
-        {
-          "width": 190,
-          "url": "images/2014/10/13/us/politics/13firstdraft-kentucky/13firstdraft-kentucky-thumbWide.jpg",
-          "height": 126,
-          "subtype": "wide",
-          "legacy": {
-            "wide": "images/2014/10/13/us/politics/13firstdraft-kentucky/13firstdraft-kentucky-thumbWide.jpg",
-            "wideheight": "126",
-            "widewidth": "190"
-          },
-          "type": "image"
-        },
-        {
-          "width": 600,
-          "url": "static01.nyt.com/images/2014/10/13/us/politics/13firstdraft-kentucky/13firstdraft-kentucky-articleLarge.jpg",
-          "height": 282,
-          "subtype": "xlarge",
-          "legacy": {
-            "xlargewidth": "600",
-            "xlarge": "images/2014/10/13/us/politics/13firstdraft-kentucky/13firstdraft-kentucky-articleLarge.jpg",
-            "xlargeheight": "282"
-          },
-          "type": "image"
-        },
-        {
-          "width": 75,
-          "url": "images/2014/10/13/us/politics/13firstdraft-kentucky/13firstdraft-kentucky-thumbStandard.jpg",
-          "height": 75,
-          "subtype": "thumbnail",
-          "legacy": {
-            "thumbnailheight": "75",
-            "thumbnail": "images/2014/10/13/us/politics/13firstdraft-kentucky/13firstdraft-kentucky-thumbStandard.jpg",
-            "thumbnailwidth": "75"
-          },
-          "type": "image"
-        }
-      ],
-      "headline": {
-        "main": "Today in Politics",
-        "kicker": "First Draft"
-      },
-      "keywords": [
-        {
-          "rank": "1",
-          "name": "persons",
-          "value": "Grimes, Alison Lundergan"
-        },
-        {
-          "rank": "2",
-          "name": "persons",
-          "value": "Kagan, Elena"
-        },
-        {
-          "rank": "3",
-          "name": "persons",
-          "value": "McConnell, Mitch"
-        },
-        {
-          "rank": "4",
-          "name": "persons",
-          "value": "Obama, Barack"
-        },
-        {
-          "rank": "1",
-          "name": "glocations",
-          "value": "Florida"
-        },
-        {
-          "rank": "2",
-          "name": "glocations",
-          "value": "Kentucky"
-        },
-        {
-          "rank": "3",
-          "name": "glocations",
-          "value": "Massachusetts"
-        },
-        {
-          "rank": "4",
-          "name": "glocations",
-          "value": "United States"
-        },
-        {
-          "rank": "1",
-          "name": "organizations",
-          "value": "Senate"
-        },
-        {
-          "rank": "2",
-          "name": "organizations",
-          "value": "Supreme Court (US)"
-        },
-        {
-          "rank": "1",
-          "name": "subject",
-          "value": "Elections, Senate"
-        },
-        {
-          "rank": "2",
-          "name": "subject",
-          "value": "Midterm Elections (2014)"
-        }
-      ],
-      "pub_date": "2014-10-13T07:20:40Z",
-      "document_type": "blogpost",
-      "news_desk": null,
-      "section_name": null,
-      "subsection_name": null,
-      "byline": {
-        "person": [],
-        "original": "By THE NEW YORK TIMES",
-        "organization": "The New York Times"
-      },
-      "type_of_material": "Blog",
-      "_id": "543bb5c738f0d84026a0637f",
-      "word_count": "699",
-      "enrichment": {
-        "url": "static01.nyt.com/images/2014/10/13/us/politics/13firstdraft-kentucky/13firstdraft-kentucky-articleLarge.jpg",
-        "brightness": "127",
-        "saturation": "150",
-        "hue": "27",
-        "shapes": "15"
-      }
-    },
-    {
       "web_url": "http://www.nytimes.com/video/world/middleeast/100000003132685/obama-comments-on-strikes-against-isis.html",
       "snippet": "The president spoke on Tuesday after the United States military launched airstrikes overnight against Islamic State targets in Iraq and Syria.",
       "lead_paragraph": "The president spoke on Tuesday after the United States military launched airstrikes overnight against Islamic State targets in Iraq and Syria.",
@@ -1618,6 +1485,892 @@
         "saturation": "54",
         "hue": "34",
         "shapes": "117"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/10/08/us/politics/in-this-election-obamas-party-benches-him.html",
+      "snippet": "Democratic candidates — even those in states like Virginia that the president carried in 2008 and 2012 — do not want President Obama to campaign for them.",
+      "lead_paragraph": "Democratic candidates — even those in states like Virginia that the president carried in 2008 and 2012 — do not want President Obama to campaign for them.",
+      "abstract": "Pres Obama has become isolated political figures who is viewed as liability to Democrats running for office in state where voters by the thousands once cheered for him; some leading Democrats say it would be better for Obama to make case for party's economic policies safely away from the most crucial races.",
+      "print_page": "1",
+      "blog": [],
+      "source": "",
+      "multimedia": [
+        {
+          "width": 190,
+          "url": "images/2014/10/08/us/JP-OBAMA/JP-OBAMA-thumbWide.jpg",
+          "height": 126,
+          "subtype": "wide",
+          "legacy": {
+            "wide": "images/2014/10/08/us/JP-OBAMA/JP-OBAMA-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "width": 600,
+          "url": "static01.nyt.com/images/2014/10/08/us/JP-OBAMA/JP-OBAMA-articleLarge.jpg",
+          "height": 361,
+          "subtype": "xlarge",
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/08/us/JP-OBAMA/JP-OBAMA-articleLarge.jpg",
+            "xlargeheight": "361"
+          },
+          "type": "image"
+        },
+        {
+          "width": 75,
+          "url": "images/2014/10/08/us/JP-OBAMA/JP-OBAMA-thumbStandard.jpg",
+          "height": 75,
+          "subtype": "thumbnail",
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/08/us/JP-OBAMA/JP-OBAMA-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "In This Election, Obama&#8217;s Party Benches Him",
+        "print_headline": "In This Election, Obama’s Party Benches Him"
+      },
+      "keywords": [
+        {
+          "rank": "1",
+          "is_major": "Y",
+          "name": "persons",
+          "value": "Obama, Barack"
+        },
+        {
+          "rank": "2",
+          "is_major": "Y",
+          "name": "glocations",
+          "value": "United States"
+        },
+        {
+          "rank": "3",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Midterm Elections (2014)"
+        },
+        {
+          "rank": "4",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "United States Politics and Government"
+        },
+        {
+          "rank": "5",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Democratic Party"
+        }
+      ],
+      "pub_date": "2014-10-08T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "National",
+      "section_name": "U.S.",
+      "subsection_name": "Politics",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "firstname": "Jonathan",
+            "rank": 1,
+            "lastname": "MARTIN"
+          }
+        ],
+        "original": "By JONATHAN MARTIN"
+      },
+      "type_of_material": "News",
+      "_id": "54348a3638f0d86add490df4",
+      "word_count": "1347",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/08/us/JP-OBAMA/JP-OBAMA-articleLarge.jpg",
+        "brightness": "157",
+        "saturation": "30",
+        "hue": "139",
+        "shapes": "25"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/09/business/international/us-group-says-china-could-be-violating-trade-accords.html",
+      "snippet": "The United States Chamber of Commerce, in a report on Beijing&#8217;s aggressive enforcement of its antimonopoly law, raises the prospect of a formal trade complaint.",
+      "lead_paragraph": "The United States Chamber of Commerce, in a report on Beijing&#8217;s aggressive enforcement of its antimonopoly law, raises the prospect of a formal trade complaint.",
+      "abstract": "United States Chamber of Commerce, in a report on China's aggressive enforcement of its antimonopoly law, raises the prospect of a formal trade complaint with World Trade Organization.",
+      "print_page": "8",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/09/business/09antitrust-pic1/09antitrust-pic1-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/09/business/09antitrust-pic1/09antitrust-pic1-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/09/business/09antitrust-pic1/09antitrust-pic1-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/09/business/09antitrust-pic1/09antitrust-pic1-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/09/business/09antitrust-pic1/09antitrust-pic1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/09/business/09antitrust-pic1/09antitrust-pic1-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "China’s Antitrust Campaign Seen as Possible Breach of W.T.O. Rules",
+        "print_headline": "China’s Antitrust Campaign Seen as Possible Breach of W.T.O. Rules"
+      },
+      "keywords": [
+        {
+          "value": "China",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "United States Chamber of Commerce",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "organizations"
+        },
+        {
+          "value": "World Trade Organization",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "organizations"
+        },
+        {
+          "value": "Antitrust Laws and Competition Issues",
+          "is_major": "Y",
+          "rank": "4",
+          "name": "subject"
+        },
+        {
+          "value": "International Trade and World Market",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "United States",
+          "is_major": "N",
+          "rank": "6",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-09T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Business",
+      "section_name": "Business Day",
+      "subsection_name": "International Business",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Neil",
+            "lastname": "GOUGH"
+          }
+        ],
+        "original": "By NEIL GOUGH"
+      },
+      "type_of_material": "News",
+      "_id": "540d70c238f0d85bf2515896",
+      "word_count": "416",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/09/business/09antitrust-pic1/09antitrust-pic1-articleLarge.jpg",
+        "brightness": "100",
+        "saturation": "21",
+        "hue": "31",
+        "shapes": "104"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/10/10/opinion/david-brooks-money-matters-less.html",
+      "snippet": "Remember all the talk about how Citizens United would give Republicans a spending advantage forevermore? That hasn&#8217;t happened.",
+      "lead_paragraph": "Remember all the talk about how Citizens United would give Republicans a spending advantage forevermore? That hasn&#8217;t happened.",
+      "abstract": "David Brooks Op-Ed column assesses how the Supreme Court's Citizens United decision has affected campaign finance; questions whether Democrats, who have loudly denounced decision, have benefited more from it than Republicans; contends decision ultimately reduces influence of money on electoral outcomes.",
+      "print_page": "27",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "width": 190,
+          "url": "images/2010/09/16/opinion/Brooks_New/Brooks_New-thumbWide.jpg",
+          "height": 126,
+          "subtype": "wide",
+          "legacy": {
+            "wide": "images/2010/09/16/opinion/Brooks_New/Brooks_New-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "width": 600,
+          "url": "static01.nyt.com/images/2010/09/16/opinion/Brooks_New/Brooks_New-articleLarge.jpg",
+          "height": 900,
+          "subtype": "xlarge",
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2010/09/16/opinion/Brooks_New/Brooks_New-articleLarge.jpg",
+            "xlargeheight": "900"
+          },
+          "type": "image"
+        },
+        {
+          "width": 75,
+          "url": "images/2010/09/16/opinion/Brooks_New/Brooks_New-thumbStandard.jpg",
+          "height": 75,
+          "subtype": "thumbnail",
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2010/09/16/opinion/Brooks_New/Brooks_New-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Money Matters Less",
+        "content_kicker": "Op-Ed Columnist",
+        "kicker": "Op-Ed Columnist",
+        "print_headline": "Money Matters Less"
+      },
+      "keywords": [
+        {
+          "rank": "1",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "Campaign Finance"
+        },
+        {
+          "rank": "2",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "Citizens United v Federal Election Commission (Supreme Court Decision)"
+        },
+        {
+          "rank": "3",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Supreme Court (US)"
+        },
+        {
+          "rank": "4",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "United States Politics and Government"
+        },
+        {
+          "rank": "5",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Midterm Elections (2014)"
+        },
+        {
+          "rank": "6",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Political Action Committees"
+        },
+        {
+          "rank": "7",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Republican Party"
+        },
+        {
+          "rank": "8",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Democratic Party"
+        },
+        {
+          "rank": "9",
+          "is_major": "N",
+          "name": "glocations",
+          "value": "United States"
+        }
+      ],
+      "pub_date": "2014-10-10T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Editorial",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "firstname": "David",
+            "rank": 1,
+            "lastname": "BROOKS"
+          }
+        ],
+        "original": "By DAVID BROOKS"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "54381b3a38f0d83c143b8a5a",
+      "word_count": "806",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2010/09/16/opinion/Brooks_New/Brooks_New-articleLarge.jpg",
+        "brightness": "100",
+        "saturation": "125",
+        "hue": "151",
+        "shapes": "32"
+      }
+    },
+    {
+      "web_url": "http://op-talk.blogs.nytimes.com/2014/10/06/do-we-get-less-narcissistic-as-we-get-older/",
+      "snippet": "A study of Facebook use suggests we may become less self-obsessed as we age.",
+      "lead_paragraph": null,
+      "abstract": "A study of Facebook use suggests we may become less self-obsessed as we age.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/10/05/opinion/nyto-narcissus/nyto-narcissus-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/10/05/opinion/nyto-narcissus/nyto-narcissus-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/10/05/opinion/nyto-narcissus/nyto-narcissus-articleLarge.jpg",
+          "height": 600,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/05/opinion/nyto-narcissus/nyto-narcissus-articleLarge.jpg",
+            "xlargeheight": "600"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/10/05/opinion/nyto-narcissus/nyto-narcissus-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/05/opinion/nyto-narcissus/nyto-narcissus-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Do We Get Less Narcissistic as We Get Older?",
+        "kicker": "Op-Talk"
+      },
+      "keywords": [
+        {
+          "value": "United States",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Facebook Inc",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Age, Chronological",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "Computers and the Internet",
+          "name": "subject",
+          "rank": "2"
+        },
+        {
+          "value": "Elderly",
+          "name": "subject",
+          "rank": "3"
+        },
+        {
+          "value": "Happiness",
+          "name": "subject",
+          "rank": "4"
+        },
+        {
+          "value": "Narcissism",
+          "name": "subject",
+          "rank": "5"
+        },
+        {
+          "value": "Youth",
+          "name": "subject",
+          "rank": "6"
+        }
+      ],
+      "pub_date": "2014-10-06T14:59:42Z",
+      "document_type": "blogpost",
+      "news_desk": null,
+      "section_name": "false",
+      "subsection_name": "false",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Anna",
+            "lastname": "NORTH"
+          }
+        ],
+        "original": "By ANNA NORTH"
+      },
+      "type_of_material": "Blog",
+      "_id": "5432e75138f0d84dea7b06da",
+      "word_count": "874",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/05/opinion/nyto-narcissus/nyto-narcissus-articleLarge.jpg",
+        "brightness": "14",
+        "saturation": "135",
+        "hue": "127",
+        "shapes": "57"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/10/10/us/politics/republican-strategy-midterm-elections.html",
+      "snippet": "With four weeks to go before the midterm elections, Republicans are pointing to the Islamic State, Secret Service failings and Ebola as evidence of what they call White House incompetence.",
+      "lead_paragraph": "With four weeks to go before the midterm elections, Republicans are pointing to the Islamic State, Secret Service failings and Ebola as evidence of what they call White House incompetence.",
+      "abstract": "Political Memo: Republican strategy in final weeks leading up to midterm elections seems to be pointing to Islamic State, Secret Service failings and Ebola as proof of Obama administration incompetence; their decidedly grim message is that Pres Obama and Democrats cannot keep Americans safe from harm.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "width": 190,
+          "url": "images/2014/10/10/us/10DARKNESS1-web/10DARKNESS1-web-thumbWide-v2.jpg",
+          "height": 126,
+          "subtype": "wide",
+          "legacy": {
+            "wide": "images/2014/10/10/us/10DARKNESS1-web/10DARKNESS1-web-thumbWide-v2.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "width": 600,
+          "url": "static01.nyt.com/images/2014/10/10/us/10DARKNESS1-web/10DARKNESS1-web-articleLarge-v2.jpg",
+          "height": 322,
+          "subtype": "xlarge",
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/10/us/10DARKNESS1-web/10DARKNESS1-web-articleLarge-v2.jpg",
+            "xlargeheight": "322"
+          },
+          "type": "image"
+        },
+        {
+          "width": 75,
+          "url": "images/2014/10/10/us/10DARKNESS1-web/10DARKNESS1-web-thumbStandard-v2.jpg",
+          "height": 75,
+          "subtype": "thumbnail",
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/10/us/10DARKNESS1-web/10DARKNESS1-web-thumbStandard-v2.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Cry of G.O.P. in Campaign: All Is Dismal",
+        "content_kicker": "Political Memo",
+        "kicker": "Political Memo",
+        "print_headline": "Cry of G.O.P. in Campaign: All Is Dismal"
+      },
+      "keywords": [
+        {
+          "rank": "1",
+          "is_major": "N",
+          "name": "subject",
+          "value": "United States Politics and Government"
+        },
+        {
+          "rank": "11",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Elections"
+        },
+        {
+          "rank": "2",
+          "is_major": "Y",
+          "name": "glocations",
+          "value": "United States"
+        },
+        {
+          "rank": "3",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "Political Advertising"
+        },
+        {
+          "rank": "4",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Republican Party"
+        },
+        {
+          "rank": "5",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Midterm Elections (2014)"
+        },
+        {
+          "rank": "6",
+          "is_major": "N",
+          "name": "persons",
+          "value": "Obama, Barack"
+        },
+        {
+          "rank": "7",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Secret Service"
+        },
+        {
+          "rank": "8",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Islamic State in Iraq and Syria (ISIS)"
+        },
+        {
+          "rank": "9",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Ebola Virus"
+        },
+        {
+          "rank": "10",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Terrorism"
+        }
+      ],
+      "pub_date": "2014-10-10T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "National",
+      "section_name": "U.S.",
+      "subsection_name": "Politics",
+      "byline": {
+        "person": [
+          {
+            "firstname": "Jeremy",
+            "middlename": "W.",
+            "lastname": "PETERS",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By JEREMY W. PETERS"
+      },
+      "type_of_material": "News",
+      "_id": "5438039838f0d83c143b7ec2",
+      "word_count": "1235",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/10/us/10DARKNESS1-web/10DARKNESS1-web-articleLarge-v2.jpg",
+        "brightness": "84",
+        "saturation": "43",
+        "hue": "106",
+        "shapes": "120"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/10/10/us/pentagons-web-timeline-brings-back-vietnam-and-protesters-.html",
+      "snippet": "The website for the Pentagon’s Vietnam War anniversary commemoration largely describes a war of valor and honor that would be unrecognizable to many of the Americans who fought in and against it.",
+      "lead_paragraph": "The website for the Pentagon’s Vietnam War anniversary commemoration largely describes a war of valor and honor that would be unrecognizable to many of the Americans who fought in and against it.",
+      "abstract": "Pentagon is planning 50th anniversary commemoration of the Vietnam War; effort, which is expected to cost taxpayers nearly $15 million by the end of 2014 fiscal year, is intended to honor veterans; leading Vietnam historians complain, however, that website focuses on dozens of medal-winning soldiers while giving scant mention to mistakes by generals and years of violent protests and anguished debate at home.",
+      "print_page": "1",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "width": 190,
+          "url": "images/2014/10/10/us/JP-PENTAGON1/JP-PENTAGON1-thumbWide.jpg",
+          "height": 126,
+          "subtype": "wide",
+          "legacy": {
+            "wide": "images/2014/10/10/us/JP-PENTAGON1/JP-PENTAGON1-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "width": 600,
+          "url": "static01.nyt.com/images/2014/10/10/us/JP-PENTAGON1/JP-PENTAGON1-articleLarge.jpg",
+          "height": 400,
+          "subtype": "xlarge",
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/10/us/JP-PENTAGON1/JP-PENTAGON1-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "width": 75,
+          "url": "images/2014/10/10/us/JP-PENTAGON1/JP-PENTAGON1-thumbStandard.jpg",
+          "height": 75,
+          "subtype": "thumbnail",
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/10/us/JP-PENTAGON1/JP-PENTAGON1-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Paying Respects, Pentagon Revives Vietnam, and War Over Truth ",
+        "print_headline": "Paying Respects, Pentagon Revives Vietnam, and War Over Truth"
+      },
+      "keywords": [
+        {
+          "rank": "1",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "Vietnam War"
+        },
+        {
+          "rank": "2",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "Veterans"
+        },
+        {
+          "rank": "3",
+          "is_major": "N",
+          "name": "subject",
+          "value": "United States Defense and Military Forces"
+        },
+        {
+          "rank": "4",
+          "is_major": "N",
+          "name": "organizations",
+          "value": "Defense Department"
+        },
+        {
+          "rank": "5",
+          "is_major": "N",
+          "name": "glocations",
+          "value": "Vietnam"
+        },
+        {
+          "rank": "6",
+          "is_major": "N",
+          "name": "glocations",
+          "value": "United States"
+        },
+        {
+          "rank": "7",
+          "is_major": "N",
+          "name": "persons",
+          "value": "Ellsberg, Daniel"
+        },
+        {
+          "rank": "8",
+          "is_major": "N",
+          "name": "persons",
+          "value": "Hayden, Tom (1939- )"
+        },
+        {
+          "rank": "9",
+          "is_major": "N",
+          "name": "persons",
+          "value": "Kicklighter, Claude M"
+        }
+      ],
+      "pub_date": "2014-10-10T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "National",
+      "section_name": "U.S.",
+      "subsection_name": null,
+      "byline": {
+        "person": [
+          {
+            "firstname": "Sheryl",
+            "middlename": "Gay",
+            "lastname": "STOLBERG",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By SHERYL GAY STOLBERG"
+      },
+      "type_of_material": "News",
+      "_id": "54381c9638f0d83c143b8b2f",
+      "word_count": "1263",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/10/us/JP-PENTAGON1/JP-PENTAGON1-articleLarge.jpg",
+        "brightness": "90",
+        "saturation": "108",
+        "hue": "54",
+        "shapes": "98"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/07/us/politics/congresss-light-pre-election-schedule-matches-legislative-goals.html",
+      "snippet": "Passing a stopgap spending bill and keeping the Export-Import Bank open are among the modest objectives that lawmakers have set this month.",
+      "lead_paragraph": "Passing a stopgap spending bill and keeping the Export-Import Bank open are among the modest objectives that lawmakers have set this month.",
+      "abstract": "Members of Congress return to Capitol with as few as seven legislative days remaining before they return home for November midterm elections; legislators have set modest goals for their return, in keeping with brief time period.",
+      "print_page": "17",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/07/us/07CONG-sub/07CONG-sub-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/07/us/07CONG-sub/07CONG-sub-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/07/us/07CONG-sub/07CONG-sub-articleLarge.jpg",
+          "height": 372,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/07/us/07CONG-sub/07CONG-sub-articleLarge.jpg",
+            "xlargeheight": "372"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/07/us/07CONG-sub/07CONG-sub-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/07/us/07CONG-sub/07CONG-sub-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Light Pre-Election Schedule in Congress Matches Legislative Goals",
+        "print_headline": "Light Pre-Election Schedule in Congress Matches Legislative Goals"
+      },
+      "keywords": [
+        {
+          "value": "United States",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "House of Representatives",
+          "is_major": "N",
+          "rank": "3",
+          "name": "organizations"
+        },
+        {
+          "value": "Republican Party",
+          "is_major": "N",
+          "rank": "4",
+          "name": "organizations"
+        },
+        {
+          "value": "Senate",
+          "is_major": "N",
+          "rank": "5",
+          "name": "organizations"
+        },
+        {
+          "value": "Democratic Party",
+          "is_major": "N",
+          "rank": "6",
+          "name": "organizations"
+        }
+      ],
+      "pub_date": "2014-09-07T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "National",
+      "section_name": "U.S.",
+      "subsection_name": "Politics",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Jonathan",
+            "lastname": "WEISMAN"
+          }
+        ],
+        "original": "By JONATHAN WEISMAN"
+      },
+      "type_of_material": "News",
+      "_id": "540b86e738f0d85e13e4c604",
+      "word_count": "959",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/07/us/07CONG-sub/07CONG-sub-articleLarge.jpg",
+        "brightness": "203",
+        "saturation": "38",
+        "hue": "148",
+        "shapes": "57"
       }
     }
   ]

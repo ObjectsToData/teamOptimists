@@ -127,7 +127,7 @@
         "brightness": "43",
         "saturation": "204",
         "hue": "15",
-        "shapes": "Count"
+        "shapes": "119"
       }
     },
     {
@@ -269,10 +269,10 @@
       "word_count": "1308",
       "enrichment": {
         "url": "static01.nyt.com/images/2014/10/09/business/WALDORF/WALDORF-articleLarge-v2.jpg",
-        "brightness": "43",
-        "saturation": "204",
-        "hue": "15",
-        "shapes": "Count"
+        "brightness": "null",
+        "saturation": "null",
+        "hue": "null",
+        "shapes": "null"
       }
     },
     {
@@ -1953,6 +1953,991 @@
         "saturation": "113",
         "hue": "24",
         "shapes": "86"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/12/world/asia/suicide-cases-across-china-tied-to-drive-against-graft.html",
+      "snippet": "Some researchers suspect the suicides may be linked to an anticorruption campaign begun last year by President Xi Jinping, the toughest in decades.",
+      "lead_paragraph": "Some researchers suspect the suicides may be linked to an anticorruption campaign begun last year by President Xi Jinping, the toughest in decades.",
+      "abstract": "Researchers suspect that spate of suicides by Chinese officials may be linked to anti-corruption campaign that began in 2013 by Pres Xi Jinping, toughest in decades; about 30 officials have killed themselves so far in 2014.",
+      "print_page": "4",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/12/world/12suicide1/12suicide1-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/12/world/12suicide1/12suicide1-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/12/world/12suicide1/12suicide1-articleLarge.jpg",
+          "height": 450,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/12/world/12suicide1/12suicide1-articleLarge.jpg",
+            "xlargeheight": "450"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/12/world/12suicide1/12suicide1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/12/world/12suicide1/12suicide1-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Spate of Suicides by Chinese Officials Tied to Drive Against Graft",
+        "print_headline": "Suicide Cases Across China Tied to Drive Against Graft"
+      },
+      "keywords": [
+        {
+          "value": "China",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Suicides and Suicide Attempts",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Corruption (Institutional)",
+          "is_major": "N",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Xi Jinping",
+          "is_major": "N",
+          "rank": "4",
+          "name": "persons"
+        },
+        {
+          "value": "Hubei Province (China)",
+          "is_major": "N",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "Communist Party of China",
+          "is_major": "N",
+          "rank": "6",
+          "name": "organizations"
+        }
+      ],
+      "pub_date": "2014-09-12T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "contributor": "Chen Jiehao contributed research from Beijing and Xiaogan, and Zhang Yu’nan from Beijing.",
+        "person": [
+          {
+            "firstname": "Didi",
+            "middlename": "Kirsten",
+            "lastname": "TATLOW",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By DIDI KIRSTEN TATLOW"
+      },
+      "type_of_material": "News",
+      "_id": "541231df38f0d832853e8728",
+      "word_count": "1426",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/12/world/12suicide1/12suicide1-articleLarge.jpg",
+        "brightness": "124",
+        "saturation": "13",
+        "hue": "18",
+        "shapes": "174"
+      }
+    },
+    {
+      "web_url": "http://sinosphere.blogs.nytimes.com/2014/09/12/thieves-follow-the-money-to-corrupt-officials-homes/",
+      "snippet": "Corrupt officials make ideal targets: They are known to keep large supplies of cash in their residences and are reluctant to report thefts for fear of a graft investigation.",
+      "lead_paragraph": null,
+      "abstract": "Corrupt officials make ideal targets: They are known to keep large supplies of cash in their residences and are reluctant to report thefts for fear of a graft investigation.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/12/world/12sino-ROBBERY/12sino-ROBBERY-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/12/world/12sino-ROBBERY/12sino-ROBBERY-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/12/world/12sino-ROBBERY/12sino-ROBBERY-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/12/world/12sino-ROBBERY/12sino-ROBBERY-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/12/world/12sino-ROBBERY/12sino-ROBBERY-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/12/world/12sino-ROBBERY/12sino-ROBBERY-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Thieves Follow the Money to Corrupt Officials' Homes",
+        "kicker": "Sinosphere"
+      },
+      "keywords": [
+        {
+          "value": "Sutton, Willie",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "Xi Jinping",
+          "name": "persons",
+          "rank": "2"
+        },
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Beijing News, The",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "China Daily",
+          "name": "organizations",
+          "rank": "2"
+        },
+        {
+          "value": "Corruption (Institutional)",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "Robberies and Thefts",
+          "name": "subject",
+          "rank": "2"
+        }
+      ],
+      "pub_date": "2014-09-12T06:25:23Z",
+      "document_type": "blogpost",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Austin",
+            "lastname": "RAMZY"
+          }
+        ],
+        "original": "By AUSTIN RAMZY"
+      },
+      "type_of_material": "Blog",
+      "_id": "5412ca5d38f0d832853e889a",
+      "word_count": "516",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/12/world/12sino-ROBBERY/12sino-ROBBERY-articleLarge.jpg",
+        "brightness": "144",
+        "saturation": "54",
+        "hue": "50",
+        "shapes": "17"
+      }
+    },
+    {
+      "web_url": "http://sinosphere.blogs.nytimes.com/2014/09/08/murong-xuecun-says-he-is-target-of-twitter-smear-campaign/",
+      "snippet": "Articles that are being spread on Twitter portray Murong Xuecun, a prominent author and critic of the Communist Party, as a sexually promiscuous, wife-beating, money-hungry hypocrite.",
+      "lead_paragraph": null,
+      "abstract": "Articles that are being spread on Twitter portray Murong Xuecun, a prominent author and critic of the Communist Party, as a sexually promiscuous, wife-beating, money-hungry hypocrite.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/05/world/05sino-XUECUN/05sino-XUECUN-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/05/world/05sino-XUECUN/05sino-XUECUN-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/05/world/05sino-XUECUN/05sino-XUECUN-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/05/world/05sino-XUECUN/05sino-XUECUN-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/05/world/05sino-XUECUN/05sino-XUECUN-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/05/world/05sino-XUECUN/05sino-XUECUN-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Murong Xuecun Says He Is Target of Twitter Smear Campaign",
+        "kicker": "Sinosphere"
+      },
+      "keywords": [
+        {
+          "value": "Murong Xuecun",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "Beijing (China)",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "2"
+        },
+        {
+          "value": "Tiananmen Square (Beijing)",
+          "name": "glocations",
+          "rank": "3"
+        },
+        {
+          "value": "Communist Party of China",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Twitter",
+          "name": "organizations",
+          "rank": "2"
+        },
+        {
+          "value": "Censorship",
+          "name": "subject",
+          "rank": "1"
+        }
+      ],
+      "pub_date": "2014-09-08T00:27:54Z",
+      "document_type": "blogpost",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Mia",
+            "lastname": "LI"
+          }
+        ],
+        "original": "By MIA LI"
+      },
+      "type_of_material": "Blog",
+      "_id": "540d309b38f0d85bf2515471",
+      "word_count": "412",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/05/world/05sino-XUECUN/05sino-XUECUN-articleLarge.jpg",
+        "brightness": "59",
+        "saturation": "59",
+        "hue": "130",
+        "shapes": "35"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/15/opinion/chinas-environmental-awakening.html",
+      "snippet": "The Chinese are beginning to wonder whether industrial progress has come at too high a cost to the environment.",
+      "lead_paragraph": "The Chinese are beginning to wonder whether industrial progress has come at too high a cost to the environment.",
+      "abstract": null,
+      "print_page": "",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/15/opinion/15gardner/15gardner-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/15/opinion/15gardner/15gardner-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/15/opinion/15gardner/15gardner-articleLarge.jpg",
+          "height": 654,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/15/opinion/15gardner/15gardner-articleLarge.jpg",
+            "xlargeheight": "654"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/15/opinion/15gardner/15gardner-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/15/opinion/15gardner/15gardner-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "China's Environmental Awakening",
+        "kicker": "Op-Ed Contributor",
+        "print_headline": "China's Environmental Awakening",
+        "content_kicker": "Op-Ed Contributor"
+      },
+      "keywords": [
+        {
+          "value": "Environment",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Air Pollution",
+          "is_major": "N",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "China",
+          "is_major": "N",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Beijing (China)",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        },
+        {
+          "value": "Communist Party of China",
+          "is_major": "N",
+          "rank": "5",
+          "name": "organizations"
+        },
+        {
+          "value": "Rivers",
+          "is_major": "N",
+          "rank": "6",
+          "name": "subject"
+        },
+        {
+          "value": "Coal",
+          "is_major": "N",
+          "rank": "7",
+          "name": "subject"
+        },
+        {
+          "value": "Polls and Public Opinion",
+          "is_major": "N",
+          "rank": "8",
+          "name": "subject"
+        },
+        {
+          "value": "Hazardous and Toxic Substances",
+          "is_major": "N",
+          "rank": "9",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-09-15T12:30:00Z",
+      "document_type": "article",
+      "news_desk": "OpEd",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "firstname": "Daniel",
+            "middlename": "K.",
+            "lastname": "GARDNER",
+            "rank": 1,
+            "role": "reported",
+            "organization": ""
+          }
+        ],
+        "original": "By DANIEL K. GARDNER"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "5416172538f0d85fde323d8d",
+      "word_count": "1049",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/15/opinion/15gardner/15gardner-articleLarge.jpg",
+        "brightness": "244",
+        "saturation": "0",
+        "hue": "0",
+        "shapes": "14"
+      }
+    },
+    {
+      "web_url": "http://sinosphere.blogs.nytimes.com/2014/09/30/at-martyrs-day-ceremony-solemnity-and-goose-stepping/",
+      "snippet": "Led by President Xi Jinping and the other six members of the Politburo Standing Committee, the 15-minute event was meant to draw attention to those who sacrificed for China’s freedom from foreign aggression.",
+      "lead_paragraph": null,
+      "abstract": "Led by President Xi Jinping and the other six members of the Politburo Standing Committee, the 15-minute event was meant to draw attention to those who sacrificed for China’s freedom from foreign aggression.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/30/world/30sino-matyr02/30sino-matyr02-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/30/world/30sino-matyr02/30sino-matyr02-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/30/world/30sino-matyr02/30sino-matyr02-articleLarge.jpg",
+          "height": 356,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/30/world/30sino-matyr02/30sino-matyr02-articleLarge.jpg",
+            "xlargeheight": "356"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/30/world/30sino-matyr02/30sino-matyr02-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/30/world/30sino-matyr02/30sino-matyr02-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "At Martyrs' Day Ceremony,  Solemnity and Goose-Stepping",
+        "kicker": "Sinosphere"
+      },
+      "keywords": [
+        {
+          "value": "Xi Jinping",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "Beijing (China)",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "2"
+        },
+        {
+          "value": "Tiananmen Square (Beijing)",
+          "name": "glocations",
+          "rank": "3"
+        },
+        {
+          "value": "Communist Party of China",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Politburo Standing Committee of the Communist Party of China",
+          "name": "organizations",
+          "rank": "2"
+        }
+      ],
+      "pub_date": "2014-09-30T01:23:33Z",
+      "document_type": "blogpost",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Ian",
+            "lastname": "JOHNSON"
+          }
+        ],
+        "original": "By IAN JOHNSON"
+      },
+      "type_of_material": "Blog",
+      "_id": "542a3e8738f0d83564f6779f",
+      "word_count": "299",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/30/world/30sino-matyr02/30sino-matyr02-articleLarge.jpg",
+        "brightness": "228",
+        "saturation": "5",
+        "hue": "70",
+        "shapes": "23"
+      }
+    },
+    {
+      "web_url": "http://sinosphere.blogs.nytimes.com/2014/09/09/chinese-state-broadcaster-gets-its-american-rices-confused/",
+      "snippet": "China Central Television used images of Condoleezza Rice in a report about a Beijing visit by Susan E. Rice, President Obama’s national security adviser.",
+      "lead_paragraph": null,
+      "abstract": "China Central Television used images of Condoleezza Rice in a report about a Beijing visit by Susan E. Rice, President Obama’s national security adviser.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/09/world/09sino-rice01/09sino-rice01-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/09/world/09sino-rice01/09sino-rice01-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/09/world/09sino-rice01/09sino-rice01-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/09/world/09sino-rice01/09sino-rice01-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/09/world/09sino-rice01/09sino-rice01-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/09/world/09sino-rice01/09sino-rice01-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Chinese State Broadcaster Gets Its American Rices Confused",
+        "kicker": "Sinosphere"
+      },
+      "keywords": [
+        {
+          "value": "Obama, Barack",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "Rice, Condoleezza",
+          "name": "persons",
+          "rank": "2"
+        },
+        {
+          "value": "Rice, Susan E",
+          "name": "persons",
+          "rank": "3"
+        },
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "China Central Television",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "United States International Relations",
+          "name": "subject",
+          "rank": "1"
+        }
+      ],
+      "pub_date": "2014-09-09T05:18:31Z",
+      "document_type": "blogpost",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Austin",
+            "lastname": "RAMZY"
+          }
+        ],
+        "original": "By AUSTIN RAMZY"
+      },
+      "type_of_material": "Blog",
+      "_id": "540ec62638f0d863ce5a5374",
+      "word_count": "84",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/09/world/09sino-rice01/09sino-rice01-articleLarge.jpg",
+        "brightness": "164",
+        "saturation": "48",
+        "hue": "85",
+        "shapes": "136"
+      }
+    },
+    {
+      "web_url": "http://sinosphere.blogs.nytimes.com/2014/09/11/in-china-a-search-for-oscar-contenders/",
+      "snippet": "“Gone with the Bullets,” “Coming Home” and “Wolf Totem” are attracting notice as possible Academy Award entrants. A film from mainland China has yet to win an Oscar, and officials are eager for the cultural validation that the award would...",
+      "lead_paragraph": null,
+      "abstract": "“Gone with the Bullets,” “Coming Home” and “Wolf Totem” are attracting notice as possible Academy Award entrants. A film from mainland China has yet to win an Oscar, and officials are eager for the cultural validation that the award would bring.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/11/world/11sino-film02/11sino-film02-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/11/world/11sino-film02/11sino-film02-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/11/world/11sino-film02/11sino-film02-articleLarge.jpg",
+          "height": 400,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/11/world/11sino-film02/11sino-film02-articleLarge.jpg",
+            "xlargeheight": "400"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/11/world/11sino-film02/11sino-film02-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/11/world/11sino-film02/11sino-film02-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "In China, a Search for Oscar Contenders ",
+        "kicker": "Sinosphere"
+      },
+      "keywords": [
+        {
+          "value": "Annaud, Jean-Jacques",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "Bale, Christian",
+          "name": "persons",
+          "rank": "2"
+        },
+        {
+          "value": "Dalai Lama",
+          "name": "persons",
+          "rank": "3"
+        },
+        {
+          "value": "Feng Xiaogang",
+          "name": "persons",
+          "rank": "4"
+        },
+        {
+          "value": "Gong Li",
+          "name": "persons",
+          "rank": "5"
+        },
+        {
+          "value": "Harrer, Heinrich",
+          "name": "persons",
+          "rank": "6"
+        },
+        {
+          "value": "Jia Zhang Ke",
+          "name": "persons",
+          "rank": "7"
+        },
+        {
+          "value": "Jiang Rong",
+          "name": "persons",
+          "rank": "8"
+        },
+        {
+          "value": "Jiang Wen",
+          "name": "persons",
+          "rank": "9"
+        },
+        {
+          "value": "Zhang Yimou",
+          "name": "persons",
+          "rank": "10"
+        },
+        {
+          "value": "Cannes (France)",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "China",
+          "name": "glocations",
+          "rank": "2"
+        },
+        {
+          "value": "Communist Party of China",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Academy Awards (Oscars)",
+          "name": "subject",
+          "rank": "1"
+        },
+        {
+          "value": "Cannes International Film Festival",
+          "name": "subject",
+          "rank": "2"
+        },
+        {
+          "value": "Movies",
+          "name": "subject",
+          "rank": "3"
+        }
+      ],
+      "pub_date": "2014-09-11T05:14:23Z",
+      "document_type": "blogpost",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Asia Pacific",
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Edward",
+            "lastname": "WONG"
+          }
+        ],
+        "original": "By EDWARD WONG"
+      },
+      "type_of_material": "Blog",
+      "_id": "5411687f38f0d80f2952277c",
+      "word_count": "1622",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/11/world/11sino-film02/11sino-film02-articleLarge.jpg",
+        "brightness": "147",
+        "saturation": "144",
+        "hue": "37",
+        "shapes": "18"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/10/05/travel/decoding-etiquette-in-china-handshakes-to-meals.html",
+      "snippet": "The author Eden Collinsworth, who has researched Chinese culture, shares what she’s learned.",
+      "lead_paragraph": "The author Eden Collinsworth, who has researched Chinese culture, shares what she’s learned.",
+      "abstract": "Travel Q&A with author Eden Collinsworth, who discusses what she has learned about Chinese culture.",
+      "print_page": "3",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "width": 190,
+          "url": "images/2014/10/05/travel/05QNA1/05QNA1-thumbWide.jpg",
+          "height": 126,
+          "subtype": "wide",
+          "legacy": {
+            "wide": "images/2014/10/05/travel/05QNA1/05QNA1-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "width": 600,
+          "url": "static01.nyt.com/images/2014/10/05/travel/05QNA1/05QNA1-articleLarge.jpg",
+          "height": 399,
+          "subtype": "xlarge",
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/05/travel/05QNA1/05QNA1-articleLarge.jpg",
+            "xlargeheight": "399"
+          },
+          "type": "image"
+        },
+        {
+          "width": 75,
+          "url": "images/2014/10/05/travel/05QNA1/05QNA1-thumbStandard.jpg",
+          "height": 75,
+          "subtype": "thumbnail",
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/05/travel/05QNA1/05QNA1-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Decoding Etiquette in China, Handshakes to Meals",
+        "content_kicker": "Q&A",
+        "kicker": "Q&A",
+        "print_headline": "Chinese for Faux Pas? Ask Eden Collinsworth."
+      },
+      "keywords": [
+        {
+          "rank": "1",
+          "is_major": "Y",
+          "name": "subject",
+          "value": "Travel and Vacations"
+        },
+        {
+          "rank": "2",
+          "is_major": "Y",
+          "name": "persons",
+          "value": "Collinsworth, Eden"
+        },
+        {
+          "rank": "3",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Customs, Etiquette and Manners"
+        },
+        {
+          "rank": "4",
+          "is_major": "N",
+          "name": "subject",
+          "value": "Business Travel"
+        },
+        {
+          "rank": "5",
+          "is_major": "N",
+          "name": "creative_works",
+          "value": "I Stand Corrected: How Teaching Western Manners in China Became Its Own Unforgettable Lesson (Book)"
+        },
+        {
+          "rank": "6",
+          "is_major": "Y",
+          "name": "glocations",
+          "value": "China"
+        }
+      ],
+      "pub_date": "2014-10-05T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Travel",
+      "section_name": "Travel",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "firstname": "Emily",
+            "rank": 1,
+            "lastname": "BRENNAN"
+          }
+        ],
+        "original": "By EMILY BRENNAN"
+      },
+      "type_of_material": "Question",
+      "_id": "542dd6ab38f0d87d7534cfc0",
+      "word_count": "704",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/05/travel/05QNA1/05QNA1-articleLarge.jpg",
+        "brightness": "82",
+        "saturation": "30",
+        "hue": "30",
+        "shapes": "24"
       }
     }
   ]

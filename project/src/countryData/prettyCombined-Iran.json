@@ -108,7 +108,7 @@
         "brightness": "178",
         "saturation": "83",
         "hue": "29",
-        "shapes": "Count"
+        "shapes": "47"
       }
     },
     {
@@ -237,7 +237,7 @@
         "brightness": "20",
         "saturation": "153",
         "hue": "30",
-        "shapes": "47"
+        "shapes": "43"
       }
     },
     {
@@ -335,7 +335,7 @@
         "brightness": "69",
         "saturation": "54",
         "hue": "61",
-        "shapes": "43"
+        "shapes": "162"
       }
     },
     {
@@ -447,7 +447,7 @@
         "brightness": "38",
         "saturation": "102",
         "hue": "77",
-        "shapes": "162"
+        "shapes": "62"
       }
     },
     {
@@ -554,7 +554,7 @@
         "brightness": "39",
         "saturation": "111",
         "hue": "139",
-        "shapes": "62"
+        "shapes": "9"
       }
     },
     {
@@ -684,7 +684,7 @@
         "brightness": "129",
         "saturation": "117",
         "hue": "151",
-        "shapes": "9"
+        "shapes": "24"
       }
     },
     {
@@ -802,7 +802,7 @@
         "brightness": "150",
         "saturation": "56",
         "hue": "47",
-        "shapes": "24"
+        "shapes": "19"
       }
     },
     {
@@ -1018,7 +1018,7 @@
         "brightness": "94",
         "saturation": "51",
         "hue": "28",
-        "shapes": "19"
+        "shapes": "68"
       }
     },
     {
@@ -1135,7 +1135,7 @@
         "brightness": "179",
         "saturation": "32",
         "hue": "125",
-        "shapes": "68"
+        "shapes": "59"
       }
     },
     {
@@ -1246,7 +1246,7 @@
         "brightness": "126",
         "saturation": "138",
         "hue": "149",
-        "shapes": "59"
+        "shapes": "62"
       }
     },
     {
@@ -1363,7 +1363,7 @@
         "brightness": "219",
         "saturation": "48",
         "hue": "146",
-        "shapes": "62"
+        "shapes": "19"
       }
     },
     {
@@ -1468,7 +1468,7 @@
         "brightness": "165",
         "saturation": "24",
         "hue": "22",
-        "shapes": "19"
+        "shapes": "43"
       }
     },
     {
@@ -1609,7 +1609,7 @@
         "brightness": "137",
         "saturation": "91",
         "hue": "26",
-        "shapes": "43"
+        "shapes": "63"
       }
     },
     {
@@ -1701,7 +1701,677 @@
         "brightness": "84",
         "saturation": "44",
         "hue": "150",
-        "shapes": "63"
+        "shapes": "50"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/video/world/middleeast/100000003152494/obama-hosts-netanyahu.html",
+      "snippet": "Prime Minister Benjamin Netanyahu of Israel warned President Obama against signing a nuclear deal with Iran during a meeting at the White House.",
+      "lead_paragraph": "Prime Minister Benjamin Netanyahu of Israel warned President Obama against signing a nuclear deal with Iran during a meeting at the White House.",
+      "abstract": null,
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/10/02/world/02NETANYAHU/02NETANYAHU-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/10/02/world/02NETANYAHU/02NETANYAHU-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/10/02/world/02NETANYAHU/02NETANYAHU-articleLarge.jpg",
+          "height": 420,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/10/02/world/02NETANYAHU/02NETANYAHU-articleLarge.jpg",
+            "xlargeheight": "420"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/10/02/world/02NETANYAHU/02NETANYAHU-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/10/02/world/02NETANYAHU/02NETANYAHU-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Obama Hosts Netanyahu"
+      },
+      "keywords": [
+        {
+          "value": "United States Politics and Government",
+          "is_major": "N",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Obama, Barack",
+          "is_major": "N",
+          "rank": "2",
+          "name": "persons"
+        },
+        {
+          "value": "Iran",
+          "is_major": "N",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Israel",
+          "is_major": "N",
+          "rank": "4",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-10-02T10:49:45Z",
+      "document_type": "multimedia",
+      "news_desk": "World / Middle East",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "person": [],
+        "original": "Reuters",
+        "organization": "Reuters"
+      },
+      "type_of_material": "Video",
+      "_id": "542d662538f0d86190c459bd",
+      "word_count": "23",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/10/02/world/02NETANYAHU/02NETANYAHU-articleLarge.jpg",
+        "brightness": "86",
+        "saturation": "63",
+        "hue": "31",
+        "shapes": "36"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/08/08/movies/fifi-howls-from-happiness-from-mitra-farahani.html",
+      "snippet": "“Fifi Howls From Happiness” brings Bahman Mohassess out from obscurity.",
+      "lead_paragraph": "“Fifi Howls From Happiness” brings Bahman Mohassess out from obscurity.",
+      "abstract": "Manohla Dargis reviews film Fifi Howls From Happiness, directed by Mitra Farahani.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/08/08/arts/08FIFI/08FIFI-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/08/08/arts/08FIFI/08FIFI-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/08/08/arts/08FIFI/08FIFI-articleLarge.jpg",
+          "height": 337,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/08/08/arts/08FIFI/08FIFI-articleLarge.jpg",
+            "xlargeheight": "337"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/08/08/arts/08FIFI/08FIFI-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/08/08/arts/08FIFI/08FIFI-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "seo": "‘Fifi Howls From Happiness,’ From Mitra Farahani",
+        "main": "Artist Comes Cackling Back to the Limelight",
+        "kicker": "Movie Review | 'Fifi Howls From Happiness'",
+        "print_headline": "Artist Comes Cackling Back to the Limelight",
+        "content_kicker": "Movie Review"
+      },
+      "keywords": [
+        {
+          "value": "Art",
+          "is_major": "N",
+          "rank": "5",
+          "name": "subject"
+        },
+        {
+          "value": "Mohassess, Bahman",
+          "is_major": "N",
+          "rank": "3",
+          "name": "persons"
+        },
+        {
+          "value": "Iran",
+          "is_major": "N",
+          "rank": "6",
+          "name": "glocations"
+        },
+        {
+          "value": "Movies",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Farahani, Mitra",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "persons"
+        },
+        {
+          "value": "Documentary Films and Programs",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-08-08T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Weekend",
+      "section_name": "Movies",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Manohla",
+            "lastname": "DARGIS"
+          }
+        ],
+        "original": "By MANOHLA DARGIS"
+      },
+      "type_of_material": "Review",
+      "_id": "53e3ea0038f0d832aed404b4",
+      "word_count": "737",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/08/08/arts/08FIFI/08FIFI-articleLarge.jpg",
+        "brightness": "64",
+        "saturation": "90",
+        "hue": "16",
+        "shapes": "47"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/08/08/world/middleeast/iran-washington-post-journalist-arrest.html",
+      "snippet": "The arrest of Jason Rezaian of The Washington Post has alarmed the foreign press corps and highlights the split between Iran’s president and the state institutions that hold the real power.",
+      "lead_paragraph": "The arrest of Jason Rezaian of The Washington Post has alarmed the foreign press corps and highlights the split between Iran’s president and the state institutions that hold the real power.",
+      "abstract": "Arrest of Iranian-American Jason Rezaian of The Washington Post, along with his journalist wife Yeganeh Salehi, by Iranian authorities alarms the foreign press corps and highlights split between Iran’s Pres Hassan Rouhani and state institutions that hold the real power; Post says it has not been given any explanation for Rezaian's arrest or any information on his condition.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/08/08/world/IRAN/IRAN-thumbWide-v2.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/08/08/world/IRAN/IRAN-thumbWide-v2.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/08/08/world/IRAN/IRAN-articleLarge.jpg",
+          "height": 911,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/08/08/world/IRAN/IRAN-articleLarge.jpg",
+            "xlargeheight": "911"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/08/08/world/IRAN/IRAN-thumbStandard-v2.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/08/08/world/IRAN/IRAN-thumbStandard-v2.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "seo": "Jason Rezaian of Washington Post and Wife Still Held",
+        "main": "A U.S. Journalist’s Arrest Points to a Power Struggle in the Leadership of Iran",
+        "print_headline": "A U.S. Journalist’s Arrest Points to a Power Struggle in the Leadership of Iran"
+      },
+      "keywords": [
+        {
+          "value": "Iran",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "News and News Media",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "subject"
+        },
+        {
+          "value": "Rezaian, Jason",
+          "is_major": "Y",
+          "rank": "3",
+          "name": "persons"
+        },
+        {
+          "value": "Rouhani, Hassan",
+          "is_major": "N",
+          "rank": "4",
+          "name": "persons"
+        },
+        {
+          "value": "Washington Post",
+          "is_major": "Y",
+          "rank": "5",
+          "name": "organizations"
+        },
+        {
+          "value": "Salehi, Yeganeh",
+          "is_major": "Y",
+          "rank": "6",
+          "name": "persons"
+        }
+      ],
+      "pub_date": "2014-08-08T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Foreign",
+      "section_name": "World",
+      "subsection_name": "Middle East",
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Thomas",
+            "lastname": "ERDBRINK"
+          }
+        ],
+        "original": "By THOMAS ERDBRINK"
+      },
+      "type_of_material": "News",
+      "_id": "53e37c6c38f0d81ea91a38c1",
+      "word_count": "1291",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/08/08/world/IRAN/IRAN-articleLarge.jpg",
+        "brightness": "178",
+        "saturation": "83",
+        "hue": "29",
+        "shapes": "47"
+      }
+    },
+    {
+      "web_url": "http://takingnote.blogs.nytimes.com/2014/09/18/iran-and-the-coalition-of-repenters/",
+      "snippet": "Mohammad Javad Zarif suggested that the U.S. was making common cause with the countries who helped the Islamic State grow into a global threat.",
+      "lead_paragraph": null,
+      "abstract": "Mohammad Javad Zarif suggested that the U.S. was making common cause with the countries who helped the Islamic State grow into a global threat.",
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/18/opinion/9182014zarif/9182014zarif-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/18/opinion/9182014zarif/9182014zarif-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/18/opinion/9182014zarif/9182014zarif-articleLarge.jpg",
+          "height": 352,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/18/opinion/9182014zarif/9182014zarif-articleLarge.jpg",
+            "xlargeheight": "352"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/18/opinion/9182014zarif/9182014zarif-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/18/opinion/9182014zarif/9182014zarif-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Iran and the &lsquo;Coalition of Repenters&rsquo;",
+        "kicker": "Taking Note"
+      },
+      "keywords": [
+        {
+          "value": "Zarif, Mohammad Javad",
+          "name": "persons",
+          "rank": "1"
+        },
+        {
+          "value": "Iran",
+          "name": "glocations",
+          "rank": "1"
+        },
+        {
+          "value": "Syria",
+          "name": "glocations",
+          "rank": "2"
+        },
+        {
+          "value": "General Assembly (UN)",
+          "name": "organizations",
+          "rank": "1"
+        },
+        {
+          "value": "Sunni Muslims",
+          "name": "subject",
+          "rank": "1"
+        }
+      ],
+      "pub_date": "2014-09-18T14:56:36Z",
+      "document_type": "blogpost",
+      "news_desk": "OpEd",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Carol",
+            "lastname": "GIACOMO"
+          }
+        ],
+        "original": "By CAROL GIACOMO"
+      },
+      "type_of_material": "Blog",
+      "_id": "541b2c0d38f0d8296cb0f336",
+      "word_count": "453",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/18/opinion/9182014zarif/9182014zarif-articleLarge.jpg",
+        "brightness": "185",
+        "saturation": "253",
+        "hue": "135",
+        "shapes": "14"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/08/05/opinion/haleh-esfandiari-jason-rezaians-arrest-in-iran-is-a-ploy-to-weaken-rouhani.html",
+      "snippet": "Iran’s president must fight the hard-liners’ effort to make him look powerless.",
+      "lead_paragraph": "Iran’s president must fight the hard-liners’ effort to make him look powerless.",
+      "abstract": null,
+      "print_page": null,
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/08/05/opinion/05esfandiari/05esfandiari-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/08/05/opinion/05esfandiari/05esfandiari-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/08/05/opinion/05esfandiari/05esfandiari-articleLarge.jpg",
+          "height": 405,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/08/05/opinion/05esfandiari/05esfandiari-articleLarge.jpg",
+            "xlargeheight": "405"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/08/05/opinion/05esfandiari/05esfandiari-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/08/05/opinion/05esfandiari/05esfandiari-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "seo": "Jason Rezaian’s Arrest in Iran Is a Ploy to Weaken Rouhani",
+        "main": "Jailing a Journalist to Shame Rouhani",
+        "kicker": "Op-Ed Contributor",
+        "print_headline": "Jailing a Journalist to Shame Rouhani",
+        "content_kicker": "Op-Ed Contributor"
+      },
+      "keywords": [
+        {
+          "value": "News and News Media",
+          "is_major": "N",
+          "rank": "3",
+          "name": "subject"
+        },
+        {
+          "value": "Iran",
+          "is_major": "N",
+          "rank": "1",
+          "name": "glocations"
+        },
+        {
+          "value": "Rouhani, Hassan",
+          "is_major": "N",
+          "rank": "2",
+          "name": "persons"
+        },
+        {
+          "value": "Prisons and Prisoners",
+          "is_major": "N",
+          "rank": "4",
+          "name": "subject"
+        }
+      ],
+      "pub_date": "2014-08-05T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "OpEd",
+      "section_name": "Opinion",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Haleh",
+            "lastname": "ESFANDIARI"
+          }
+        ],
+        "original": "By HALEH ESFANDIARI"
+      },
+      "type_of_material": "Op-Ed",
+      "_id": "53df5cb838f0d828c6bf0be0",
+      "word_count": "1033",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/08/05/opinion/05esfandiari/05esfandiari-articleLarge.jpg",
+        "brightness": "181",
+        "saturation": "49",
+        "hue": "40",
+        "shapes": "24"
+      }
+    },
+    {
+      "web_url": "http://www.nytimes.com/2014/09/27/nyregion/hoping-to-fight-this-time-to-be-a-benefactor.html",
+      "snippet": "Mr. Barkley, known in his boxing heyday as the Blade, is driven to fight again at age 54 to help a niece who has lung cancer and to improve his own finances.",
+      "lead_paragraph": "Mr. Barkley, known in his boxing heyday as the Blade, is driven to fight again at age 54 to help a niece who has lung cancer and to improve his own finances.",
+      "abstract": "Iran Barkley, Bronx native known in his boxing heyday as the Blade, is driven to fight again at age 54 to help his niece who is fighting lung cancer and to improve his own finances; his last sanctioned professional fight was 15 years ago.",
+      "print_page": "18",
+      "blog": [],
+      "source": "The New York Times",
+      "multimedia": [
+        {
+          "subtype": "wide",
+          "url": "images/2014/09/27/nyregion/27BOXER1/27BOXER1-thumbWide.jpg",
+          "height": 126,
+          "width": 190,
+          "legacy": {
+            "wide": "images/2014/09/27/nyregion/27BOXER1/27BOXER1-thumbWide.jpg",
+            "wideheight": "126",
+            "widewidth": "190"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "xlarge",
+          "url": "static01.nyt.com/images/2014/09/27/nyregion/27BOXER1/27BOXER1-articleLarge.jpg",
+          "height": 394,
+          "width": 600,
+          "legacy": {
+            "xlargewidth": "600",
+            "xlarge": "images/2014/09/27/nyregion/27BOXER1/27BOXER1-articleLarge.jpg",
+            "xlargeheight": "394"
+          },
+          "type": "image"
+        },
+        {
+          "subtype": "thumbnail",
+          "url": "images/2014/09/27/nyregion/27BOXER1/27BOXER1-thumbStandard.jpg",
+          "height": 75,
+          "width": 75,
+          "legacy": {
+            "thumbnailheight": "75",
+            "thumbnail": "images/2014/09/27/nyregion/27BOXER1/27BOXER1-thumbStandard.jpg",
+            "thumbnailwidth": "75"
+          },
+          "type": "image"
+        }
+      ],
+      "headline": {
+        "main": "Iran Barkley Is Hoping to Fight Again, This Time to Be a Benefactor",
+        "print_headline": "To Be a Benefactor, if Not a Contender"
+      },
+      "keywords": [
+        {
+          "value": "Boxing",
+          "is_major": "Y",
+          "rank": "1",
+          "name": "subject"
+        },
+        {
+          "value": "Barkley, Iran",
+          "is_major": "Y",
+          "rank": "2",
+          "name": "persons"
+        },
+        {
+          "value": "Bronx (NYC)",
+          "is_major": "N",
+          "rank": "3",
+          "name": "glocations"
+        },
+        {
+          "value": "Gleason's Gym",
+          "is_major": "N",
+          "rank": "4",
+          "name": "organizations"
+        },
+        {
+          "value": "Brooklyn (NYC)",
+          "is_major": "N",
+          "rank": "5",
+          "name": "glocations"
+        },
+        {
+          "value": "Hearns, Thomas",
+          "is_major": "N",
+          "rank": "6",
+          "name": "persons"
+        },
+        {
+          "value": "New York City",
+          "is_major": "N",
+          "rank": "7",
+          "name": "glocations"
+        }
+      ],
+      "pub_date": "2014-09-27T00:00:00Z",
+      "document_type": "article",
+      "news_desk": "Metro",
+      "section_name": "N.Y. / Region",
+      "subsection_name": null,
+      "byline": {
+        "contributor": "",
+        "person": [
+          {
+            "organization": "",
+            "role": "reported",
+            "rank": 1,
+            "firstname": "Corey",
+            "lastname": "KILGANNON"
+          }
+        ],
+        "original": "By COREY KILGANNON"
+      },
+      "type_of_material": "News",
+      "_id": "542606d738f0d862dbf4e9a6",
+      "word_count": "1023",
+      "enrichment": {
+        "url": "static01.nyt.com/images/2014/09/27/nyregion/27BOXER1/27BOXER1-articleLarge.jpg",
+        "brightness": "101",
+        "saturation": "72",
+        "hue": "93",
+        "shapes": "96"
       }
     }
   ]

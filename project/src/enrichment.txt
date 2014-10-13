@@ -14,6 +14,9 @@ list = split(liststr,"\n");
 
 f = File.open(dir + "countryData/" + "processedData" + country[0] + ".txt");
 
+// to account for errors
+errorOnList = 0;
+
 setBatchMode(true); 
 
 run("Set Measurements...", "  standard median display redirect=None decimal=2");
@@ -22,6 +25,11 @@ for (i=0; i<list.length; i++) {
 	path = dir+list[i];
 	open(path);
 	id=getImageID;
+
+	brightness_median="null";
+	saturation_median="null";
+	hue_median="null";
+	shape_count="null";
 
 	// if image format is 24-bit RGB, measure it
 	if (bitDepth==24) {
@@ -33,19 +41,19 @@ for (i=0; i<list.length; i++) {
 		run("Convert Stack to Images");
 
 		selectWindow("Brightness");
-		//rename(list[i] + "/brightness");
+		// rename(list[i] + "/brightness");
 		run("Measure");
 		brightness_median= getResult("Median");
 		close(); // close the active image - "Brightness")
 
 		selectWindow("Saturation");
-		//rename(list[i] + "/saturation");
+		// rename(list[i] + "/saturation");
 		run("Measure");
 		saturation_median = getResult("Median");
 		close(); // close the active image - "Saturation")
 
 		selectWindow("Hue");
-		//rename(list[i] + "/hue");
+		// rename(list[i] + "/hue");
 		run("Measure");
 		hue_median = getResult("Median");
 		close(); // close the active image - "Hue")
@@ -57,9 +65,11 @@ for (i=0; i<list.length; i++) {
 		
 		run("Analyze Particles...", "size=10-Infinity circularity=0.00-1.00 show=Nothing include summarize");
 
+		shape_count = "none";
+
 		selectWindow("Summary"); 
 	   	lines = split(getInfo(), "\n");
-	   	values = split(lines[i], "\t");
+	   	values = split(lines[i+1-errorOnList], "\t");
 	   	shape_count = values[1]; // Select count
 		close();
 	}
@@ -67,6 +77,7 @@ for (i=0; i<list.length; i++) {
 	// if image format is not 24-bit RGB, print the name of the file without saving measurements
 	else {
 		print("wrong format:" + "\t" + list[i]);
+		errorOnList= errorOnList + 1;
 	}
 
 	
