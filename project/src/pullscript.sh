@@ -40,6 +40,7 @@ do
 	echo ".\c"
 	else
 	echo "100 page reached"
+	let totalcount=$totalcount+$imgRequest
 	fi
 
 	# wait 0.2 seconds between request to not overload the server
