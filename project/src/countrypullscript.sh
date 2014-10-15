@@ -1,8 +1,6 @@
 imageRequest=$1
 
 country=("United+States" "China" "Iran" "Lebanon" "Egypt" "Qatar" "Turkey" "Afghanistan" "Syria" "South+Korea")
-# country=("Iran" "Lebanon" "Egypt" "Qatar" "Turkey" "Afghanistan" "Syria" "South+Korea")
-
 
 totalCountries=10
 
