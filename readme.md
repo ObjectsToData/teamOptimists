@@ -1,4 +1,7 @@
-# Teamoptimists - Dataset construction and enrichment script
+# Teamoptimists - Representation of the Orient in the NY-Times
+
+
+Dataset construction and enrichment script
 
 Howto:
 sh countrypullscript.sh (amout, for instance 10)
@@ -12,9 +15,14 @@ Dependencies:
 - curl
 - java
 
+Data visualisation script: 
+please find the readme for this script in the repository about visualisation. 
 
-Why run this script? 
 
+
+
+
+What this project is about: 
 
 This project allows you to find out how 'The Orient' is represented in the database of the NY-times.
 
